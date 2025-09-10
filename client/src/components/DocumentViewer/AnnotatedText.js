@@ -225,17 +225,10 @@ const AnnotatedText = ({
         </div>
       )}
 
-
-      {/* Word Hover Tooltip */}
-      // {hoveredWord && (
-      //   <WordTooltip
-      //     word={hoveredWord}
-      //     position={mousePosition}
-      //   />
-      // )}
     </div>
   );
 };
 
 
 export default AnnotatedText;
+
