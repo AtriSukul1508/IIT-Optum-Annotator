@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { getAllDocuments } from '../../services/api';
-import LoadingSpinner from '../Common/LoadingSpinner';
-import ErrorMessage from '../Common/ErrorMessage';
+import LoadingSpinner from '../Utils/LoadingSpinner';
+import ErrorMessage from '../Utils/ErrorMessage';
 import './DocumentList.css';
 
 const DocumentList = () => {
@@ -87,5 +87,6 @@ const DocumentList = () => {
     </div>
   );
 };
+
 
 export default DocumentList;
