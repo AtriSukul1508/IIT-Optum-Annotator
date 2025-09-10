@@ -4,6 +4,8 @@ import { updateAnnotation, addAnnotation, deleteAnnotation } from '../../service
 import CloseIcon from '@mui/icons-material/Close';
 import { fetchCuiFromUMLS } from '../../services/umlsAPI';
 import BiotechIcon from '@mui/icons-material/Biotech';
+import SaveIcon from '@mui/icons-material/Save';
+
 
 const AnnotationPanel = ({ 
   annotations, 
@@ -19,7 +21,11 @@ const AnnotationPanel = ({
   const [editMode, setEditMode] = useState(false);
   const [addMode, setAddMode] = useState(false);
   const [editData, setEditData] = useState({});
+
+  
   const [searchError, setSearchError] = useState("");
+  const [searchResults, setSearchResults] = useState([]);
+
   const [newAnnotationData, setNewAnnotationData] = useState({
     user: 'med_term_extract',
     cui: '',
@@ -42,7 +48,6 @@ const AnnotationPanel = ({
   });
   const [loading, setLoading] = useState(false);
 
-  // Auto-open add mode when text is selected
   useEffect(() => {
     if (selectedTextData && !editMode) {
       setAddMode(true);
@@ -127,6 +132,8 @@ const AnnotationPanel = ({
     resetNewAnnotationData();
     updateSelectedTextData(null);
     setSearchError("");
+    setSearchResults([]);
+
   };
 
   // Handle Add New Mode
@@ -262,7 +269,8 @@ const AnnotationPanel = ({
           Add New
         </button>
       </div>
-      
+      <div className="annotation-panel-body">
+      {!addMode && !selectedAnnotation && 
       <div className="annotations-list">
         {annotations.map((annotation) => (
           <div
@@ -297,7 +305,7 @@ const AnnotationPanel = ({
             </div>
           </div>
         ))}
-      </div>
+      </div>}
 
       {/* Add New Form */}
       {addMode && (
@@ -343,14 +351,16 @@ const AnnotationPanel = ({
               />
             </div>
 
-            <div className="form-group">
+
+            <div className="form-group" style={{ position: "relative" }}>
               <label>Identifier (CUI) *</label>
               <div style={{ position: "relative", display: "inline-block", width: "100%" }}>
                 <input
                   type="text"
                   value={currentData.cui || ''}
                   onChange={(e) => {
-                    setSearchError(""); // clear error when typing
+                    setSearchError("");
+                    setSearchResults([]); // clear dropdown when typing manually
                     handleInputChange('cui', e.target.value);
                   }}
                   placeholder="e.g., C0006142"
@@ -358,23 +368,26 @@ const AnnotationPanel = ({
                   autoFocus={selectedTextData ? true : false}
                   style={{
                     width: "100%",
-                    paddingRight: "40px" // make room for the icon inside
+                    paddingRight: "40px" // leave space for the icon
                   }}
                 />
 
+                {/* Microscope button inside input */}
                 <button
                   type="button"
                   onClick={async () => {
                     try {
                       setLoading(true);
                       setSearchError("");
-                      const cui = await fetchCuiFromUMLS(currentData.value);
-                      if (cui) {
-                        handleInputChange("cui", cui);
+                      const results = await fetchCuiFromUMLS(currentData.value);
+                      if (results.length > 0) {
+                        setSearchResults(results);   // ⬅️ show dropdown here
                       } else {
-                        setSearchError("No CUI found for this term.");
+                        setSearchResults([]);
+                        setSearchError("No CUIs found for this term.");
                       }
                     } catch (err) {
+                      setSearchResults([]);
                       setSearchError(err.message || "Error fetching CUI.");
                     } finally {
                       setLoading(false);
@@ -398,18 +411,72 @@ const AnnotationPanel = ({
                 </button>
               </div>
 
-              {/* Helper text */}
-              <small style={{ display: "block", color: "#555", marginTop: "4px",fontStyle:'italic' }}>
+              {/* Inline helper text */}
+              {!searchResults.length > 0 && <small style={{ display: "block", color: "#555", marginTop: "4px",fontStyle:"italic" }}>
                 Click the icon to search the CUI for <span style={{color:"red",padding:0,background:"none"}}>{currentData.value}</span> in UMLS
-              </small>
+              </small>}
 
-              {/* Inline error message */}
+              {/* Inline error */}
               {searchError && (
                 <div style={{ color: "red", marginTop: "4px" }}>
                   {searchError}
                 </div>
               )}
+
+              {/* Dropdown results below input */}
+              {searchResults.length > 0 && (
+                <div
+                  style={{
+                    marginTop: "6px",
+                    border: "1px solid #ccc",
+                    borderRadius: "6px",
+                    background: "#fff",
+                    maxHeight: "200px",
+                    overflowY: "auto",
+                    boxShadow: "0 2px 6px rgba(0,0,0,0.15)"
+                  }}
+                >
+                  {searchResults.map((res, idx) => (
+                    <div
+                      key={idx}
+                      style={{
+                        display: "flex",
+                        justifyContent: "space-between",
+                        alignItems: "center",
+                        padding: "6px 10px",
+                        borderBottom: "1px solid #eee",
+                        fontStyle:'italic',
+                        fontSize:'14px'
+                      }}
+                    >
+                      <div>
+                        {res.name}<br />
+                        <small style={{ color: "#555" }}>{res.cui}</small>
+                      </div>
+                      <button
+                        type="button"
+                        onClick={() => {
+                          handleInputChange("cui", res.cui);
+                          setSearchResults([]); // close dropdown after insert
+                        }}
+                        style={{
+                          color: "#1976d2",
+                          border: "none",
+                          borderRadius: "4px",
+                          padding: "4px 8px",
+                          cursor: "pointer"
+                        }}
+                        title="Insert this CUI"
+                      >
+                        <SaveIcon/>
+                      </button>
+                    </div>
+                  ))}
+                </div>
+              )}
             </div>
+
+
 
 
 
@@ -683,7 +750,7 @@ const AnnotationPanel = ({
             )}
           </div>
 
-          {/* <div className="annotation-actions-bottom">
+          <div className="annotation-actions-bottom">
             <button 
               onClick={() => handleDelete()} 
               className="btn-danger"
@@ -691,9 +758,10 @@ const AnnotationPanel = ({
             >
               {loading ? 'Deleting...' : 'Delete'}
             </button>
-          </div> */}
+          </div>
         </div>
       )}
+      </div>
     </div>
   );
 };
