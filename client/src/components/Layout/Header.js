@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
+import logo from '../../assets/logo.png';
 
 const Header = () => {
   const location = useLocation();
@@ -23,7 +24,10 @@ const Header = () => {
     fontSize: '1.5rem',
     fontWeight: 'bold',
     textDecoration: 'none',
-    color: 'white'
+    color: 'white',
+    display:'flex',
+    justifyContent:'space-between',
+    alignItems:'center'
   };
 
   const breadcrumbStyle = {
@@ -40,7 +44,7 @@ const Header = () => {
     <header style={headerStyle}>
       <nav style={navStyle}>
         <Link to="/" style={logoStyle}>
-          IITM Optum Annotator
+          <img src={logo} width="40px" height="40px"/>IITM Optum Annotator
         </Link>
         <div style={breadcrumbStyle}>
           {location.pathname === '/' ? (
