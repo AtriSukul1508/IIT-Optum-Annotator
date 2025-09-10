@@ -227,14 +227,15 @@ const AnnotatedText = ({
 
 
       {/* Word Hover Tooltip */}
-      {hoveredWord && (
-        <WordTooltip
-          word={hoveredWord}
-          position={mousePosition}
-        />
-      )}
+      // {hoveredWord && (
+      //   <WordTooltip
+      //     word={hoveredWord}
+      //     position={mousePosition}
+      //   />
+      // )}
     </div>
   );
 };
+
 
 export default AnnotatedText;
