@@ -1,0 +1,695 @@
+.document-viewer {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.document-viewer-header {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.back-link {
+  color: #4a90e2;
+  text-decoration: none;
+  font-size: 14px;
+  margin-bottom: 10px;
+  display: inline-block;
+}
+
+.back-link:hover {
+  text-decoration: underline;
+}
+
+.document-viewer-header h1 {
+  color: #2c3e50;
+  margin: 10px 0;
+  font-size: 1.8rem;
+  font-weight: 600;
+}
+
+.document-meta {
+  display: flex;
+  gap: 20px;
+  color: #6c757d;
+  font-size: 14px;
+}
+
+.document-viewer-content {
+  display: grid;
+  grid-template-columns: 1fr 400px;
+  gap: 30px;
+  align-items: start;
+}
+
+.document-text-container {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.document-text-header {
+  background: #f8f9fa;
+  padding: 15px 20px;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.document-text-header h2 {
+  margin: 0;
+  color: #495057;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+.document-text {
+  padding: 20px;
+  line-height: 1.6;
+  font-family: 'Georgia', serif;
+  font-size: 14px;
+  max-height: 600px;
+  overflow-y: auto;
+}
+
+.annotated-text {
+  position: relative;
+}
+
+.regular-text {
+  color: #2c3e50;
+}
+
+.hoverable-word {
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.hoverable-word:hover {
+  background-color: rgba(74, 144, 226, 0.1);
+}
+
+.highlighted-text {
+  padding: 2px 4px;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
+}
+.delete-icon {
+  position: absolute;
+  top: -18px;
+  right: 0;
+  display: none;
+  color: red;
+  background: white;
+  border-radius: 50%;
+  padding: 2px;
+  cursor: pointer;
+}
+
+.highlighted-text:hover .delete-icon {
+  display: inline-flex;
+}
+
+.highlighted-text.status-confirmed {
+  background-color: rgba(40, 167, 69, 0.2);
+  border: 1px solid rgba(40, 167, 69, 0.4);
+}
+
+.highlighted-text.status-other {
+  background-color: rgba(255, 193, 7, 0.2);
+  border: 1px solid rgba(255, 193, 7, 0.4);
+}
+
+.highlighted-text.status-rejected {
+  background-color: rgba(220, 53, 69, 0.2);
+  border: 1px solid rgba(220, 53, 69, 0.4);
+}
+
+.highlighted-text.selected {
+  box-shadow: 0 0 0 1px #4a90e2;
+  transform: scale(1.02);
+}
+
+.highlighted-text:hover {
+  transform: scale(1.01);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.annotation-panel-container {
+  position: sticky;
+  top: 20px;
+}
+
+.annotation-panel {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.annotation-panel-header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+  background: #eff0f0;
+  border-bottom: 1px solid #e9ecef;
+  border-radius: 8px 8px 0 0;
+}
+
+.annotation-panel h3 {
+  margin: 0;
+  padding: 15px 20px;
+  color: #495057;
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.annotations-list {
+  flex: 1;
+  overflow-y: auto;
+  max-height: 300px;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.annotation-item {
+  padding: 12px 20px;
+  border-bottom: 1px solid #f0f0f0;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.annotation-item:hover {
+  background-color: #f8f9fa;
+}
+
+.annotation-item.selected {
+  background-color: #e3f2fd;
+  border-left: 3px solid #4a90e2;
+}
+
+.annotation-value {
+  font-weight: 500;
+  color: #2c3e50;
+  margin-bottom: 4px;
+}
+
+.annotation-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 12px;
+}
+
+.annotation-cui {
+  color: #6c757d;
+  font-family: monospace;
+}
+
+.annotation-status {
+  padding: 2px 6px;
+  border-radius: 3px;
+  font-size: 10px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.annotation-status.status-confirmed {
+  background-color: rgba(40, 167, 69, 0.2);
+  color: #28a745;
+}
+
+.annotation-status.status-other {
+  background-color: rgba(255, 193, 7, 0.2);
+  color: #ffc107;
+}
+
+.annotation-details {
+  padding: 20px;
+  overflow-y: auto;
+}
+
+.annotation-details-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.annotation-details-header h4 {
+  margin: 0;
+  color: #2c3e50;
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+.annotation-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.btn-edit, .btn-save, .btn-cancel {
+  padding: 6px 12px;
+  border: none;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.btn-edit {
+  background-color: #FEC401;
+  color: black;
+}
+
+.btn-edit:hover {
+  background-color: #e1ad04;
+}
+
+.btn-save {
+  background-color: #28a745;
+  color: white;
+}
+
+.btn-save:hover {
+  background-color: #218838;
+}
+
+.btn-cancel {
+  background-color: #6c757d;
+  color: white;
+}
+
+.btn-cancel:hover {
+  background-color: #545b62;
+}
+
+.annotation-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.form-group label {
+  font-size: 12px;
+  color: #5ba8ec;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.form-group input,
+.form-group select {
+  padding: 8px 12px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.form-group input:focus,
+.form-group select:focus {
+  outline: none;
+  border-color: #4a90e2;
+}
+
+.form-group span {
+  padding: 8px 12px;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+  font-size: 14px;
+  color: #495057;
+}
+
+.status-badge {
+  display: inline-block;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+}
+
+.status-badge.status-confirmed {
+  background-color: rgba(40, 167, 69, 0.2);
+  color: #28a745;
+}
+
+.status-badge.status-other {
+  background-color: rgba(255, 193, 7, 0.2);
+  color: #ffc107;
+}
+
+.annotation-actions-bottom {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+  padding-top: 15px;
+  border-top: 1px solid #e9ecef;
+}
+
+.btn-primary {
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  background-color: #357abd;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 14px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.btn-danger:hover {
+  background-color: #c82333;
+}
+
+@media (max-width: 1200px) {
+  .document-viewer-content {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  
+  .annotation-panel-container {
+    position: relative;
+    top: auto;
+  }
+  
+  .annotation-panel {
+    max-height: 800px;
+  }
+}
+
+
+/* ------------------------------------------------------------------------------------ */
+/* Additional CSS for floating buttons and enhanced UI - Add to DocumentViewer.css */
+
+/* Text selection styling */
+.annotated-text {
+  position: relative;
+  user-select: text;
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+}
+
+.annotated-text::selection {
+  background-color: rgba(74, 144, 226, 0.3);
+  color: inherit;
+}
+
+.annotated-text *::selection {
+  background-color: rgba(74, 144, 226, 0.3);
+  color: inherit;
+}
+
+/* Floating Add Button */
+.floating-add-button {
+  animation: fadeInScale 0.2s ease-out;
+}
+
+.add-annotation-btn {
+  background: linear-gradient(135deg, #28a745, #20c997);
+  color: white;
+  border: none;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(40, 167, 69, 0.4);
+  transition: all 0.2s ease;
+  font-size: 14px;
+  z-index: 1001;
+}
+
+.add-annotation-btn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 20px rgba(40, 167, 69, 0.6);
+  background: linear-gradient(135deg, #218838, #1e7e34);
+}
+
+.add-annotation-btn:active {
+  transform: scale(0.95);
+}
+
+/* Floating Delete Button */
+.floating-delete-button {
+  animation: fadeInScale 0.2s ease-out;
+}
+
+.delete-annotation-btn {
+  background: linear-gradient(135deg, #dc3545, #c82333);
+  color: white;
+  border: none;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(220, 53, 69, 0.4);
+  transition: all 0.2s ease;
+  font-size: 12px;
+  z-index: 1001;
+}
+
+.delete-annotation-btn:hover {
+  transform: scale(1.1);
+  box-shadow: 0 6px 20px rgba(220, 53, 69, 0.6);
+  background: linear-gradient(135deg, #c82333, #a71e2a);
+}
+
+.delete-annotation-btn:active {
+  transform: scale(0.95);
+}
+
+/* Enhanced annotation item with inline delete */
+.annotation-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 4px;
+}
+
+.annotation-value {
+  font-weight: 500;
+  color: #2c3e50;
+  flex: 1;
+  margin-right: 8px;
+}
+
+.inline-delete-btn {
+  background: none;
+  border: none;
+  color: #dc3545;
+  cursor: pointer;
+  padding: 4px;
+  border-radius: 3px;
+  opacity: 0.7;
+  transition: all 0.2s ease;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+}
+
+.inline-delete-btn:hover {
+  opacity: 1;
+  background-color: rgba(220, 53, 69, 0.1);
+  transform: scale(1.1);
+}
+
+.inline-delete-btn:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+}
+
+/* Selected text info styling */
+.selected-text-info {
+  background: linear-gradient(135deg, #e3f2fd, #f0f9ff);
+  border: 1px solid #4a90e2;
+  border-radius: 6px;
+  padding: 12px;
+  margin-bottom: 15px;
+  font-size: 14px;
+  line-height: 1.4;
+}
+
+.selected-text-info strong {
+  color: #2c3e50;
+}
+
+.selected-text-info small {
+  color: #6c757d;
+  font-family: monospace;
+}
+
+/* Text instructions in header */
+.text-instructions {
+  margin-top: 5px;
+  opacity: 0.7;
+}
+
+.text-instructions small {
+  color: #6c757d;
+  font-style: italic;
+}
+
+
+/* Animation keyframes */
+@keyframes fadeInScale {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) scale(1);
+  }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 4px 12px rgba(74, 144, 226, 0.4);
+  }
+  50% {
+    box-shadow: 0 6px 20px rgba(74, 144, 226, 0.8);
+  }
+}
+
+/* Enhanced form styling for better UX */
+.annotation-form input:focus {
+  transform: scale(1.01);
+}
+
+.annotation-form select:focus {
+  transform: scale(1.01);
+}
+
+/* Better spacing for annotation items */
+.annotation-item {
+  margin-bottom: 2px;
+}
+
+.annotation-item:last-child {
+  margin-bottom: 0;
+}
+
+/* Improved button group styling */
+.annotation-actions {
+  gap: 6px;
+}
+
+.annotation-actions button {
+  min-width: 70px;
+}
+
+/* Loading overlay for forms */
+.annotation-form.loading {
+  pointer-events: none;
+  opacity: 0.7;
+}
+
+/* Better responsive behavior for floating buttons */
+@media (max-width: 768px) {
+  .add-annotation-btn {
+    width: 36px;
+    height: 36px;
+  }
+  
+  .delete-annotation-btn {
+    width: 32px;
+    height: 32px;
+  }
+  
+  .floating-add-button,
+  .floating-delete-button {
+    z-index: 1002; /* Higher on mobile */
+  }
+}
+
+/* Improved selection feedback */
+.annotation-item.selected {
+  animation: selectedPulse 0.3s ease-out;
+}
+
+@keyframes selectedPulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.02);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+/* Better visual feedback for text selection */
+.document-text {
+  border: 2px solid transparent;
+  transition: border-color 0.3s ease;
+}
+
+.document-text:focus-within {
+  border-color: rgba(74, 144, 226, 0.3);
+}
+
+/* Tooltip improvements */
+.add-annotation-btn[title]:hover::after,
+.delete-annotation-btn[title]:hover::after {
+  content: attr(title);
+  position: absolute;
+  top: -35px;
+  left: 50%;
+  transform: translateX(-50%);
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 12px;
+  white-space: nowrap;
+  z-index: 1003;
+}
+
+/* Smooth transitions for all interactive elements */
+button, input, select {
+  transition: all 0.2s ease;
+}
+
+/* Enhanced focus indicators for accessibility */
+button:focus-visible,
+input:focus-visible,
+select:focus-visible {
+  outline: 2px solid #4a90e2;
+  outline-offset: 2px;
+}
