@@ -5,7 +5,8 @@ const UMLS_VERSION = "current";
 const UMLS_SABS = "NCI";
 const UMLS_STYPE = "words";
 const UMLS_API_KEY = process.env.REACT_APP_UMLS_API_KEY
-console.log(UMLS_API_KEY)
+
+
 export const fetchCuiFromUMLS = async (sourceValue) => {
   try {
     const params = new URLSearchParams({
@@ -26,7 +27,7 @@ export const fetchCuiFromUMLS = async (sourceValue) => {
     console.log(data,results)
 
     if (results.length > 0) {
-      return results[0].ui; // return first CUI like your Python version
+      return results[0].ui;
     } else {
       return null;
     }
@@ -35,3 +36,4 @@ export const fetchCuiFromUMLS = async (sourceValue) => {
     throw err;
   }
 };
+
