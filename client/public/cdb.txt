@@ -1,0 +1,5383 @@
+1/3 meter (distance vision finding)&C0475806
+130-nm albumin-bound paclitaxel&C1527223
+nab-paclitaxel&C1527223
+ADO-TRASTUZUMAB&C3643461
+Intra-abdominopelvic structure and/or anterior abdominal wall&C0000726
+abdominopelvic regions&C0000726
+Abdominopelvic region&C0000726
+Abdomen, NOS&C0000726
+abdominal&C0000726
+ABDOMEN&C0000726
+Abdomen&C0000726
+Abdominal wall structure&C0836916
+Accelerated partial breast irradiation (procedure)&C3896696
+APBI - accelerated partial breast irradiation&C3896696
+Accelerated Partial Breast Irradiation&C3896696
+APBI&C3896696
+Challenge Agent Characterization Domain&C0001246
+Actinium, NOS&C0001246
+Actinium&C0001246
+actinio&C0001246
+Effective protective ability (finding)&C2712083
+Actual Effective Protective Ability&C2712083
+Effective Protective Ability&C2712083
+RNDx individual coping impairment (diagnosis)&C1999002
+RNDx individual coping impairment&C1999002
+Ineffective coping (individual)&C1999002
+Individual Coping Impairment&C1999002
+Actual Negative Coping&C1999002
+Ineffective coping&C1999002
+Inability to cope&C1999002
+Unable (to);cope&C1999002
+Unable to cope&C1999002
+Cannot cope&C1999002
+LEUKEMIA, LYMPHOCYTIC, ACUTE&C0023449
+Leukaemias acute lymphocytic&C0023449
+Acute Lymphocytic Leukemias&C0023449
+Acute lymphocytic leukaemia&C0023449
+Leukaemia;acute lymphocytic&C0023449
+Leukemia, Acute Lymphocytic&C0023449
+ACUTE LYMPHOCYTIC LEUKEMIA&C0023449
+Acute lymphocytic leukemia&C0023449
+Acute lymphatic leukaemia&C0023449
+Acute lymphatic leukemia&C0023449
+Adenoidal structure&C0001428
+Tonsils, Pharyngeal&C0001428
+Tonsil, Pharyngeal&C0001428
+Pharyngeal Tonsil&C0001428
+Adenoid, NOS&C0001428
+Adenoidal&C0001428
+Adenoids&C0001428
+Adenoid&C0001428
+Medication compliance (observable entity)&C2364172
+Adherence To Medication Regime&C2364172
+Drug compliance good (finding)&C2364172
+Medication regimen adherence&C2364172
+Adherence, Prescription&C2364172
+Prescription Adherences&C2364172
+Medication concordance&C2364172
+Prescription Adherence&C2364172
+Adherence, Medication&C2364172
+Medication compliance&C2364172
+Drug compliance good&C2364172
+Medication Adherence&C2364172
+Adherence, Drug&C2364172
+Drug Adherence&C2364172
+adjudicative process and procedure&C0680730
+Adjudication&C0680730
+Adjuvant Radiation Therapy&C1706721
+Adjuvant Protocol&C1510810
+Adjuvant Trials&C1510810
+Adjuvant Study&C1510810
+Adjuvant Trial&C1510810
+Adjunctive therapy&C0677850
+Adjuvant Therapy&C0677850
+Adjuvant Therapy Clinical Trial Setting&C4084850
+Adolescent (age group)&C0205653
+Adolescent Youth&C0205653
+Adolescents&C0205653
+ADOLESCENT&C0205653
+pubescent&C0205653
+adrenal insufficiency (diagnosis)&C0001623
+Adrenal gland insufficiency&C0001623
+Hypofunction, Adrenal Gland&C0001623
+Adrenal gland hypofunction&C0001623
+Adrenal insufficiency, NOS&C0001623
+Adrenal insufficiency NOS&C0001623
+Hypoadrenalism (disorder)&C0001623
+Adrenal Insufficiencies&C0001623
+adrenal; insufficiency&C0001623
+insufficiency; adrenal&C0001623
+ADRENAL INSUFFICIENCY&C0001623
+INSUFFICIENCY ADRENAL&C0001623
+ADRENAL HYPOFUNCTION&C0001623
+Adrenal failure&C0001623
+Hypoadrenalism&C0001623
+Adriamycin-cyclophosphamide regimen&C1879503
+Doxorubicin/Cyclophosphamide&C1879503
+Adriamycin-Cytoxan Regimen&C1879503
+AC Regimen&C1879503
+CA Regimen&C1879503
+Advanced HER2 Low Breast Adenocarcinoma&C5555766
+Advanced HER2-Low Breast Adenocarcinoma&C5555766
+Advanced HER2 Low Breast Carcinoma&C5555766
+Advanced HER2-Low Breast Carcinoma&C5555766
+Advanced Malignant Neoplasm&C0877373
+Advanced Cancer&C0877373
+L-alanine:2-oxoglutarate aminotransferase&C0001899
+Alanine-2-Oxoglutarate Aminotransferase&C0001899
+Alanine aminotransferase (substance)&C0001899
+ALAT - Alanine aminotransferase&C0001899
+Glutamate pyruvate transaminase&C0001899
+ALT - Alanine aminotransferase&C0001899
+Transaminase, Glutamic-Alanine&C0001899
+Glutamic Alanine Transaminase&C0001899
+Glutamic Pyruvic Transaminase&C0001899
+Glutamic-Alanine Transaminase&C0001899
+Glutamic-Pyruvic Transaminase&C0001899
+Aminotransferase, Alanine&C0001899
+Alanine Aminotransferase&C0001899
+Transaminase, Alanine&C0001899
+Alanine Transaminase&C0001899
+alanine transaminase&C0001899
+alts&C0001899
+GPT&C0001899
+Hydrogen ion decrease&C0221106
+Alkalemia (disorder)&C0221106
+increasing ph&C0221106
+Acid deficit&C0221106
+increased ph&C0221106
+ELEVATED PH&C0221106
+increase ph&C0221106
+pH increase&C0221106
+Alkalaemia&C0221106
+ALKALEMIA&C0221106
+Alkalemia&C0221106
+Baseosis&C0221106
+Alkaline phosphatase (substance)&C0002059
+Alkaline phosphomonoesterase&C0002059
+ALP - Alkaline phosphatase&C0002059
+alkaline phosphatase (ALP)&C0002059
+AP - Alkaline phosphatase&C0002059
+Phosphatase, Alkaline&C0002059
+alkaline phosphatases&C0002059
+ALKALINE PHOSPHATASE&C0002059
+Alkaline Phosphatase&C0002059
+phosphomonoesterase&C0002059
+Glycerophosphatase&C0002059
+Alk Phos&C0002059
+AlkPhos&C0002059
+ALKP&C0002059
+Alpelisib-Fulvestrant Regimen&C5237483
+Alpelisib/Fulvestrant Regimen&C5237483
+Fulvestrant/Alpelisib Regimen&C5237483
+Alpelisib-Fulvestrant&C5237483
+Alpelisib/Fulvestrant&C5237483
+Piqray/Faslodex&C5237483
+ALZHEIMER'S DISEASE&C0002395
+Alzheimer's Disease&C0002395
+Alzheimers Diseases&C0002395
+Alzheimers Disease&C0002395
+Disease;Alzheimers&C0002395
+ALZHEIMER DISEASE&C0002395
+Abnormal absence of menstruation&C0002453
+Amenorrhoea, unspecified&C0002453
+Absence of menstruation&C0002453
+Amenorrhea, unspecified&C0002453
+absence; menstruation&C0002453
+MENSES LACK OF&C0002453
+lack of menses&C0002453
+Amenorrhoea&C0002453
+AMENORRHEA&C0002453
+Amenorrhea&C0002453
+amenia&C0002453
+American Society of Clinical Oncology&C1515948
+Anabolism, function (observable entity)&C0220781
+Biosynthetic Process&C0220781
+Anabolism, function&C0220781
+Biosynthesis&C0220781
+Biosynthetic&C0220781
+Biogenesis&C0220781
+Anabolism&C0220781
+Synthesis&C0220781
+Anatomic Node&C0746922
+noded&C0746922
+NODE&C0746922
+Anaemia, unspecified&C0002871
+Anemia, unspecified&C0002871
+Anemia, NOS&C0002871
+anaemias&C0002871
+ANAEMIA&C0002871
+anemias&C0002871
+ANEMIA&C0002871
+Anemia&C0002871
+Product containing angiotensin-converting enzyme inhibitor (product)&C0003015
+Angiotensin-converting enzyme inhibitor agent, NOS&C0003015
+Angiotensin I-Converting Enzyme Inhibitors&C0003015
+Antagonists, Angiotensin Converting Enzyme&C0003015
+Angiotensin Converting Enzyme Antagonists&C0003015
+Angiotensin converting enzyme--Inhibitors&C0003015
+Angiotensin-Converting Enzyme Antagonists&C0003015
+Enzyme Inhibitors, Angiotensin-Converting&C0003015
+Inhibitors, Angiotensin Converting Enzyme&C0003015
+Inhibitors, Angiotensin-Converting Enzyme&C0003015
+Angiotensin Converting Enzyme Inhibitors&C0003015
+Angiotensin-Converting Enzyme Inhibitors&C0003015
+Angiotensin Converting Enzyme Inhibitor&C0003015
+Angiotensin-Converting Enzyme Inhibitor&C0003015
+Inhibitor, Kininase II&C0003015
+Kininase II Inhibitor&C0003015
+ACE inhibitor&C0003015
+Asymmetry of the breasts&C1854013
+Breast asymmetry&C1854013
+ANISOMASTIA&C1854013
+Anisomastia&C1854013
+ANOREXIA&C0003123
+Anorexia&C0003123
+Anthracycline Antineoplastic Antibiotic&C0003234
+Anthracycline antibiotic antineoplastic&C0003234
+Chemotherapy, Cancer, Anthracyclines&C0003234
+chemotherapeutics anthracyclines&C0003234
+anthracyclines (medication)&C0003234
+Anthracycline Antibiotics&C0003234
+anthracycline antibiotic&C0003234
+Anthracycline&C0003234
+Antibodies, Monoclonal, Humanized&C2985546
+Humanized Monoclonal Antibody&C2985546
+Antibodies, Humanized&C2985546
+Humanized Antibodies&C2985546
+Antioestrogen therapy&C0854638
+therapy, antiestrogen&C0854638
+Antiestrogen Therapy&C0854638
+Chemotherapeutic Anticancer Agents&C0003392
+Agents, Cancer Chemotherapy&C0003392
+Chemotherapy Agents, Cancer&C0003392
+Drugs, Cancer Chemotherapy&C0003392
+Cancer Chemotherapy Drug&C0003392
+agents antineoplastics&C0003392
+ANTINEOPLASTIC AGENTS&C0003392
+Agent, Antineoplastic&C0003392
+Antineoplastic Agents&C0003392
+agents antineoplastic&C0003392
+Antineoplastic Agent&C0003392
+Antineoplastic Drugs&C0003392
+Drug, Antineoplastic&C0003392
+Antineoplastic Drug&C0003392
+Agents, Anticancer&C0003392
+Anticancer Agents&C0003392
+Antineoplastics&C0003392
+Antineoplastic&C0003392
+Aortic (valve) insufficiency&C0003504
+AORTIC VALVE, INSUFFICIENCY&C0003504
+Insufficiency, Aortic Valve&C0003504
+AORTIC VALVE REGURGITATION&C0003504
+Aortic Valve Insufficiency&C0003504
+Incompetence, Aortic Valve&C0003504
+Aortic valve incompetence&C0003504
+insufficiency; aortic&C0003504
+AORTIC INSUFFICIENCY&C0003504
+Aortic Regurgitation&C0003504
+Aortic Incompetence&C0003504
+Incompetence;aortic&C0003504
+Aortic valve stenosis (disorder)&C0003507
+Aortic valve stenosis, NOS&C0003507
+Stenosis of aortic valve&C0003507
+aortic valvular stenosis&C0003507
+Aortic valve--Stenosis&C0003507
+Stenoses, Aortic Valve&C0003507
+Valve Stenosis, Aortic&C0003507
+AORTIC VALVE STENOSIS&C0003507
+Aortic Valve Stenoses&C0003507
+Aortic Valve Stenosis&C0003507
+Stenosed aortic valve&C0003507
+Stenoses, Aortic&C0003507
+AORTIC STENOSIS&C0003507
+inhibition therapy, aromatase&C0280674
+Aromatase Inhibition Therapy&C0280674
+Aromatase Inhibition&C0280674
+Substance with aromatase inhibitor mechanism of action (substance)&C0593802
+Substance with aromatase inhibitor mechanism of action&C0593802
+Product containing aromatase inhibitor (product)&C0593802
+Aromatase inhibitor-containing product&C0593802
+Androstenedione Aromatase Inhibitor&C0593802
+Estrogen Synthetase Inhibitor&C0593802
+Estrogen Synthase Inhibitor&C0593802
+Inhibitors, Aromatase&C0593802
+Aromatase Inhibitors&C0593802
+Inhibitor, Aromatase&C0593802
+Aromatase Inhibitor&C0593802
+L-aspartate:2-oxoglutarate aminotransferase&C0004002
+Aspartate aminotransferase (substance)&C0004002
+Glutamate oxaloacetate transaminase&C0004002
+Transaminase, Glutamic-Oxaloacetic&C0004002
+ASAT - Aspartate aminotransferase&C0004002
+Glutamic Oxaloacetic Transaminase&C0004002
+Glutamic-Oxaloacetic Transaminase&C0004002
+Transaminase, Glutamate-Aspartate&C0004002
+glutamic aspartic transaminase&C0004002
+AST - Aspartate transaminase&C0004002
+Aminotransferases, Aspartate&C0004002
+aspartate transaminase (AST)&C0004002
+Aspartate Aminotransferase&C0004002
+Aspartate Transaminase&C0004002
+Aspartate transaminase&C0004002
+Transaminase A&C0004002
+AST&C0004002
+TELANGIECTASIA, CEREBELLO-OCULOCUTANEOUS&C0004135
+Ataxia Telangiectasia Syndrome&C0004135
+ATAXIA, TELANGIECTASIA&C0004135
+Ataxia Telangiectasia&C0004135
+Ataxia-telangiectasia&C0004135
+Louis Bar syndrome&C0004135
+Louis-Bar syndrome&C0004135
+ATD&C0004135
+Autoimmune Syndrome Type II, Polyglandular&C0085860
+POLYGLANDULAR AUTOIMMUNE SYNDROME, TYPE II&C0085860
+Autoimmune Polyglandular Syndrome Type II&C0085860
+Polyglandular Type II Autoimmune Syndrome&C0085860
+Polyglandular autoimmune syndrome type II&C0085860
+Polyglandular autoimmune syndrome, type 2&C0085860
+Syndrome, Schmidt's&C0085860
+Schmidt's Syndrome&C0085860
+Syndrome, Schmidt&C0085860
+SCHMIDT SYNDROME&C0085860
+syndrome schmidt&C0085860
+APS type 2&C0085860
+Structure of axillary fossa (body structure)&C0004454
+Axillary region structure&C0004454
+Axillary region&C0004454
+Fossa axillaris&C0004454
+Axillary fossa&C0004454
+axillary&C0004454
+armpits&C0004454
+AXILLA&C0004454
+Armpit&C0004454
+Axilla&C0004454
+Axillary lymph node structure&C0729594
+Axillary lymph node group&C0729594
+Axillary lymph node, NOS&C0729594
+Axillary Lymph Nodes&C0729594
+lymph nodes axillary&C0729594
+AXILLARY LYMPH NODE&C0729594
+axillary nodes&C0729594
+Axillary Node&C0729594
+Malignant lymphoma, B-cell type&C0079731
+Lymphomas non-Hodgkin's B-cell&C0079731
+B-cell non-Hodgkin's lymphoma&C0079731
+Non-Hodgkin's B-Cell Lymphoma&C0079731
+b cell lymphoma non hodgkin's&C0079731
+B-cell lymphoma NOS&C0079731
+Lymphomas, B-Cell&C0079731
+B-Cell Lymphomas&C0079731
+Lymphoma, B Cell&C0079731
+Lymphoma, B-Cell&C0079731
+b cell lymphomas&C0079731
+b-cell lymphomas&C0079731
+lymphoma; B-cell&C0079731
+B cell lymphoma&C0079731
+B-Cell Lymphoma&C0079731
+cell b lymphoma&C0079731
+lymphoma b-cell&C0079731
+Epothilone-B BMS 247550&C0879430
+BMS 247550&C0879430
+BMS-247550&C0879430
+BMS247550&C0879430
+Breast Cancer Type 1 Susceptibility Gene Mutation&C1511022
+Breast Cancer 1, Early Onset Gene Mutation&C1511022
+Breast Cancer 1 Gene Mutation&C1511022
+Mutation of the BRCA1 Gene&C1511022
+BROVCA1 Gene Mutation&C1511022
+BRCA1 Gene Mutation&C1511022
+BRCA1 Mutation&C1511022
+protein phosphatase 1, regulatory subunit 53&C0376571
+BRCA1/BRCA2-containing complex, subunit 1&C0376571
+BRCA1 DNA REPAIR-ASSOCIATED PROTEIN&C0376571
+BRCA1, DNA Repair Associated Gene&C0376571
+Breast Cancer 1, Early Onset Gene&C0376571
+BRCA1 DNA repair associated&C0376571
+BREAST CANCER 1 GENE&C0376571
+breast cancer 1&C0376571
+Genes, BRCA1&C0376571
+BRCA1 Genes&C0376571
+Gene, BRCA1&C0376571
+brca 1 gene&C0376571
+BRCA1 Gene&C0376571
+BRCA1 gene&C0376571
+PPP1R53&C0376571
+BRCA1&C0376571
+BRCC1&C0376571
+RNF53&C0376571
+Base sequence (finding)&C0004793
+nucleic acid sequencing&C0004793
+Sequences, Nucleotide&C0004793
+nucleic acid sequence&C0004793
+Nucleotide Sequences&C0004793
+Sequence, Nucleotide&C0004793
+Nucleotide Sequence&C0004793
+nucleotide sequenc&C0004793
+Sequences, Base&C0004793
+Base Sequences&C0004793
+Sequence, Base&C0004793
+Base Sequence&C0004793
+Seq&C0004793
+Benign phyllodes tumor (morphologic abnormality)&C0334501
+Cystosarcoma phyllodes, benign&C0334501
+Cystosarcoma phyllodes; benign&C0334501
+benign; Cystosarcoma phyllodes&C0334501
+Benign cystosarcoma phyllodes&C0334501
+Benign Phyllodes Neoplasm&C0334501
+Phyllodes tumour, benign&C0334501
+phyllodes; tumor, benign&C0334501
+tumor; phyllodes, benign&C0334501
+Benign phyllodes tumour&C0334501
+Phyllodes tumor, benign&C0334501
+fibroadenoma; phyllodes&C0334501
+phyllodes; fibroadenoma&C0334501
+Benign Phyllodes Tumor&C0334501
+Benign phyllodes tumor&C0334501
+Fibroadenoma phyllodes&C0334501
+Berenice&C2633005
+diagnostic mammogram of both breasts (procedure)&C3862928
+diagnostic mammogram of both breasts&C3862928
+Bilateral Diagnostic Mammogram&C3862928
+mammogram diagnostic bilateral&C3862928
+Biopsy - action&C0005558
+BX - Biopsy&C0005558
+Biopsy, NOS&C0005558
+Biopsies&C0005558
+Biopsy&C0005558
+Biopsy Specimen Radiography&C4527225
+Biospecimen Radiography&C4527225
+Specimen Radiography&C4527225
+Biopsy of the Nipple-Areolar Complex&C4527248
+Biopsy of Nipple and Areola&C4527248
+Biopsy of NAC&C4527248
+Biopsy Procedures on the Skin&C0150866
+Biopsy of skin procedure&C0150866
+Biopsy of Skin&C0150866
+Biosimilars&C4045974
+Biosimilar&C4045974
+ptosis (physical finding)&C0005745
+Upper eyelid drooped&C0005745
+Palpebral ptosis&C0005745
+Ptosis of eyelid&C0005745
+Drooping eyelid&C0005745
+Drooping;eyelid&C0005745
+Blepharoptosis&C0005745
+Droopy eyelids&C0005745
+Ptoses, Eyelid&C0005745
+Ptosis, Eyelid&C0005745
+drooped eyelid&C0005745
+ptosis; eyelid&C0005745
+Droopy eyelid&C0005745
+EYELID PTOSIS&C0005745
+Ptosis eyelid&C0005745
+Ptosis;eyelid&C0005745
+Ptosis&C0005745
+Bloody nipple discharge (disorder)&C0541951
+bloody nipple discharge (symptom)&C0541951
+Sanguineous nipple discharge&C0541951
+Sanguinous nipple discharge&C0541951
+bloody discharge nipples&C0541951
+Bloody nipple discharge&C0541951
+NIPPLE DISCHARGE BLOODY&C0541951
+bloody discharge nipple&C0541951
+nipple bloody discharge&C0541951
+EXUDATE NIPPLES BLOODY&C0541951
+Nipple exudate bloody&C0541951
+Body mass index procedure&C0005893
+Body tissue, NOS&C0040300
+Body tissue&C0040300
+TISSUE&C0040300
+Alimentary Bolus&C1186706
+Bone Mineral Densities&C0005938
+Mass of bone (finding)&C0005938
+Density, Bone Mineral&C0005938
+Bone Mineral Density&C0005938
+Density, Bone&C0005938
+Bone Density&C0005938
+bone masses&C0005938
+BONE MASS&C0005938
+DISEASES OF THE BONES&C0005940
+the diseases of bones&C0005940
+Disease of bone, NOS&C0005940
+Diseases of Bones&C0005940
+Osteopathia, NOS&C0005940
+Bones--Diseases&C0005940
+Disease of bone&C0005940
+Disease, Bone&C0005940
+bones disease&C0005940
+Bone Disease&C0005940
+Disease;bone&C0005940
+Osteopathia&C0005940
+Osteopathy&C0005940
+Materials, Bone Replacement&C0243003
+Replacement Materials, Bone&C0243003
+Bone Replacement Materials&C0243003
+Material, Bone Replacement&C0243003
+Replacement Material, Bone&C0243003
+Bone Replacement Material&C0243003
+Substitutes, Bone&C0243003
+Bone Substitutes&C0243003
+Substitute, Bone&C0243003
+Bone Substitute&C0243003
+Bones and Bone Tissue&C0005931
+Bone and Bones&C0005931
+Bones and Bone&C0005931
+Bone and Bone&C0005931
+Brachytherapy - action (qualifier value)&C0006098
+Contact radiation therapy procedure, NOS&C0006098
+radiation therapy radioactive source&C0006098
+Contact radiation therapy procedure&C0006098
+Internal Radiation Therapy&C0006098
+Radioisotope brachytherapy&C0006098
+Plesiotherapy radiation&C0006098
+Radiation Brachytherapy&C0006098
+Internal Radiation&C0006098
+Brachytherapy NOS&C0006098
+brachytherapies&C0006098
+Brachytherapy&C0006098
+Curietherapy&C0006098
+Breast structure (body structure)&C0006141
+Breast structure&C0006141
+Breast anatomy&C0006141
+Breasts&C0006141
+Mammary&C0006141
+Mamma&C0006141
+Breast Cancer pN1mi TNM Finding v6&C1707016
+pN1mi Carcinoma of the Breast v6&C1707016
+pN1mi Cancer of the Breast v6&C1707016
+pN1mi Carcinoma of Breast v6&C1707016
+pN1mi Breast Carcinoma v6&C1707016
+pN1mi Cancer of Breast v6&C1707016
+pN1mi Breast Cancer v6&C1707016
+familial breast cancer (diagnosis)&C0346153
+Familial Cancer of the Breast&C0346153
+Hereditary Breast Carcinoma&C0346153
+Familial Breast Carcinoma&C0346153
+Familial Cancer of Breast&C0346153
+Hereditary Breast Cancer&C0346153
+BREAST CANCER, FAMILIAL&C0346153
+Breast Cancer, Familial&C0346153
+Familial breast cancer&C0346153
+Breastfed (finding)&C0006147
+Breast Feedings&C0006147
+Breast Feeding&C0006147
+breastfeedings&C0006147
+Breastfeeding&C0006147
+breast feed&C0006147
+Breast Fed&C0006147
+breastfeed&C0006147
+Lactation&C0006147
+Breast Irradiation&C2148528
+Prosthetic breast implant (physical object)&C0179412
+Prostheses, Mammary, Internal&C0179412
+Prosthetic Implants - Breast&C0179412
+Breast Prostheses, Internal&C0179412
+Breast Prosthesis, Internal&C0179412
+Prostheses, Internal Breast&C0179412
+Prosthesis, Internal Breast&C0179412
+Internal Breast Prostheses&C0179412
+Internal Breast Prosthesis&C0179412
+Prosthetic breast implant&C0179412
+Mammary prosthesis&C0179412
+Breast prosthesis&C0179412
+Implants, Breast&C0179412
+Breast Implants&C0179412
+Implant, Breast&C0179412
+Breast Implant&C0179412
+Solid Papillary Carcinoma of the Breast&C1336027
+Breast Solid Papillary Carcinoma&C1336027
+Solid Papillary Breast Carcinoma&C1336027
+Primary Squamous Cell Carcinoma of the Breast&C1336079
+squamous cell carcinoma of breast (diagnosis)&C1336079
+Primary Squamous Cell Carcinoma of Breast&C1336079
+Primary Squamous Cell Breast Carcinoma&C1336079
+Squamous Cell Carcinoma of the Breast&C1336079
+Squamous Cell Carcinoma of Breast&C1336079
+Squamous Carcinoma of the Breast&C1336079
+Breast Squamous Cell Carcinoma&C1336079
+Squamous Cell Breast Carcinoma&C1336079
+Squamous Carcinoma of Breast&C1336079
+Squamous Breast Carcinoma&C1336079
+SCC of the Breast&C1336079
+SCC of Breast&C1336079
+Breast implant-associated anaplastic large cell lymphoma (morphologic abnormality)&C4528210
+breast implant associated anaplastic large cell lymphoma (diagnosis)&C4528210
+BIA-ALCL - breast implant-associated anaplastic large-cell lymphoma&C4528210
+Breast implant associated anaplastic large cell lymphoma (BIA-ALCL)&C4528210
+Breast implant-associated anaplastic large-cell lymphoma (disorder)&C4528210
+Breast Implant-Associated Anaplastic Large Cell Lymphoma&C4528210
+Breast implant-associated anaplastic large-cell lymphoma&C4528210
+breast implant associated anaplastic large cell lymphoma&C4528210
+lymphoma anaplastic large cell breast implant associated&C4528210
+Breast implant-associated ALCL&C4528210
+Seroma-associated ALCL&C4528210
+breast size (physical finding)&C0425782
+breast appearance size&C0425782
+Size of breast&C0425782
+breasts sized&C0425782
+breasts size&C0425782
+Breast size&C0425782
+size breast&C0425782
+Breast surgery (qualifier value)&C0851312
+Breast surgery specialty&C0851312
+Breast surgery&C0851312
+Surgery.breast&C0851312
+Tissue specimen from breast (specimen)&C0444070
+Tissue specimen from breast&C0444070
+Breast tissue sample&C0444070
+Breast tissue&C0444070
+Conservation Therapies, Breast&C0917927
+Breast Conservation Therapies&C0917927
+Breast Conservation Treatment&C0917927
+Conservation Therapy, Breast&C0917927
+Surgeries, Breast-Conserving&C0917927
+Breast Conservation Therapy&C0917927
+Breast-Conserving Surgeries&C0917927
+Surgery, Breast Conserving&C0917927
+Surgery, Breast-Conserving&C0917927
+Breast Conserving Surgery&C0917927
+Breast-Conserving Surgery&C0917927
+Surgeries, Breast-Sparing&C0917927
+Quadrantectomies, Breast&C0917927
+Breast Quadrantectomies&C0917927
+Surgery, Breast-Sparing&C0917927
+Breast-Sparing Surgery&C0917927
+Quadrantectomy, Breast&C0917927
+Breast Quadrantectomy&C0917927
+BCS&C0917927
+cancer-associated gene 1 protein, human&C1175872
+cancer-testis antigen CAGE-1, human&C1175872
+Cancer-Associated Gene 1 Protein&C1175872
+Cancer/Testis Antigen 95&C1175872
+Cancer/Testis Antigen 3&C1175872
+CAGE-1 protein, human&C1175872
+CAGE1 protein, human&C1175872
+CAGE-1&C1175872
+CAGE1&C1175872
+CT3&C1175872
+Cyclin-Dependent Kinases 4 and 6 Inhibition&C3899807
+CDK4/6 Inhibition&C3899807
+Cytokine-Inducible SH2-Containing Protein Gene&C1332762
+CYTOKINE-INDUCIBLE SH2-CONTAINING PROTEIN&C1332762
+cytokine inducible SH2 containing protein&C1332762
+cytokine inducible SH2-containing protein&C1332762
+CISH Gene&C1332762
+CISH gene&C1332762
+CIS-1&C1332762
+CISH&C1332762
+SOCS&C1332762
+CIS&C1332762
+G18&C1332762
+CNDP dipeptidase 2 (metallopeptidase M20 family)&C1539110
+NONSPECIFIC DIPEPTIDASE, CYTOSOLIC&C1539110
+cytosolic nonspecific dipeptidase&C1539110
+carnosine dipeptidase II&C1539110
+CARNOSINE DIPEPTIDASE 2&C1539110
+CARNOSINASE, TISSUE&C1539110
+CARNOSINASE 2&C1539110
+carnosinase-2&C1539110
+PEPTIDASE A&C1539110
+CNDP2 gene&C1539110
+FLJ10830&C1539110
+HsT2298&C1539110
+CNDP2&C1539110
+CPGL&C1539110
+PEPA&C1539110
+CN2&C1539110
+General body deterioration&C0006625
+cachexia (weight loss)&C0006625
+Cachexia, NOS&C0006625
+Cachectic&C0006625
+CACHEXIA&C0006625
+Cachexia&C0006625
+Wasting&C0006625
+National Cancer Burden&C1516167
+Cancer Burden&C1516167
+Neoplasm-Associated Pains&C0596240
+Neoplasm Associated Pain&C0596240
+Neoplasm-Associated Pain&C0596240
+Pain, Cancer-Associated&C0596240
+Cancer-Associated Pain&C0596240
+Pain, Neoplasm-Related&C0596240
+Neoplasm-Related Pain&C0596240
+Tumor Associated Pain&C0596240
+Pain, Oncological&C0596240
+Pain, Oncology&C0596240
+Oncology Pain&C0596240
+Cancer Pains&C0596240
+Pain, Cancer&C0596240
+Cancer Pain&C0596240
+Cancer Therapeutic Procedure&C0920425
+Malignant Neoplasm Treatment&C0920425
+Malignant Neoplasm Therapy&C0920425
+Cancer Treatment&C0920425
+cancer therapies&C0920425
+Cancer Therapy&C0920425
+Fatigue associated with malignant neoplastic disease (finding)&C4274302
+Fatigue associated with malignant neoplastic disease&C4274302
+Cancer-related Fatigue&C4274302
+Cancer-related fatigue&C4274302
+Cancer Fatigue&C4274302
+CRF&C4274302
+Lapatinib Plus Capecitabine Regimen&C4527347
+Lapatinib + Capecitabine Regimen&C4527347
+Capecitabine/Lapatinib Regimen&C4527347
+Lapatinib-Capecitabine Regimen&C4527347
+Lapatinib/Capecitabine Regimen&C4527347
+Lapatinib/Capecitabine&C4527347
+Capecitabine/Margetuximab-cmkb Regimen&C5557263
+Capecitabine-Margetuximab Regimen&C5557263
+Capecitabine/Margetuximab Regimen&C5557263
+Margetuximab/Capecitabine Regimen&C5557263
+Capecitabine/Margetuximab-cmkb&C5557263
+Margetuximab Plus Capecitabine&C5557263
+Capecitabine-Margetuximab&C5557263
+Capecitabine/Margetuximab&C5557263
+Margetuximab-Capecitabine&C5557263
+Margetuximab/Capecitabine&C5557263
+Margenza/Xeloda&C5557263
+Capecitabine/Neratinib Regimen&C5418306
+Neratinib/Capecitabine Regimen&C5418306
+Capecitabine-Neratinib&C5418306
+Capecitabine/Neratinib&C5418306
+Neratinib-Capecitabine&C5418306
+Neratinib/Capecitabine&C5418306
+Capecitabine/Nerlynx&C5418306
+Nerlynx-Capecitabine&C5418306
+Capsular Contracture&C1707264
+Carboplatin-Paclitaxel Regimen&C1880002
+Carboplatin/Paclitaxel Regimen&C1880002
+Paclitaxel-Carboplatin Regimen&C1880002
+Paclitaxel/Carboplatin Regimen&C1880002
+Carboplatin-Taxol Regimen&C1880002
+Carboplatin-Paclitaxel&C1880002
+Carboplatin/Paclitaxel&C1880002
+Paclitaxel-Carboplatin&C1880002
+Paclitaxel/Carboplatin&C1880002
+Carbo-Tax Regimen&C1880002
+Carboplatin-Taxol&C1880002
+CaT Regimen&C1880002
+PC Regimen&C1880002
+TC Regimen&C1880002
+Carcinoembryonic Antigen Family Protein&C0007082
+Carcinoembryonic antigen (substance)&C0007082
+CEA - Carcinoembryonic antigen&C0007082
+Antigen, Carcinoembryonic&C0007082
+Carcinoembryonic antigens&C0007082
+Carcinoembryonic Antigen&C0007082
+Lymphocyte antigen CD66E&C0007082
+Carcinoembryonic Ag&C0007082
+Antigens, CD66e&C0007082
+CD66e Ag&C0007082
+CD66e&C0007082
+CEA&C0007082
+Breast carcinoma NOS stage IV&C0278488
+BREAST CANCER NOS METASTATIC&C0278488
+Breast cancer NOS stage IV&C0278488
+Breast carcinoma stage IV&C0278488
+Carcinoma breast stage IV&C0278488
+breast cancer, metastatic&C0278488
+Breast cancer metastatic&C0278488
+Metastatic breast cancer&C0278488
+breast cancer, stage IV&C0278488
+Breast cancer stage IV&C0278488
+breast cancer iv stage&C0278488
+stage IV breast cancer&C0278488
+Carcinoma in situ, site unspecified&C0007099
+Intraepithelial carcinoma, NOS&C0007099
+Carcinoma, Intraepithelial&C0007099
+Intraepithelial Carcinoma&C0007099
+Carcinoma in situ tumour&C0007099
+Carcinoma in situ, NOS&C0007099
+Carcinoma in situ NOS&C0007099
+CARCINOMA IN SITU&C0007099
+Carcinoma in Situ&C0007099
+Carcinoma in-situ&C0007099
+in situ carcinoma&C0007099
+in-situ carcinoma&C0007099
+carcinoma situ&C0007099
+Cardiac monitoring (regime/therapy)&C0150496
+Monitoring Cardiac Status&C0150496
+Cardiac monitoring, NOS&C0150496
+Cardiac Monitoring&C0150496
+Cardiac monitoring&C0150496
+monitoring cardiac&C0150496
+Heart Monitoring&C0150496
+cardiac monitor&C0150496
+Cardiotoxicity (disorder)&C0876994
+Cardiac Toxicities&C0876994
+Toxicity, Cardiac&C0876994
+Cardiac Toxicity&C0876994
+Cardiotoxicities&C0876994
+Cardiotoxicity&C0876994
+CVS disease - cardiovascular system disease&C0007222
+Cardiovascular disease, unspecified&C0007222
+CARDIOVASCULAR DISORDERS, GENERAL&C0007222
+Disorder of cardiovascular system&C0007222
+CARDIOVASCULAR DISORDER (NOS)&C0007222
+DISORDER CARDIOVASCULAR (NOS)&C0007222
+cardiovascular system disease&C0007222
+CVD - cardiovascular disease&C0007222
+Cardiovascular disorder, NOS&C0007222
+Cardiovascular Disorders&C0007222
+cardiovascular; disorder&C0007222
+Cardiovascular Diseases&C0007222
+Cardiovascular disorder&C0007222
+CARDIOVASCULAR DISEASE&C0007222
+CVD, NOS&C0007222
+Cellular Expansion&C0007595
+Cellular Growth&C0007595
+cell expansion&C0007595
+growth of cell&C0007595
+Cells--Growth&C0007595
+cell growths&C0007595
+cells growth&C0007595
+Cell Growth&C0007595
+growth cell&C0007595
+Cell structure (cell structure)&C0007634
+Cellular structures&C0007634
+Cellular structure&C0007634
+Unspecified cells&C0007634
+Cells (Biology)&C0007634
+Cell structure&C0007634
+Normal cell&C0007634
+Cell Types&C0007634
+Cell Type&C0007634
+Cellular&C0007634
+THE CELL&C0007634
+Cessation&C1880019
+Cessation of smoking&C0085134
+Smokings, Giving Up&C0085134
+Cessation, Smoking&C0085134
+Smoking Cessations&C0085134
+Smoking, Giving Up&C0085134
+Up Smoking, Giving&C0085134
+Giving Up Smoking&C0085134
+Smoking Cessation&C0085134
+Smoking, Quitting&C0085134
+Smoking, Stopping&C0085134
+Quitting Smoking&C0085134
+Stopping Smoking&C0085134
+smoke cessation&C0085134
+Peas, Partridge&C1017675
+Peas, Sensitive&C1017675
+Partridge Peas&C1017675
+Pea, Partridge&C1017675
+Pea, Sensitive&C1017675
+Sensitive Peas&C1017675
+Chamaecristas&C1017675
+Partridge Pea&C1017675
+Partridgepeas&C1017675
+Sensitive Pea&C1017675
+Chamaecrista&C1017675
+Partridgepea&C1017675
+Fractionations, Chemical&C0016640
+Chemical Fractionations&C0016640
+Fractionation, Chemical&C0016640
+Chemical Fractionation&C0016640
+Chemical fractionation&C0016640
+fractionation&C0016640
+Antineoplastic chemotherapy regimen (regime/therapy)&C0392920
+chemotherapeutics regimen (treatment)&C0392920
+Antineoplastic chemotherapy regimen&C0392920
+neoplasm/cancer pharmacotherapy&C0392920
+neoplasm/cancer chemotherapy&C0392920
+chemotherapeutics regimen&C0392920
+neoplasm pharmacotherapy&C0392920
+cancer pharmacotherapy&C0392920
+chemotherapy; neoplasm&C0392920
+neoplasm; chemotherapy&C0392920
+chemotherapy regimens&C0392920
+neoplasm chemotherapy&C0392920
+Chemotherapy Regimen&C0392920
+cancer; chemotherapy&C0392920
+chemotherapy; cancer&C0392920
+Cancer chemotherapy&C0392920
+chemotherapies&C0392920
+Chemotherapy&C0392920
+chemo&C0392920
+Chemotherapy, Adjuvant&C0085533
+Drug Therapy, Adjuvant&C0085533
+Adjuvant Chemotherapy&C0085533
+Adjuvant Drug Therapy&C0085533
+Chemotherapy-Induced Alopecia&C5236021
+Computerized axial tomography of thorax&C0202823
+Computerized tomography of thorax&C0202823
+Computerized tomography, thorax&C0202823
+CT scan of chest (procedure)&C0202823
+Computed tomography of chest&C0202823
+Computerized tomogram thorax&C0202823
+C.A.T. scan of thorax&C0202823
+CT scan of the chest&C0202823
+CAT scan of thorax&C0202823
+CT scan;chest&C0202823
+chest ct scan&C0202823
+ct chest scan&C0202823
+CT of thorax&C0202823
+CT of chest&C0202823
+ct thorax&C0202823
+thorax ct&C0202823
+Chest CT&C0202823
+Chest wall structure (body structure)&C0205076
+Chest wall structure&C0205076
+Chest wall, NOS&C0205076
+Wall, Thoracic&C0205076
+Thoracic Wall&C0205076
+Wall, Chest&C0205076
+Chest Wall&C0205076
+Clinical Breast Examination&C2347781
+Co-morbid conditions&C1275743
+Comorbid Condition&C1275743
+Cognitive function: initiation (observable entity)&C0589507
+Cognitive function: initiation&C0589507
+Initiation&C0589507
+Cognitive function: planning (observable entity)&C0032074
+Cognitive function: planning&C0032074
+PLANNING&C0032074
+PLAN&C0032074
+Sexual Intercourse (Human)&C0009253
+Human Sexual Intercourse&C0009253
+Sexual intercourse, NOS&C0009253
+Intercourse (Sexual)&C0009253
+Intercourse, Sexual&C0009253
+vaginal intercourse&C0009253
+Sexual Intercourse&C0009253
+Sexual act, NOS&C0009253
+Coitus, NOS&C0009253
+Intercourse&C0009253
+Coitus&C0009253
+Colicin factor (finding)&C1257900
+Plasmids, Colicin&C1257900
+Colicin Plasmids&C1257900
+Factors, Colicin&C1257900
+Plasmid, Colicin&C1257900
+Colicin Factors&C1257900
+Colicin Plasmid&C1257900
+Factor, Colicin&C1257900
+Colicin Factor&C1257900
+Factors, Col&C1257900
+Col Factors&C1257900
+Factor, Col&C1257900
+Col Factor&C1257900
+Carcinoma of Large Intestine&C0009402
+Carcinoma of the Large Bowel&C0009402
+Cancer of Large Intestine&C0009402
+Carcinoma of Large Bowel&C0009402
+Carcinomas, Colorectal&C0009402
+Carcinoma, Colorectal&C0009402
+Colorectal Carcinomas&C0009402
+Colorectal cancer NOS&C0009402
+Large Bowel Carcinoma&C0009402
+Colorectal Carcinoma&C0009402
+carcinoma colorectal&C0009402
+Colon/rectal cancer&C0009402
+Colorectal Cancers&C0009402
+COLORECTAL CANCER&C0009402
+Chemotherapies, Combination&C0013218
+Drug Therapies, Combination&C0013218
+Therapies, Combination Drug&C0013218
+combination pharmacotherapy&C0013218
+Combination Chemotherapies&C0013218
+Combination Drug Therapies&C0013218
+Chemotherapy, Combination&C0013218
+Drug Therapy, Combination&C0013218
+Therapy, Combination Drug&C0013218
+chemotherapy combinations&C0013218
+Combination Chemotherapy&C0013218
+Combination Drug Therapy&C0013218
+chemotherapy combination&C0013218
+Drug Polytherapies&C0013218
+Drug Polytherapy&C0013218
+polychemotherapy&C0013218
+Combined Treatment Modalities&C0009429
+Modality Therapies, Combined&C0009429
+Combined Modality Therapies&C0009429
+Combined Modality Treatment&C0009429
+Modality Therapy, Combined&C0009429
+Combined Modality Therapy&C0009429
+Treatment, Multimodal&C0009429
+combination therapies&C0009429
+multimodality therapy&C0009429
+Multimodal Treatment&C0009429
+Combination therapy&C0009429
+combined treatment&C0009429
+cotreatment&C0009429
+Intercurrent Illness&C0009488
+comorbidities&C0009488
+co-morbidity&C0009488
+Comorbidity&C0009488
+CBC (complete blood count)&C0009555
+complete blood count (CBC)&C0009555
+Complete blood count, NOS&C0009555
+Blood Counts, Complete&C0009555
+Counts, Complete Blood&C0009555
+FBC - Full blood count&C0009555
+Blood Count, Complete&C0009555
+Complete Blood Counts&C0009555
+Count, Complete Blood&C0009555
+Test;full blood count&C0009555
+blood test full count&C0009555
+full blood count test&C0009555
+Complete Blood Count&C0009555
+Blood Count Tests&C0009555
+Full Blood Count&C0009555
+CBC, NOS&C0009555
+CBC&C0009555
+Extramedullary Spinal Cord Compression&C0037926
+SPINAL CORD COMPRESSION SYNDROME&C0037926
+Cord compression, unspecified&C0037926
+Spinal cord compression, NOS&C0037926
+Compression of spinal cord&C0037926
+SPINAL CORD, COMPRESSION&C0037926
+spinal cord compressions&C0037926
+Myelopathy, Compressive&C0037926
+SPINAL CORD COMPRESSION&C0037926
+compression cord spinal&C0037926
+compression spinal cord&C0037926
+compressive myelopathy&C0037926
+spinal cord; pressure&C0037926
+Cord compression NOS&C0037926
+cord compression&C0037926
+Contrast-enhanced Computed Tomography&C0742919
+Computed Tomography with Contrast&C0742919
+CT Scan with Contrast&C0742919
+contrasted ct scan&C0742919
+CT SCAN CONTRAST&C0742919
+CT with Contrast&C0742919
+contrast ct scan&C0742919
+Congenital malformation (disorder)&C0000768
+Congenital malformation, NOS&C0000768
+Congenital abnormality, NOS&C0000768
+Congenital abnormality NOS&C0000768
+Developmental Malformation&C0000768
+Abnormalities, Congenital&C0000768
+Congenital Abnormalities&C0000768
+Abnormality, Congenital&C0000768
+Congenital anomaly, NOS&C0000768
+Congenital malformation&C0000768
+Congenital Abnormality&C0000768
+Congenital Deformity&C0000768
+Developmental defect&C0000768
+Defects, Congenital&C0000768
+CONGENITAL ANOMALY&C0000768
+Congenital Defect&C0000768
+Defect, Birth&C0000768
+Birth defect&C0000768
+dysgenesis&C0000768
+deformity&C0000768
+Congenital ichthyosiform erythroderma, non-bullous&C0079154
+Congenital non bullous ichthyosiform erythroderma&C0079154
+Non-bullous congenital ichthyosiform erythroderma&C0079154
+Congenital Nonbullous Ichthyosiform Erythroderma&C0079154
+Nonbullous Congenital Ichthyosiform Erythroderma&C0079154
+Erythroderma Ichthyosiformes, Nonbullous&C0079154
+Erythroderma Ichthyosiforme, Nonbullous&C0079154
+Nonbullous Erythroderma Ichthyosiformes&C0079154
+Nonbullous Erythroderma Ichthyosiforme&C0079154
+Congenital ichthyosiform erythroderma&C0079154
+Ichthyosis, congenital, nonblistering&C0079154
+Congenital non-bullous ichthyosis&C0079154
+Congenital lamellar ichthyosis&C0079154
+Erythrodermic ichthyosis&C0079154
+Ichthyosis lammellaris&C0079154
+Ichthyoses, Lamellar&C0079154
+Ichthyosis, Lamellar&C0079154
+Ichthyose, Lamellar&C0079154
+Lamellar Ichthyosis&C0079154
+Collodion baby&C0079154
+CIE&C0079154
+Diseases and Syndromes of Connective Tissue&C0009782
+Disorder of connective tissue (disorder)&C0009782
+connective tissue disorder diagnosis&C0009782
+DISEASES OF THE CONNECTIVE TISSUES&C0009782
+Disorder of connective tissue&C0009782
+Connective tissues--Diseases&C0009782
+Connective Tissue Disorders&C0009782
+Diseases, Connective Tissue&C0009782
+Connective Tissue Diseases&C0009782
+Connective tissue disorder&C0009782
+Disease, Connective Tissue&C0009782
+CONNECTIVE TISSUE DISEASE&C0009782
+Barrier Methods, Contraceptive&C0004764
+Barrier Method, Contraceptive&C0004764
+barrier contraceptives method&C0004764
+barrier method contraception&C0004764
+Contraception, Barrier&C0004764
+Barrier Contraception&C0004764
+barrier methods&C0004764
+barrier method&C0004764
+Inhibition of Fertilization&C0700589
+contraceptives methods&C0700589
+Contraceptive Methods&C0700589
+Contraceptive methods&C0700589
+Birth control method&C0700589
+contraceptive method&C0700589
+control fertility&C0700589
+birth controls&C0700589
+contraceptions&C0700589
+BIRTH CONTROL&C0700589
+Contraception&C0700589
+Contraindicated (qualifier value)&C1444657
+Contra-indicated&C1444657
+Contraindicated&C1444657
+Contralateral (qualifier value)&C0441988
+Contralateral&C0441988
+Core biopsy needle, device (physical object)&C1289798
+Core biopsy needle, device&C1289798
+biopsies core needle&C1289798
+biopsy coring needle&C1289798
+Core biopsy needle&C1289798
+biopsy core needle&C1289798
+needle core biopsy&C1289798
+Core needle biopsy (procedure)&C1318309
+Large-Core Needle Biopsies&C1318309
+Biopsy, Large-Core Needle&C1318309
+Large Core Needle Biopsy&C1318309
+Large-Core Needle Biopsy&C1318309
+Core needle biopsy, NOS&C1318309
+Biopsies, Core Needle&C1318309
+Needle Biopsies, Core&C1318309
+Core Needle Biopsies&C1318309
+biopsies core needle&C1318309
+biopsy coring needle&C1318309
+Biopsy, Core Needle&C1318309
+Needle Biopsy, Core&C1318309
+Biopsy.core needle&C1318309
+Core Needle Biopsy&C1318309
+Core needle biopsy&C1318309
+biopsy core needle&C1318309
+needle core biopsy&C1318309
+Core Biopsy&C1318309
+Cryotherapy - action (qualifier value)&C4551716
+Cryotherapy - physiotherapeutic&C4551716
+Therapeutic application of cold&C4551716
+Cryotherapy (procedure)&C4551716
+Cryotherapy - action&C4551716
+Cryotherapy, NOS&C4551716
+Cryotherapy NOS&C4551716
+Cryotherapies&C4551716
+Cryotherapy&C4551716
+Cyclophosphamide Regimen&C5204857
+Cytoxan Regimen&C5204857
+Cystic (qualifier value)&C0205207
+Cystic&C0205207
+Cytotoxic Chemotherapy&C0677881
+Cytotoxic Therapy&C0677881
+Cytotoxic&C0677881
+Cytotoxic agent (product)&C0304497
+Cytotoxic (substance)&C0304497
+Cytotoxic agent, NOS&C0304497
+Cytotoxic drug, NOS&C0304497
+agents cytotoxic&C0304497
+Cytotoxic agent&C0304497
+agent cytotoxic&C0304497
+cytotoxic drugs&C0304497
+cytotoxic drug&C0304497
+Cytotoxic&C0304497
+DNA sequencing&C0162326
+Sequences, DNA&C0162326
+DNA Sequences&C0162326
+Sequence, DNA&C0162326
+DNA Sequence&C0162326
+Sequences&C0162326
+DNA Sequence Rearrangement&C1511695
+Rearrangement&C1511695
+DATOPOTAMAB DERUXTECAN&C5432272
+Datopotamab deruxtecan&C5432272
+Dato-DXd&C5432272
+Deep Inspiration Breath Hold&C4725719
+DIBH&C4725719
+Densitometers, Bone, Isotope, Single-Photon Absorptiometry&C0178947
+Absorptiometers, Single-Photon&C0178947
+Single-Photon Absorptiometers&C0178947
+Single-Photon Densitometers&C0178947
+SPA Systems&C0178947
+Dermal - anatomy qualifier&C0221928
+Dermal&C0221928
+Dermo-&C0221928
+dermo&C0221928
+derms&C0221928
+DERM&C0221928
+Diagnostic radiologic examination, NOS&C0043299
+Diagnostic radiologic examination&C0043299
+Radiology, Diagnostic X Ray&C0043299
+Radiology, Diagnostic X-Ray&C0043299
+X Ray Radiology, Diagnostic&C0043299
+X-Ray Radiology, Diagnostic&C0043299
+Diagnostic X Ray Radiology&C0043299
+Diagnostic X-Ray Radiology&C0043299
+Diagnostic Radiology&C0043299
+X-Rays, Diagnostic&C0043299
+Diagnostic X-Rays&C0043299
+X Ray, Diagnostic&C0043299
+X-Ray, Diagnostic&C0043299
+Diagnostic X Ray&C0043299
+Diagnostic X-Ray&C0043299
+radiographies&C0043299
+radiography&C0043299
+X-Ray&C0043299
+Dissecting aneurysm of the thoracic aorta&C0729233
+dissection of thoracic aorta (diagnosis)&C0729233
+Dissection of thoracic aorta (disorder)&C0729233
+Dissection of Thoracic Aorta&C0729233
+Aortic Dissection, Thoracic&C0729233
+Dissection, Thoracic Aortic&C0729233
+Thoracic Aortic Dissections&C0729233
+Aorta Dissection, Thoracic&C0729233
+Dissection, Thoracic Aorta&C0729233
+Thoracic Aorta Dissections&C0729233
+Thoracic Aortic Dissection&C0729233
+Thoracic Aorta Dissection&C0729233
+aorta dissection thoracic&C0729233
+Docetaxel/Carboplatin/Trastuzumab/Pertuzumab Regimen&C4527353
+Docetaxel/Carboplatin/Pertuzumab/Trastuzumab&C4527353
+Taxotere-Carboplatin-Herceptin-Pertuzumab&C4527353
+Taxotere-Carboplatin-Herceptin-Perjeta&C4527353
+TCH Plus Pertuzumab Regimen&C4527353
+TCH + Pertuzumab&C4527353
+TCHP Regimen&C4527353
+Docetaxel/Pertuzumab/Trastuzumab Regimen&C4527349
+Pertuzumab-Trastuzumab-Docetaxel Regimen&C4527349
+Pertuzumab/Trastuzumab/Docetaxel Regimen&C4527349
+Pertuzumab + Trastuzumab + Docetaxel&C4527349
+Pertuzumab-Trastuzumab-Docetaxel&C4527349
+Pertuzumab/Trastuzumab/Docetaxel&C4527349
+Taxotere/Herceptin/Pertuzumab&C4527349
+THP (Taxotere) Regimen&C4527349
+Dose Volume Histogram&C3827011
+Dose-dense Doxorubicin/Cyclophosphamide Followed by Dose-dense Paclitaxel&C4683814
+Dose-dense Adriamycin/Cytoxan Followed by Dose-dense Taxol&C4683814
+Dose-dense AC Followed by Dose-Dense Paclitaxel Regimen&C4683814
+Dose-dense AC Regimen Followed by Dose-dense Paclitaxel&C4683814
+Dose-dense AC Followed by Dose-dense Paclitaxel&C4683814
+DD AC Followed by DD Paclitaxel Regimen&C4683814
+Dose-dense ACT Regimen&C4683814
+ACT Dose Dense&C4683814
+ACT Dose-dense&C4683814
+DD ACT Regimen&C4683814
+Dostarlimab-gxly Regimen&C5670597
+Dostarlimab Regimen&C5670597
+Jemperli Regimen&C5670597
+Methods, Double-Masked&C0013072
+Studies, Double-Masked&C0013072
+Double-Masked Methods&C0013072
+Methods, Double-Blind&C0013072
+Studies, Double-Blind&C0013072
+Double Masked Method&C0013072
+Double-Blind Methods&C0013072
+Double-Blind Studies&C0013072
+Method, Double-Blind&C0013072
+DOUBLE-BLIND METHOD&C0013072
+Double Blind Method&C0013072
+Double Masked Study&C0013072
+Double-Blind Method&C0013072
+Double-Masked Study&C0013072
+Study, Double-Blind&C0013072
+Double Blind Study&C0013072
+Double-Blind Study&C0013072
+blind double study&C0013072
+Double-Blinded&C0013072
+double blind&C0013072
+Dyspnea, NOS&C0013404
+DYSPNOEA&C0013404
+DYSPNEA&C0013404
+Dyspnea&C0013404
+Epidermal Growth Factor Receptor Negative&C4725782
+c-erbB1 Negative&C4725782
+ERBB1 Negative&C4725782
+EGFR Negative&C4725782
+ERBB Negative&C4725782
+HER1 Negative&C4725782
+Anti-Tyrosine Kinase-Type Cell Surface Receptor HER2 Antibody&C4329777
+Tyrosine Kinase-Type Cell Surface Receptor HER2 Antibody&C4329777
+Anti-Receptor Tyrosine-Protein Kinase erbB-2 Antibody&C4329777
+Receptor Tyrosine-Protein Kinase erbB-2 Antibody&C4329777
+Anti-Proto-Oncogene Neu Antibody&C4329777
+Anti-HER2/Neu Antibody&C4329777
+Anti-c-erbB2 Antibody&C4329777
+Anti-HER-2 Antibody&C4329777
+Anti-HER2 Antibody&C4329777
+Anti-NEU Antibody&C4329777
+HER2/Neu Antibody&C4329777
+c-erbB2 Antibody&C4329777
+ERBB2 Antibody&C4329777
+HER-2 Antibody&C4329777
+HER2 Antibody&C4329777
+NEU Antibody&C4329777
+v-Erb-B2 Avian Erythroblastic Leukemia Viral Oncogene Homolog 2 Gene Amplification Negative&C5204780
+Erb-B2 Receptor Tyrosine Kinase 2 Gene Amplification Negative&C5204780
+HER2/neu Gene Amplification Negative&C5204780
+ERBB2 Gene Amplification Negative&C5204780
+HER-2 Gene Amplification Negative&C5204780
+HER2 Gene Amplification Negative&C5204780
+NEU Gene Amplification Negative&C5204780
+ERBB2 Non-Amplified&C5204780
+HER2 Non-Amplified&C5204780
+v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 2 (neuro/glioblastoma derived oncogene homolog)&C0242957
+TYROSINE KINASE-TYPE CELL SURFACE RECEPTOR HER2&C0242957
+human epidermal growth factor receptor 2&C0242957
+erb-b2 receptor tyrosine kinase 2&C0242957
+c-erbB-2 Proto-Oncogenes&C0242957
+c-erbB-2 Genes&C0242957
+c-erbB-2 Gene&C0242957
+erbB 2 Genes&C0242957
+Gene, erbb2&C0242957
+Genes, HER2&C0242957
+ERBB2 Gene&C0242957
+ERBB2 gene&C0242957
+Gene, HER2&C0242957
+Genes, neu&C0242957
+HER-2 Gene&C0242957
+her 2 neu&C0242957
+neu Genes&C0242957
+c-erbb-2&C0242957
+neu Gene&C0242957
+ERBB2&C0242957
+HER-2&C0242957
+her2&C0242957
+NEU&C0242957
+NGL&C0242957
+Eastern Cooperative Oncology Group-American College of Radiology Imaging Network Cancer Center Group&C5236995
+ECOG-ACRIN Cancer Research Group&C5236995
+ECOG-ACRIN&C5236995
+Electromagnetic radiation (physical force)&C0034519
+Radiation, Electromagnetic&C0034519
+electromagnetic radiations&C0034519
+Electromagnetic Radiation&C0034519
+Energies, Electromagnetic&C0034519
+radiation electromagnetic&C0034519
+Electromagnetic Energies&C0034519
+Energy, Electromagnetic&C0034519
+Electromagnetic Energy&C0034519
+Waves, Electromagnetic&C0034519
+Electromagnetic Waves&C0034519
+Wave, Electromagnetic&C0034519
+Electromagnetic Wave&C0034519
+electromagnetism&C0034519
+wave (radiation)&C0034519
+Radiation-Total&C0034519
+Radiation&C0034519
+Embryo Preservation&C0920498
+Neoplasm of endocrine system (disorder)&C0014132
+endocrine neoplasm (diagnosis)&C0014132
+Neoplasm of endocrine system&C0014132
+Neoplasm of endocrine gland&C0014132
+Tumour of endocrine system&C0014132
+Endocrine Gland Neoplasms&C0014132
+Endocrine System Neoplasm&C0014132
+Neoplasm, Endocrine Gland&C0014132
+Tumour of endocrine gland&C0014132
+neoplasm of the endocrine&C0014132
+Tumor of endocrine gland&C0014132
+endocrine gland tumours&C0014132
+endocrine system tumour&C0014132
+Endocrine System Tumor&C0014132
+Endocrine neoplasm NOS&C0014132
+endocrine; neoplasia&C0014132
+endocrine neoplasia&C0014132
+endocrine neoplasms&C0014132
+Endocrine Neoplasm&C0014132
+Neoplasm;endocrine&C0014132
+Endocrine function (observable entity)&C0678896
+endocrine physiological process&C0678896
+endocrine physiology&C0678896
+endocrine functions&C0678896
+Endocrine function&C0678896
+effects endocrine&C0678896
+endocrine effects&C0678896
+endocrine process&C0678896
+endocrine effect&C0678896
+Endocrine/Metabolic Organ System&C0014136
+Endocrine System in General&C0014136
+Endocrine system structure&C0014136
+endocrine glands system&C0014136
+Systema endocrinum&C0014136
+Endocrine Systems&C0014136
+Endocrine System&C0014136
+Endocrine system&C0014136
+Hormonal System&C0014136
+Endocrine&C0014136
+Endoplasmic reticulum (cell structure)&C0014239
+Endoplasmic reticulum, NOS&C0014239
+endoplasmic reticulum (ER)&C0014239
+Reticulum cytoplasmaticum&C0014239
+Reticulum endoplasmicum&C0014239
+Reticulum, Endoplasmic&C0014239
+Endoplasmic Reticulum&C0014239
+Ergastoplasm&C0014239
+Ephedra, Chinese&C0696758
+ephedra huang ma&C0696758
+Chinese Ephedra&C0696758
+Ephedra sinica&C0696758
+Ma-Huang, Cao&C0696758
+Cao Ma-Huang&C0696758
+Ma Huang&C0696758
+huang ma&C0696758
+Episodic (qualifier value)&C1455761
+Now and then&C1455761
+Recurrent&C1455761
+Episodic&C1455761
+Equivocal result (qualifier value)&C0459423
+Equivocal result&C0459423
+Eribulin/Margetuximab-cmkb Regimen&C5557264
+Eribulin-Margetuximab Regimen&C5557264
+Eribulin/Margetuximab Regimen&C5557264
+Margetuximab/Eribulin Regimen&C5557264
+Margetuximab Plus Eribulin&C5557264
+Eribulin-Margetuximab&C5557264
+Eribulin/Margetuximab&C5557264
+Margetuximab-Eribulin&C5557264
+Margetuximab/Eribulin&C5557264
+Margenza/Halaven&C5557264
+Sensory perception function (observable entity)&C0036658
+Sensory function (observable entity)&C0036658
+Observation of sensation&C0036658
+Feeling - sensation&C0036658
+Sensory perception&C0036658
+sensory processing&C0036658
+Function, Sensory&C0036658
+Sensory Function&C0036658
+Sensation, NOS&C0036658
+Sensations&C0036658
+the senses&C0036658
+Aesthesia&C0036658
+Sensation&C0036658
+Esthesia&C0036658
+sense&C0036658
+Esthetics (discipline)&C0014901
+Aesthetics&C0014901
+Esthetics&C0014901
+aesthetic&C0014901
+esthetic&C0014901
+Estrogen Receptor Status 0&C4688269
+ER Status 0&C4688269
+ER IHC 0&C4688269
+Nuclear receptor subfamily 3 group A member 1&C0034804
+E2R - Oestrogen receptor&C0034804
+E2R - Estrogen receptor&C0034804
+OR - Oestrogen receptor&C0034804
+Oestrogen receptor site&C0034804
+Estrogen receptor site&C0034804
+OR - Estrogen receptor&C0034804
+estrogen receptor (ER)&C0034804
+Estrogen--Receptors&C0034804
+Receptors, Estrogen&C0034804
+Estrogen Receptors&C0034804
+Oestrogen receptor&C0034804
+Receptor, Estrogen&C0034804
+Estrogen Receptor&C0034804
+ER-alpha&C0034804
+Nuclear Receptor Subfamily 3 Group A Member 1 Negative&C0279756
+Estrogen Receptor Alpha Negative&C0279756
+Estrogen Receptor 1 Negative&C0279756
+Estrogen Receptor Negative&C0279756
+Estrogen receptor negative&C0279756
+Negative Estrogen Receptor&C0279756
+ER Alpha Negative&C0279756
+ER-Alpha Negative&C0279756
+ESTRR Negative&C0279756
+NR3A1 Negative&C0279756
+ESR1 Negative&C0279756
+ESRA Negative&C0279756
+ERA Negative&C0279756
+ESR Negative&C0279756
+ER Negative&C0279756
+ER-&C0279756
+Nuclear Receptor Subfamily 3 Group A Member 1 Positive&C0279754
+Estrogen Receptor Alpha Positive&C0279754
+Estrogen Receptor 1 Positive&C0279754
+Estrogen Receptor Positive&C0279754
+Estrogen receptor positive&C0279754
+Positive Estrogen Receptor&C0279754
+ER Alpha Positive&C0279754
+ER-Alpha Positive&C0279754
+ESTRR Positive&C0279754
+NR3A1 Positive&C0279754
+ESR1 Positive&C0279754
+ESRA Positive&C0279754
+ERA Positive&C0279754
+ESR Positive&C0279754
+ER Positive&C0279754
+ER+&C0279754
+Excision biopsy (qualifier value)&C0184921
+Excisional biopsy (procedure)&C0184921
+biopsies excisional&C0184921
+BIOPSY EXCISIONAL&C0184921
+Biopsy.excisional&C0184921
+Excisional Biopsy&C0184921
+Biopsy, excision&C0184921
+Excision biopsy&C0184921
+biopsy excision&C0184921
+Excision of axillary lymph nodes group (procedure)&C0193867
+Excision of axillary lymph node (procedure)&C0193867
+Excision procedures on lymph node of axilla&C0193867
+Excision of axillary lymph nodes group&C0193867
+Excision of axillary lymph nodes, NOS&C0193867
+axillary lymphadenectomy (treatment)&C0193867
+Excision of lymph node of axilla&C0193867
+Excision of axillary lymph node&C0193867
+Axillary Lymph Node Dissection&C0193867
+AXILLARY LYMPH NODE RESECTION&C0193867
+Excision Axillary Lymph Nodes&C0193867
+AXILLARY LYMPH NODE EXCISION&C0193867
+Axillary Lymphadenectomy&C0193867
+Axillary Node Dissection&C0193867
+Axillary Dissection&C0193867
+Excision of skin&C2697304
+JUNCTION ADHESION MOLECULE, MOUSE, HOMOLOG OF&C1422839
+junctional adhesion molecule 1&C1422839
+JUNCTION ADHESION MOLECULE 1&C1422839
+F11 Receptor Gene&C1422839
+F11 receptor&C1422839
+F11R Gene&C1422839
+F11R gene&C1422839
+CD321&C1422839
+JAM-1&C1422839
+JAM-A&C1422839
+PAM-1&C1422839
+F11R&C1422839
+JAM1&C1422839
+JAMA&C1422839
+JCAM&C1422839
+JAM&C1422839
+Whole Body [18]F- Fludeoxyglucose Positron Emission Tomography/Computed Tomography&C4527276
+FDG-Positron Emission Tomography/Computed Tomography of the Whole Body&C4527276
+Positron Emission Tomography/Computed Tomography, Whole Body, FDG&C4527276
+Whole Body FDG-Positron Emission Tomography/Computed Tomography&C4527276
+Total-Body Positron Emission Tomography/Computed Tomography&C4527276
+Whole-body 18F FDG PET/CT&C4527276
+PET/CT, Whole Body, FDG&C4527276
+WB PET/CT Scan with FDG&C4527276
+Whole Body FDG-PET/CT&C4527276
+Whole-body FDG-PET/CT&C4527276
+[18]F-FDG PET/CT&C4527276
+Female structure (body structure)&C0086287
+Female individual, NOS&C0086287
+Female individual&C0086287
+Female (finding)&C0086287
+Female structure&C0086287
+Female Gender&C0086287
+Female, NOS&C0086287
+FEMALE SEX&C0086287
+Sex Female&C0086287
+Females&C0086287
+Female&C0086287
+Ability to conceive (observable entity)&C0015895
+Fertility, function (observable entity)&C0015895
+Ability to conceive&C0015895
+Fertility, NOS&C0015895
+fecundability&C0015895
+fertilities&C0015895
+Fecundity&C0015895
+Fertility&C0015895
+Fertile&C0015895
+Fertility care (regime/therapy)&C1171194
+RNIx fertility care (treatment)&C1171194
+Fertility Preservations&C1171194
+Preservation, Fertility&C1171194
+Fertility Preservation&C1171194
+RNIx fertility care&C1171194
+Fertility Care&C1171194
+Benign fibroadenoma (morphologic abnormality)&C0178421
+fibroadenoma of breast (diagnosis)&C0178421
+Fibroadenoma of breast (disorder)&C0178421
+Fibroadenoma of the Breast&C0178421
+Fibroadenosis of breast&C0178421
+FIBROADENOMA OF BREAST&C0178421
+Fibroadenoma of breast&C0178421
+BREAST, FIBROADENOMA&C0178421
+Breast fibroadenomas&C0178421
+Breast fibroadenosis&C0178421
+Benign fibroadenoma&C0178421
+Breast Fibroadenoma&C0178421
+adenofibroma breast&C0178421
+fibroadenoma breast&C0178421
+Breast mouse&C0178421
+Fine needle aspiration biopsy - action (qualifier value)&C1510483
+Fine needle aspiration biopsy - action&C1510483
+fine needle aspiration (procedure)&C1510483
+Biopsies, Fine-Needle Aspiration&C1510483
+Aspiration Biopsy, Fine-Needle&C1510483
+Fine needle aspiration biopsy&C1510483
+fine-needle aspiration biopsy&C1510483
+FNA - Fine needle aspiration&C1510483
+Aspirations, Fine-Needle&C1510483
+Aspiration, Fine Needle&C1510483
+Aspiration, Fine-Needle&C1510483
+Fine-Needle Aspirations&C1510483
+aspirations fine needle&C1510483
+Aspiration.fine needle&C1510483
+Fine Needle Aspiration&C1510483
+aspiration fine-needle&C1510483
+fine-needle aspiration&C1510483
+Aspirate, Fine Needle&C1510483
+Fine Needle Biopsy&C1510483
+Aspiration biopsy&C1510483
+biopsy aspiration&C1510483
+Fixation of pendulous breast (procedure)&C0191918
+Fixation of pendulous breast&C0191918
+BREAST SURGERY MASTOPEXY&C0191918
+mastopexy (treatment)&C0191918
+Breast Lift&C0191918
+MASTOPEXY&C0191918
+Focal (qualifier value)&C0205234
+Focally&C0205234
+Foci of&C0205234
+Focused&C0205234
+Focal&C0205234
+Focus&C0205234
+Foci&C0205234
+injectable follicle stimulating hormone (FSH)&C0016424
+Follicle stimulating hormone, injectable&C0016424
+Follicle stimulating hormone injectable&C0016424
+FSH&C0016424
+Frail&C0871754
+Free Flaps, Microsurgical&C0441031
+Flap, Microsurgical Free&C0441031
+Free Flap, Microsurgical&C0441031
+Microsurgical Free Flaps&C0441031
+Microsurgical Free Flap&C0441031
+Free flap (substance)&C0441031
+Free flaps (Surgery)&C0441031
+Flaps, Free Tissue&C0441031
+Tissue Flaps, Free&C0441031
+Flap, Free Tissue&C0441031
+Free Tissue Flaps&C0441031
+Tissue Flap, Free&C0441031
+Free Tissue Flap&C0441031
+Flaps, Free&C0441031
+Flap, Free&C0441031
+Free Flaps&C0441031
+flaps free&C0441031
+Free Flap&C0441031
+Free flap&C0441031
+flap free&C0441031
+full thickness hole of macula lutea (diagnosis)&C2733564
+Full thickness hole of macula lutea (disorder)&C2733564
+Full thickness hole of macula lutea&C2733564
+Full thickness macular hole&C2733564
+Full-thickness macular hole&C2733564
+FTMH&C2733564
+Full-Thickness Skin Biopsy of Nipple-Areolar Complex&C4527249
+Full-Thickness Skin Biopsy of Nipple and Areola&C4527249
+Full-thickness Skin Biopsy of Nipple and Areola&C4527249
+Full-Thickness Skin Biopsy of NAC&C4527249
+Gemcitabine/Margetuximab-cmkb Regimen&C5557265
+Gemcitabine-Margetuximab Regimen&C5557265
+Gemcitabine/Margetuximab Regimen&C5557265
+Margetuximab/Gemcitabine Regimen&C5557265
+Margetuximab Plus Gemcitabine&C5557265
+Gemcitabine-Margetuximab&C5557265
+Gemcitabine/Margetuximab&C5557265
+Margetuximab-Gemcitabine&C5557265
+Margetuximab/Gemcitabine&C5557265
+Margenza/Gemzar&C5557265
+Expressions, Gene&C0017262
+Expression, Gene&C0017262
+Gene Expression&C0017262
+General Statistical Consideration&C5236208
+gene switching&C0017373
+Genes, Switch&C0017373
+Gene, Switch&C0017373
+Switch Gene&C0017373
+Genetic counseling individual each 15 minutes&C0017382
+Genetic counseling (procedure)&C0017382
+genetic counseling (treatment)&C0017382
+Counseling, Genetic&C0017382
+Genetic Counselling&C0017382
+GENETIC COUNSELING&C0017382
+Genetic Counseling&C0017382
+Genetic Predisposition to Disease&C0314657
+Genetic predisposition (finding)&C0314657
+Susceptibilities, Genetic&C0314657
+Genetic Susceptibilities&C0314657
+Inherited Predisposition&C0314657
+Inherited Susceptibility&C0314657
+Predispositions, Genetic&C0314657
+Genetic Predispositions&C0314657
+Predisposition, Genetic&C0314657
+Susceptibility, Genetic&C0314657
+genetics predisposition&C0314657
+Genetic Predisposition&C0314657
+Genetic Susceptibility&C0314657
+Genetic selection (finding)&C0036576
+selection (genetics)&C0036576
+Selection, Genetic&C0036576
+Genetic Selection&C0036576
+selection&C0036576
+Genetic Testing for Cancer Risk&C0393006
+Genetic testing for cancer risk&C0393006
+cancer risk, genetic testing&C0393006
+genetic testing&C0393006
+Germline Mutation Abnormality&C0206530
+Mutations, Germ-Line&C0206530
+Germ-Line Mutations&C0206530
+Hereditary Mutation&C0206530
+Mutation, Germ Line&C0206530
+Mutation, Germ-Line&C0206530
+Mutations, Germline&C0206530
+Germ Line Mutation&C0206530
+Germ-Line Mutation&C0206530
+Germline Mutations&C0206530
+Germline Variation&C0206530
+Mutation, Germline&C0206530
+Germline Mutation&C0206530
+Germline Variant&C0206530
+Advanced Glycosylation End Products&C0162574
+advanced end glycosylation products&C0162574
+Advanced Glycosylation End Product&C0162574
+Glycation End Products, Advanced&C0162574
+Advanced Glycation End Products&C0162574
+Glycation Endproducts, Advanced&C0162574
+Advanced Glycation End Product&C0162574
+Advanced Glycation End-Product&C0162574
+Advanced Glycation Endproducts&C0162574
+Glycation Endproduct, Advanced&C0162574
+Advanced Glycation Endproduct&C0162574
+Glycotoxins&C0162574
+AGEs&C0162574
+AGE&C0162574
+Grade 3 (qualifier value)&C0450094
+Grade three rank&C0450094
+Grade III&C0450094
+Grade 3&C0450094
+Grafting of fat (procedure)&C0844767
+fat transplantation&C0844767
+lipotransplantation&C0844767
+Grafting of fat&C0844767
+Fat graft NOS&C0844767
+fat grafting&C0844767
+Fat graft&C0844767
+Gray unit of radiation dose&C0556636
+Gray (qualifier value)&C0556636
+gray (gy)&C0556636
+Gray&C0556636
+Gynecologic (qualifier value)&C0205480
+Gynaecologic&C0205480
+Gynecologic&C0205480
+GYN&C0205480
+Human epidermal growth factor 2 positive carcinoma of breast (disorder)&C1960398
+Human epidermal growth factor 2 positive carcinoma of breast&C1960398
+HER-2 positive malignant carcinoma of breast (diagnosis)&C1960398
+ERBB2 Overexpressing Subtype of Breast Carcinoma&C1960398
+HER2 Overexpressing Subtype of Breast Carcinoma&C1960398
+HER-2 positive malignant carcinoma of breast&C1960398
+breast neoplasm malignant her2-positive&C1960398
+HER2 Overexpressing Breast Carcinoma&C1960398
+HER2-positive carcinoma of breast&C1960398
+HER2/neu-positive breast cancer&C1960398
+HER2 Positive Breast Carcinoma&C1960398
+HER2-Positive Breast Carcinoma&C1960398
+HER2 Positive Breast Cancer&C1960398
+HER2-positive breast cancer&C1960398
+HER-2/neu-positivity&C1960398
+HER2+ breast cancer&C1960398
+ERBB2-Targeting Agent&C5235659
+HER2-targeting Agent&C5235659
+HER-2/Neu Positive&C2348909
+HER2/Neu Positive&C2348909
+ERBB-2 Positive&C2348909
+ERBB2 Positive&C2348909
+HER-2 Positive&C2348909
+HER2 Positive&C2348909
+Low Risk Human Papilloma Virus&C4763514
+Low-Risk Human Papilloma Virus&C4763514
+Low Risk Human Papillomavirus&C4763514
+Low-Risk Human Papillomavirus&C4763514
+Low-Risk HPV Subtype&C4763514
+Low-Risk HPV Strain&C4763514
+HPV-Low Risk&C4763514
+Low Risk HPV&C4763514
+Low-Risk HPV&C4763514
+Hematopoietic Cell Growth Factors&C0079490
+Hematopoietic Cell Growth Factor&C0079490
+Hematopoietic growth factors&C0079490
+Hematopoietic Growth Factor&C0079490
+Hematopoietic Cytokine&C0079490
+Hematopoietic CGF&C0079490
+Hematopoietic-CGF&C0079490
+Hematopoietins&C0079490
+Heterogeneity&C0019409
+Heterogeneous&C0019409
+High Grade Astrocytic Neoplasm&C3640999
+High-Grade Astrocytic Neoplasm&C3640999
+High Grade Astrocytic Tumor&C3640999
+High-Grade Astrocytic Tumor&C3640999
+High-Risk Cancer&C1512441
+Microanatomy&C0019638
+histologies&C0019638
+HISTOLOGY:&C0019638
+HISTOLOGY&C0019638
+Histology&C0019638
+Historical - ParameterizedDataType&C1552658
+Historical&C1552658
+Homogeneity&C1881065
+Homogeneous&C1881065
+Homozygote (finding)&C0019904
+Homozygosity&C0019904
+Homozygotes&C0019904
+Homozygote&C0019904
+Homozygous&C0019904
+Contraception, Hormonal&C2985296
+Hormonal Birth Control&C2985296
+Hormonal Contraception&C2985296
+hormone receptors&C0019929
+Hormone Receptor&C0019929
+Hormone Receptor Positive&C3640067
+HR+&C3640067
+Hormone Receptor/Epidermal Growth Factor Receptor 2 Positive&C3898879
+Triple-Positive Breast Cancer Finding&C3898879
+Hormone Receptor/HER2 Positive&C3898879
+ER/PR/HER2 Positive&C3898879
+ER+PR+HER2/neu+&C3898879
+Triple Positive&C3898879
+Triple-Positive&C3898879
+Chemotherapy-Hormones/Steroids&C0279025
+Hormone therapy (procedure)&C0279025
+HT - Hormone therapy&C0279025
+hormonal therapies&C0279025
+therapy, endocrine&C0279025
+Endocrine therapy&C0279025
+Hormonal therapy/&C0279025
+Hormonal Therapy&C0279025
+hormones therapy&C0279025
+therapy hormonal&C0279025
+Hormone Therapy&C0279025
+Hormone-Resistant Breast Adenocarcinoma&C4049259
+Hormone-Resistant Breast Carcinoma&C4049259
+Hormone refractory breast cancer&C4049259
+Hormone-Refractory Breast Cancer&C4049259
+Hormone-Resistant Breast Cancer&C4049259
+Human follicle stimulating hormone (substance)&C0016774
+FSH, human (follicle stimulating hormone)&C0016774
+Follicle Stimulating Hormone, Human&C0016774
+Human Follicle Stimulating Hormone&C0016774
+Human Follicle-Stimulating Hormone&C0016774
+Follicle Stimulating Hormone&C0016774
+Follicle-Stimulating Hormone&C0016774
+FSH, Human&C0016774
+Human FSH&C0016774
+hFSH&C0016774
+FSH&C0016774
+hypercalcemia (diagnosis)&C0020437
+Hypercalcemia (disorder)&C0020437
+Hypercalcaemia syndrome&C0020437
+HYPERCALCAEMIA&C0020437
+Hypercalcemias&C0020437
+HYPERCALCEMIA&C0020437
+Hypercalcemia&C0020437
+hypertrophy of breast (physical finding)&C0020565
+hypertrophy of breast (diagnosis)&C0020565
+Hypertrophy of breast (disorder)&C0020565
+breast appearance hypertrophy&C0020565
+breast hypertrophy was seen&C0020565
+Hypertrophy of breast, NOS&C0020565
+breast enlargement females&C0020565
+Hypertrophy of breast NOS&C0020565
+Hypertrophy of the Breast&C0020565
+female breast enlargement&C0020565
+Hypertrophy of Breast&C0020565
+Mammary hypertrophy&C0020565
+breast; hypertrophy&C0020565
+Breast Hypertrophy&C0020565
+Hypertrophy breast&C0020565
+Unspecified acquired hypothyroidism&C0020676
+Hypothyroidism, unspecified&C0020676
+Thyroid activity decreased&C0020676
+Unspecified hypothyroidism&C0020676
+thyroid; insufficiency&C0020676
+Underactive Thyroid&C0020676
+thyroid; deficiency&C0020676
+HYPOTHYROIDISM&C0020676
+Hypothyroidism&C0020676
+Hypothyreosis&C0020676
+subthyroidism&C0020676
+HYPOTHYROID&C0020676
+Intravenous contrast&C4072741
+IV contrast&C4072741
+Illinois (geographic location)&C0020898
+Illinois&C0020898
+Immunological Sensitization&C0020971
+Stimulations, Immunological&C0020971
+Stimulation, Immunological&C0020971
+Immunization, NOS&C0020971
+Immunostimulation&C0020971
+immunoprophylaxis&C0020971
+Immunizations&C0020971
+immunisations&C0020971
+IMMUNIZATION&C0020971
+Immunisation&C0020971
+Immunization&C0020971
+Immunohistochemistry technique (qualifier value)&C0021044
+Immunohistochemistry procedure (procedure)&C0021044
+Immunohistochemistry Staining Method&C0021044
+Cell/Tissue, Immunohistochemistry&C0021044
+Immunohistochemistry procedure&C0021044
+Immunohistochemistry technique&C0021044
+Immunohistochemical Test&C0021044
+Immunohistochemistry&C0021044
+Immune enhancement agent (substance)&C0001551
+Immune enhancement agent, NOS&C0001551
+Immune enhancement agent&C0001551
+Adjuvant, Immunological&C0001551
+Immunostimulating Agent&C0001551
+Adjuvants, Immunologic&C0001551
+Immunological Adjuvant&C0001551
+Immunologic Adjuvants&C0001551
+immunologic adjuvant&C0001551
+Immunopotentiators&C0001551
+Immunopotentiator&C0001551
+IMMUNOSTIMULANTS&C0001551
+Immunoadjuvants&C0001551
+Immunostimulant&C0001551
+Immunoadjuvant&C0001551
+Adjuvant, NOS&C0001551
+Biological response modifier therapy, NOS&C0021083
+Biological response modifier therapy&C0021083
+Immunologically Directed Therapy&C0021083
+immunotherapy (medication)&C0021083
+Immunotherapy (procedure)&C0021083
+Immunological therapy&C0021083
+Immunological care&C0021083
+Immunotherapy, NOS&C0021083
+Immunotherapies&C0021083
+Immunotherapy&C0021083
+Immunotherapy-Related&C5239191
+Impact food supplement&C0726639
+IMPACT&C0726639
+cognitive impairment (diagnosis)&C0338656
+Cognitive function abnormal&C0338656
+Neurocognitive Dysfunction&C0338656
+Disturbance in cognition&C0338656
+Cognitive Disturbance&C0338656
+Cognitive Dysfunction&C0338656
+Impairment, Cognitive&C0338656
+Cognitive Impairment&C0338656
+Impaired Cognition&C0338656
+Impaired cognition&C0338656
+Cognitive decline&C0338656
+Impaired wound healing (finding)&C0151692
+Impaired wound healing&C0151692
+HEALING ABNORMAL&C0151692
+HEALING IMPAIRED&C0151692
+Impaired Healing&C0151692
+HEALING DELAYED&C0151692
+Failure of implant&C0854676
+failures implant&C0854676
+Implant Failure&C0854676
+Implantation procedure, NOS&C0021107
+Insertion procedure, NOS&C0021107
+Implant procedure, NOS&C0021107
+Implantation Surgery&C0021107
+Placement of implant&C0021107
+Placement of device&C0021107
+insertion procedure&C0021107
+Procedure implants&C0021107
+implant procedure&C0021107
+device placement&C0021107
+Implantation&C0021107
+implanting&C0021107
+Insertion&C0021107
+Placement&C0021107
+IMPLANT&C0021107
+Implant, device (physical object)&C0021102
+implant device (treatment)&C0021102
+Prosthesis or implant&C0021102
+Biomedical implant&C0021102
+implant prosthesis&C0021102
+Implanted device&C0021102
+Implant, device&C0021102
+implant device&C0021102
+Implant, NOS&C0021102
+Implantable&C0021102
+Implanted&C0021102
+Implants&C0021102
+Implant&C0021102
+In situ (qualifier value)&C0444498
+In Situ&C0444498
+In situ&C0444498
+In vitro Gene Expression Assay&C4764112
+Inadequate (qualifier value)&C0205412
+Inadequate (qualifier)&C0205412
+Insufficient&C0205412
+Inadequate&C0205412
+(2S)-2-((2-((4S)-4-(difluoromethyl)-2-oxo-1,3-oxazolidin-3-yl)-5,6-dihydroimidazo(1,2-d)(1,4)benzoxazepin-9-yl)amino)propanamide&C5446307
+propanamide, 2-((2-((4S)-4-(difluoromethyl)-2-oxo-3-oxazolidinyl)-5,6-dihydroimidazo(1,2-D)(1,4)benzoxazepin-9-yl)amino)-, (2S)-&C5446307
+(2S)-2-((2-((4S)-4-(difluoromethyl)-2-oxo-3-oxazolidinyl)-5,6-dihydroimidazo(1,2-D)(1,4)benzoxazepin-9-yl)amino)propanamide&C5446307
+inavolisib (medication)&C5446307
+INAVOLISIB&C5446307
+Inavolisib&C5446307
+NEURODEGENERATION WITH BRAIN IRON ACCUMULATION 2A&C0270724
+Infantile neuroaxonal dystrophy (disorder)&C0270724
+Neurodegeneration, PLA2G6 Associated&C0270724
+PLA2G6-Associated Neurodegeneration&C0270724
+NEUROAXONAL DYSTROPHY, INFANTILE&C0270724
+Infantile Neuroaxonal Dystrophy&C0270724
+Seitelberger's Disease&C0270724
+Disease, Seitelberger&C0270724
+Seitelbergers Disease&C0270724
+NBIA, PLA2G6 Related&C0270724
+SEITELBERGER DISEASE&C0270724
+NBIA2A&C0270724
+INAD1&C0270724
+INAD&C0270724
+PLAN&C0270724
+inability to conceive (infertility)&C0021359
+inability to conceive (symptom)&C0021359
+Cannot achieve a pregnancy&C0021359
+unable (to) get pregnant&C0021359
+unable to get pregnant&C0021359
+Difficulty conceiving&C0021359
+Infertile (finding)&C0021359
+Infertility, NOS&C0021359
+INFERTILITY&C0021359
+Infertility&C0021359
+Sterility&C0021359
+infertile&C0021359
+Sterile&C0021359
+Inflammatory findings&C0333348
+Inflammatory changes&C0333348
+changes inflammatory&C0333348
+change inflammatory&C0333348
+inflammatories&C0333348
+Inflammatory&C0333348
+Inflamed&C0333348
+inflam&C0333348
+carcinoma of the breast, inflammatory&C0278601
+Inflammatory Carcinoma of the Breast&C0278601
+Inflammatory Breast Cancer (IBC)&C0278601
+Inflammatory Carcinoma of Breast&C0278601
+Breast Carcinomas, Inflammatory&C0278601
+Carcinomas, Inflammatory Breast&C0278601
+Breast Carcinoma, Inflammatory&C0278601
+Breast Neoplasms, Inflammatory&C0278601
+Carcinoma, Inflammatory Breast&C0278601
+Inflammatory Breast Carcinomas&C0278601
+Breast carcinoma inflammatory&C0278601
+Inflammatory Breast Carcinoma&C0278601
+breast inflammatory carcinoma&C0278601
+inflammatory carcinoma breast&C0278601
+Breast Cancers, Inflammatory&C0278601
+Cancer, Inflammatory Breast&C0278601
+Inflammatory Breast Cancers&C0278601
+Inflammatory Breast Cancer&C0278601
+Infusion technique (qualifier value)&C0574032
+Infusion - action (qualifier value)&C0574032
+Infusion (procedure)&C0574032
+Infusion procedures&C0574032
+Infusion Procedure&C0574032
+Infusion Technique&C0574032
+Infusion - action&C0574032
+Infusion, NOS&C0574032
+infusions&C0574032
+Infusion&C0574032
+Injection of therapeutic substance, NOS&C0021485
+Injection of therapeutic agent, NOS&C0021485
+Injection of therapeutic substance&C0021485
+Injection of therapeutic agent&C0021485
+Injection of medication, NOS&C0021485
+administration of injection&C0021485
+injection administration&C0021485
+Injection of drug, NOS&C0021485
+injection procedures&C0021485
+injections procedure&C0021485
+Injection procedure&C0021485
+injections&C0021485
+injection&C0021485
+Shot&C0021485
+Injection - action (qualifier value)&C1533685
+RNIx injection administration&C1533685
+Injection Administration&C1533685
+Injection (procedure)&C1533685
+Injection procedure&C1533685
+Injection - action&C1533685
+Injection, NOS&C1533685
+Injection(s)&C1533685
+Injection&C1533685
+International Breast Cancer Study Group&C1512890
+IUCD - Intrauterine contraceptive device&C0021900
+Contraceptive Devices, Intrauterine&C0021900
+Intrauterine Devices, Contraceptive&C0021900
+Contraceptive Device, Intrauterine&C0021900
+Device, Intrauterine Contraceptive&C0021900
+Intra-uterine contraceptive device&C0021900
+Intrauterine Contraceptive Devices&C0021900
+Intrauterine Contraceptive Device&C0021900
+Intra-uterine device&C0021900
+Intrauterine Devices&C0021900
+intra uterine device&C0021900
+INTRAUTERINE DEVICE&C0021900
+Contraceptive IUDs&C0021900
+IUCD&C0021900
+IUD&C0021900
+Invasive Carcinoma&C1334274
+carcinoma; infiltrating lobular, unspecified site&C0279565
+Infiltrating Lobular Carcinoma of the Breast&C0279565
+Infiltrating Lobular Carcinoma of Breast&C0279565
+Invasive Lobular Carcinoma of the Breast&C0279565
+Invasive Lobular Carcinoma, Classic Type&C0279565
+Invasive pleomorphic lobular carcinoma&C0279565
+Infiltrating Lobular Breast Carcinoma&C0279565
+Invasive Lobular Carcinoma of Breast&C0279565
+Infiltrating Lobular Adenocarcinoma&C0279565
+Invasive Breast Lobular Carcinoma&C0279565
+Invasive Lobular Breast Carcinoma&C0279565
+Lobular breast carcinoma invasive&C0279565
+lobular invasive breast carcinoma&C0279565
+Invasive Lobular Adenocarcinoma&C0279565
+Invasive Lobular Carcinoma&C0279565
+Infiltrating Malignant Neoplasm&C0677898
+Invasive Malignant Neoplasm&C0677898
+cancer infiltrating&C0677898
+infiltrating cancer&C0677898
+cancers invasive&C0677898
+invasive cancer&C0677898
+invasive carcinoma of breast (diagnosis)&C0853879
+Invasive carcinoma of breast (disorder)&C0853879
+Infiltrating Carcinoma of the Breast&C0853879
+Infiltrating Carcinoma of Breast&C0853879
+Invasive Carcinoma of the Breast&C0853879
+Infiltrating Breast Carcinoma&C0853879
+Invasive Carcinoma of Breast&C0853879
+Invasive carcinoma of breast&C0853879
+Breast cancer invasive NOS&C0853879
+Invasive Mammary Carcinoma&C0853879
+Invasive Breast Carcinoma&C0853879
+Invasive Breast Cancer&C0853879
+breast cancer invasive&C0853879
+Ipsilateral (qualifier value)&C0441989
+Ipsilateral&C0441989
+Irregular menstrual bleeding&C0156404
+Irregular periods (finding)&C0156404
+Menstrual periods irregular&C0156404
+IRREGULAR UTERINE BLEEDING&C0156404
+Irregular menstrual cycle&C0156404
+irregular cycle intervals&C0156404
+Menstrual Irregularities&C0156404
+menstruation; irregular&C0156404
+Irregular Menstruation&C0156404
+Irregular menstruation&C0156404
+MENSTRUAL IRREGULARITY&C0156404
+Menstruation;irregular&C0156404
+Irregular periods&C0156404
+Irregular menses&C0156404
+irregular period&C0156404
+Jones Test&C2827602
+Laboratory diagnosis (contextual qualifier) (qualifier value)&C0011911
+Laboratory diagnosis (contextual qualifier)&C0011911
+Diagnosis, Laboratory&C0011911
+Laboratory Diagnoses&C0011911
+Laboratory Diagnosis&C0011911
+Lancet (physical object)&C0777169
+diabetic supplies lancet&C0777169
+lancets@@MISCELL@EACH&C0777169
+lancets MISCELL EACH&C0777169
+lancet (treatment)&C0777169
+lancet devices&C0777169
+Lancet Device&C0777169
+Blood Lancet&C0777169
+Lancets&C0777169
+LANCET&C0777169
+Lancet&C0777169
+Late Third Trimester&C4683818
+Lesion (morphologic abnormality)&C0221198
+Visible Lesion&C0221198
+Lesion, NOS&C0221198
+Lesions&C0221198
+LESION&C0221198
+Lesion&C0221198
+lesion of breast (physical finding)&C0567489
+Lesion of breast (disorder)&C0567489
+Lesion of breast&C0567489
+breasts lesions&C0567489
+lesions breasts&C0567489
+breast lesions&C0567489
+BREAST LESION&C0567489
+lesion breast&C0567489
+Decreased blood leukocyte number&C0023530
+Low white blood cell count&C0023530
+Leucocytopenia&C0023530
+Leukocytopenia&C0023530
+Leukopenia NOS&C0023530
+Leukopenias&C0023530
+NEUTROPENIA&C0023530
+LEUCOPENIA&C0023530
+LEUKOPENIA&C0023530
+Leukopenia&C0023530
+Level II (tumor staging)&C0441926
+Midaxilla&C0441926
+Level II&C0441926
+ii level&C0441926
+Lewis blood group system (qualifier value)&C0023595
+Blood groups--Lewis system&C0023595
+Lewis Blood Group Antigens&C0023595
+BLOOD GROUP, LEWIS SYSTEM&C0023595
+Blood-Group System, Lewis&C0023595
+LEWIS BLOOD GROUP SYSTEM&C0023595
+Le(a) Blood Group System&C0023595
+Lewis Blood-Group System&C0023595
+ISBT system 007&C0023595
+ISBT system LE&C0023595
+Lewis System&C0023595
+Lewis group&C0023595
+LES&C0023595
+Limited stage (cancer stage)&C1517886
+Limited Metastatic Disease&C1517886
+Early-Stage Cancer&C1517886
+Limited Stage&C1517886
+Early Stage&C1517886
+Lipectomy (procedure)&C0023765
+lipectomy (treatment)&C0023765
+panniculectomy&C0023765
+Lipectomies&C0023765
+LIPECTOMY&C0023765
+Lipectomy&C0023765
+function hepatic panel&C0023901
+Tests, Liver Function&C0023901
+Liver Function Tests&C0023901
+Test, Liver Function&C0023901
+LIVER FUNCTION TEST&C0023901
+LFT's&C0023901
+Lobular (qualifier value)&C0205417
+Lobular&C0205417
+Localized Therapy&C1517925
+Localized (qualifier value)&C0392752
+Limited area&C0392752
+localizing&C0392752
+LOCALIZED&C0392752
+Localised&C0392752
+Localized&C0392752
+localize&C0392752
+Localized Malignant Neoplasm&C0796563
+Localized Malignancy&C0796563
+Localized Cancer&C0796563
+Local Cancer&C0796563
+localized enlarged lymph nodes (physical finding)&C0478664
+Localized enlarged lymph nodes (disorder)&C0478664
+lymphatic gland; hypertrophy, localized&C0478664
+enlargement; lymph node, localized&C0478664
+lymph node; enlargement, localized&C0478664
+Localised enlarged lymph nodes&C0478664
+Localized enlarged lymph nodes&C0478664
+enlargement; lymph node, local&C0478664
+lymph node; enlargement, local&C0478664
+lymph nodes enlarged localized&C0478664
+hypertrophy; gland, localized&C0478664
+Lymphadenopathy, localized&C0478664
+localized; lymphadenopathy&C0478664
+lymphadenopathy; localized&C0478664
+Localized Lymphadenopathy&C0478664
+LYMPHADENOPATHY REGIONAL&C0478664
+Regional lymphadenopathy&C0478664
+adenopathy; localized&C0478664
+localized; adenopathy&C0478664
+Locally advanced malignant neoplasm (finding)&C0677984
+Locally Metastatic Malignant Neoplasm&C0677984
+Locally Advanced Malignant Neoplasm&C0677984
+Locally advanced malignant tumour&C0677984
+Locally advanced malignant tumor&C0677984
+Locally Advanced Cancer&C0677984
+Locally Recurrent Malignant Neoplasm&C2986682
+Locally Recurrent Cancer&C2986682
+Locoregional Recurrence&C2986682
+Structure of loose areolar connective tissue (body structure)&C0225343
+Structure of loose areolar connective tissue&C0225343
+Loose areolar connective tissue&C0225343
+Areolar connective tissue&C0225343
+Loose Connective Tissue&C0225343
+Areolar Tissue&C0225343
+Low Grade Cervical Squamous Intraepithelial Neoplasia&C1518005
+Cervical low grade squamous intraepithelial lesion&C1518005
+Low Grade Cervical Squamous Intraepithelial Lesion&C1518005
+Low-Grade Cervical Squamous Intraepithelial Lesion&C1518005
+Cervical Squamous Intraepithelial Neoplasia 1&C1518005
+Mild Squamous Dysplasia of the Cervix&C1518005
+Low-Grade Cervical SIL&C1518005
+Low-Grade CIN&C1518005
+Low dose computed tomography of thorax (procedure)&C4075962
+Low Dose Computed Tomography of the Chest&C4075962
+Low dose computed tomography of thorax&C4075962
+Low dose computed tomography of chest&C4075962
+Low Dose Chest Computed Tomography&C4075962
+Low-dose Chest Computed Tomography&C4075962
+Low-dose Chest CT&C4075962
+Serum estradiol levels below reference range (finding)&C0241011
+Serum oestradiol levels below reference range&C0241011
+Serum estradiol levels below reference range&C0241011
+Low serum 17-B-oestradiol levels&C0241011
+Low serum 17-B-estradiol levels&C0241011
+Low serum oestradiol levels&C0241011
+Low serum estradiol levels&C0241011
+SERUM ESTRADIOL, DECREASED&C0241011
+Decreased serum estradiol&C0241011
+breast lumpectomy (treatment)&C0851238
+Excision of breast lump&C0851238
+Lumpectomy of Breast&C0851238
+Lumpectomy of breast&C0851238
+Breast lump removal&C0851238
+Partial Mastectomy&C0851238
+BREAST LUMPECTOMY&C0851238
+Lumpectomy, NOS&C0851238
+Tylectomy, NOS&C0851238
+Lumpectomy&C0851238
+Tylectomy&C0851238
+tuberculosis; lupus exedens&C0024131
+Tuberculosis lupus exedens&C0024131
+lupus vulgaris (diagnosis)&C0024131
+Tuberculosis cutis luposa&C0024131
+Tuberculosis luposa cutis&C0024131
+lupus exedens (diagnosis)&C0024131
+tuberculosis luposa&C0024131
+tuberculosis; lupus&C0024131
+lupus tuberculosis&C0024131
+lupus; tuberculous&C0024131
+lupus; vulgaris&C0024131
+Lupus Vulgaris&C0024131
+exedens; lupus&C0024131
+lupus; exedens&C0024131
+Lupus exedens&C0024131
+Lupus&C0024131
+Lymphomatous nodal involvement (tumor staging)&C0806692
+Lymph node involvement (procedure)&C0806692
+Lymphomatous nodal involvement&C0806692
+Lymph Node Involvement&C0806692
+Excision of group of lymph nodes&C0024203
+Excision of lymph node, NOS&C0024203
+Simple lymphadenectomy&C0024203
+Excisions, Lymph Node&C0024203
+Lymph Node Dissection&C0024203
+Lymph Nodes: Excision&C0024203
+Excision, Lymph Node&C0024203
+Lymph Node Excisions&C0024203
+Lymphadenectomy, NOS&C0024203
+Lymph Node Excision&C0024203
+Lymph node excision&C0024203
+excision lymph node&C0024203
+Lymphadenectomy&C0024203
+Lymphovascular Space Invasion&C1708790
+Lymphovascular Invasion&C1708790
+Lymphatic Invasion&C1708790
+Structure of lymphatic system (body structure)&C0024235
+Reticuloendothelial System, Lymphatic System&C0024235
+Structure of lymphatic system&C0024235
+Lymphatic system structure&C0024235
+Lymphoreticular system&C0024235
+Lymphatic system, NOS&C0024235
+Lymphatic tree system&C0024235
+Lymphatic Systems&C0024235
+lymphatics system&C0024235
+Lymphatic System&C0024235
+Lymphatics&C0024235
+LYMPHOEDEMA&C0024236
+Lymphedemas&C0024236
+LYMPHEDEMA&C0024236
+Lymphedema&C0024236
+Lymphovascular Invasion 1&C4687695
+LVI 1&C4687695
+malignant neoplasm stage M0 (diagnosis)&C0445034
+M0 Distant Metastasis Finding&C0445034
+malignant neoplasm stage M0&C0445034
+M0 Metastasis Finding&C0445034
+Metastasis stage M0&C0445034
+M0 Cancer Finding&C0445034
+M0 Stage Finding&C0445034
+M0 TNM Finding&C0445034
+M0 Finding&C0445034
+M0 stage&C0445034
+Magnetic resonance imaging of brain without contrast (procedure)&C4305201
+Magnetic Resonance Imaging of the Brain without Contrast&C4305201
+Magnetic resonance imaging of brain without contrast&C4305201
+Brain Magnetic Resonance Imaging without Contrast&C4305201
+MRI of brain without contrast (procedure)&C4305201
+MRI scan head brain without contrast&C4305201
+MRI of brain without contrast&C4305201
+Brain MRI without Contrast&C4305201
+Head MRI without Contrast&C4305201
+Medical Imaging, Magnetic Resonance / Nuclear Magnetic Resonance&C0024485
+Magnetic resonance imaging - action (qualifier value)&C0024485
+imaging magnetic nuclear resonance&C0024485
+nuclear magnetic resonance imaging&C0024485
+Magnetic resonance imaging (MRI)&C0024485
+NMR - Nuclear magnetic resonance&C0024485
+Magnetic Resonance Imaging Scan&C0024485
+Magnetic resonance imaging, NOS&C0024485
+Magnetic Resonance Imaging&C0024485
+Magnetic resonance study&C0024485
+MRI scan (procedure)&C0024485
+Magnetic resonance&C0024485
+Tomography, NMR&C0024485
+MR Tomography&C0024485
+Imaging, NMR&C0024485
+MRI scan&C0024485
+MRI&C0024485
+Magnetic resonance imaging contrast media (substance)&C0180108
+Magnetic resonance imaging contrast medium&C0180108
+MAGNETIC RESONANCE IMAGING CONTRAST MEDIA&C0180108
+Magnetic resonance imaging contrast media&C0180108
+Contrast Media, Magnetic Resonance&C0180108
+Contrast Media, Paramagnetic&C0180108
+Magnetic resonance imaging of breast (procedure)&C0344104
+Magnetic resonance imaging of breast&C0344104
+Magnetic resonance imaging breast&C0344104
+MRI of breast (procedure)&C0344104
+MRI of breast&C0344104
+MRI breast&C0344104
+breast MRI&C0344104
+Male individual, NOS&C0086582
+Male individual&C0086582
+Male structure&C0086582
+Males (Human)&C0086582
+Human Males&C0086582
+Human, Male&C0086582
+male gender&C0086582
+human male&C0086582
+MALE SEX&C0086582
+sex male&C0086582
+Males&C0086582
+MALE&C0086582
+MAN&C0086582
+Malignant (qualifier value)&C0205282
+Malignant - descriptor&C0205282
+Malignant&C0205282
+Malignant neoplasm of central nervous system (disorder)&C0348374
+Malignant Neoplasm of the Central Nervous System&C0348374
+Malignant neoplasm of central nervous system NOS&C0348374
+Malignant Tumor of the Central Nervous System&C0348374
+Central Nervous System Neoplasms, Malignant&C0348374
+Malignant Central Nervous System Neoplasm&C0348374
+Malignant Central Nervous System Tumor&C0348374
+Cancer of the Central Nervous System&C0348374
+Cancer of Central Nervous System&C0348374
+Central nervous system--Cancer&C0348374
+Central Nervous System Cancer&C0348374
+Malignant Tumor of the CNS&C0348374
+CNS Malignant Neoplasms&C0348374
+malignant CNS neoplasm&C0348374
+Malignant CNS Tumor&C0348374
+neurological cancer&C0348374
+Cancer of the CNS&C0348374
+cns malignancies&C0348374
+CNS MALIGNANCY&C0348374
+CNS cancer&C0348374
+Malignant neoplasm without specification of site&C0006826
+Unclassified malignant tumour&C0006826
+Malignant neoplastic disease&C0006826
+Malignant Neoplasms&C0006826
+Neoplasm, malignant&C0006826
+Malignant neoplasm&C0006826
+NEOPLASM MALIGNANT&C0006826
+Malignant tumour&C0006826
+neoplasm/cancer&C0006826
+CANCER (NOS)&C0006826
+CA - Cancer&C0006826
+Malignancy&C0006826
+Blastoma&C0006826
+Cancers&C0006826
+cancer&C0006826
+Malignant Neoplasm of Breast&C0006142
+Malignant neoplasm of breast&C0006142
+Breast Malignant Neoplasms&C0006142
+Malignant breast neoplasm&C0006142
+Malignant neoplasm breast&C0006142
+breast malignant neoplasm&C0006142
+cancer of the breast&C0006142
+CA - Breast cancer&C0006142
+Breast cancer NOS&C0006142
+Cancer of Breast&C0006142
+breast cancers&C0006142
+BREAST CANCER&C0006142
+Malignant Neoplasm of Ovary&C1140680
+Malignant neoplasm of ovary&C1140680
+ovarian cancer (diagnosis)&C1140680
+Malignant tumour of ovary&C1140680
+Malignant tumor of ovary&C1140680
+cancer of the ovary&C1140680
+carcinoma of ovary&C1140680
+ovarian carcinomas&C1140680
+carcinoma ovarian&C1140680
+Cancer of ovary&C1140680
+Ovarian Cancers&C1140680
+cancers ovarian&C1140680
+carcinoma ovary&C1140680
+ovary carcinoma&C1140680
+Ovarian Cancer&C1140680
+cancer ovarian&C1140680
+Ovarian Ca&C1140680
+ca ovarian&C1140680
+Reconstruction of breast&C0085076
+Reconstructions, Breast&C0085076
+Breast Reconstructions&C0085076
+Reconstruction, Breast&C0085076
+Breast Reconstruction&C0085076
+Mammoplasty, NOS&C0085076
+Mammaplasties&C0085076
+Mammaplasty&C0085076
+Mammoplasty&C0085076
+location of neoplasm of breast (diagnosis)&C1458155
+neoplasm of breast (diagnosis)&C1458155
+Neoplasm of breast (disorder)&C1458155
+Neoplasia of the breast&C1458155
+Neoplasm of the Breast&C1458155
+Breast neoplasm NOS&C1458155
+Tumor of the Breast&C1458155
+Mammary Neoplasms&C1458155
+Neoplasms, Breast&C1458155
+Breast Neoplasm&C1458155
+NEOPLASM BREAST&C1458155
+Tumor of Breast&C1458155
+Tumors, Breast&C1458155
+Breast Tumors&C1458155
+Tumor, Breast&C1458155
+Breast Tumor&C1458155
+Mammographically Dense Breast&C4330659
+Mammography (procedure)&C0024671
+mammography procedures&C0024671
+mammogram (procedure)&C0024671
+Diagnostic mammogram&C0024671
+Mammography, NOS&C0024671
+Mammographies&C0024671
+Mammography&C0024671
+Mammogram&C0024671
+Mam&C0024671
+Marginal (qualifier value)&C0205284
+Marginal&C0205284
+Border&C0205284
+Margin&C0205284
+Verge&C0205284
+MASS BREAST (NOS)&C0024103
+Breast mass NOS&C0024103
+Mass in Breast&C0024103
+Mass in breast&C0024103
+BREAST NODULE&C0024103
+breast masses&C0024103
+breast; mass&C0024103
+mass; breast&C0024103
+BREAST MASS&C0024103
+Mass (morphologic abnormality)&C0577559
+Mass of body structure&C0577559
+Observation of a mass&C0577559
+Mass, localized&C0577559
+localized; mass&C0577559
+mass; localized&C0577559
+Localised mass&C0577559
+Localized mass&C0577559
+Lump, NOS&C0577559
+lumps&C0577559
+Lump&C0577559
+surgical removal of the breast&C0024881
+mastectomy&C0024881
+Mastectomy Procedures&C0024881
+Mammectomy, NOS&C0024881
+Mastectomy NOS&C0024881
+Mastectomies&C0024881
+MASTECTOMY&C0024881
+Mammectomy&C0024881
+Mastectomy&C0024881
+Removal of breast tissue with preservation of skin and nipple&C0024887
+Unilateral mastectomy with preservation of skin and nipple&C0024887
+Nipple preserving subcutaneous mastectomy&C0024887
+Subcutaneous mastectomy (procedure)&C0024887
+subcutaneous mastectomy (treatment)&C0024887
+Unilateral subcutaneous mammectomy&C0024887
+Subcutaneous mastectomy, NOS&C0024887
+Subcutaneous mammectomy NOS&C0024887
+Mastectomies, Subcutaneous&C0024887
+Nipple sparing mastectomy&C0024887
+Nipple-sparing mastectomy&C0024887
+Subcutaneous Mastectomies&C0024887
+Mastectomy, Subcutaneous&C0024887
+Subcutaneous Mastectomy&C0024887
+mastectomy subcutaneous&C0024887
+Structure of deciduous maxillary left lateral incisor tooth (body structure)&C0227091
+Structure of deciduous maxillary left lateral incisor tooth&C0227091
+Deciduous maxillary left lateral incisor tooth&C0227091
+Left upper lateral deciduous incisor tooth&C0227091
+Left primary upper lateral incisor tooth&C0227091
+Primary upper left lateral incisor tooth&C0227091
+Maxillary left lateral primary incisor&C0227091
+ULB - Primary upper left B tooth&C0227091
+Left upper primary tooth B&C0227091
+Primary upper left B tooth&C0227091
+Universal designation 7d&C0227091
+Haderup designation +02&C0227091
+Universal designation G&C0227091
+ISO designation 62&C0227091
+Tooth G&C0227091
+Contraindication to medical treatment&C1301624
+medical contraindication (treatment)&C1301624
+Contraindications, Medical&C1301624
+Contraindication, Medical&C1301624
+Medical Contraindications&C1301624
+Medical Contraindication&C1301624
+Medical contraindication&C1301624
+Contraindications&C1301624
+Contraindication&C1301624
+female climacteric state&C0025320
+CLIMACTERIC, FEMALE&C0025320
+Female climacteric&C0025320
+menopausal; state&C0025320
+Menopausal state&C0025320
+Menopause, NOS&C0025320
+MENOPAUSAL&C0025320
+Menopause&C0025320
+Menstruation functions&C0025344
+Menstruation, function&C0025344
+Menstrual period&C0025344
+Menstrual flow&C0025344
+menstruations&C0025344
+Menstruation&C0025344
+Catamenia&C0025344
+Menorrhea&C0025344
+Menstrual&C0025344
+periods&C0025344
+MENSES&C0025344
+period&C0025344
+Metabolic Process, Cellular&C1524026
+cellular metabolic process&C1524026
+cellular metabolism&C1524026
+Metabolic Process&C1524026
+Metabolized&C1524026
+Metabolism&C1524026
+Metabolic&C1524026
+Metaplastic&C0334023
+Metaplastic carcinoma (morphologic abnormality)&C1266089
+Metaplastic Carcinoma&C1266089
+Metaplastic carcinoma&C1266089
+malignant neoplasm stage M1 (diagnosis)&C0441971
+malignant neoplasm stage M1&C0441971
+M1 Metastasis Finding&C0441971
+Metastasis stage M1&C0441971
+M1 TNM Finding&C0441971
+M1 Finding&C0441971
+M1 stage&C0441971
+Metastatic Breast Carcinoma&C4723838
+Symptomatic Visceral Disease&C5447509
+Metastatic Visceral Disease&C5447509
+Metastatic malignant neoplasm to brain (disorder)&C0220650
+Metastatic malignant neoplasm to brain, NOS&C0220650
+Metastatic Malignant Neoplasm in the Brain&C0220650
+Metastatic Malignant Neoplasm to the Brain&C0220650
+Secondary malignant neoplasm of brain, NOS&C0220650
+Metastatic malignant neoplasm of brain&C0220650
+Metastatic malignant neoplasm to brain&C0220650
+Secondary malignant neoplasm of brain&C0220650
+Metastatic Neoplasm to the Brain&C0220650
+metastasis to brain (diagnosis)&C0220650
+Cancer metastatic to brain&C0220650
+brain metastatic tumors&C0220650
+BRAIN TUMOR METASTATIC&C0220650
+Metastases to brain&C0220650
+Brain secondaries&C0220650
+BRAIN METASTASES&C0220650
+brain metastasis&C0220650
+metastasis brain&C0220650
+Metastatic to (attribute)&C0036525
+MT - metastatic to&C0036525
+Metastatic to&C0036525
+Metastatic&C0036525
+Microcalcification, calcified structure (morphologic abnormality)&C0521174
+Microcalcification, calcified structure&C0521174
+Microcalcifications&C0521174
+Microcalcification&C0521174
+Microcalcinoses&C0521174
+Microcalcinosis&C0521174
+Microinvasive tumor (qualifier value)&C0205622
+Microinvasive Lesion&C0205622
+Microinvasive tumour&C0205622
+Microinvasive tumor&C0205622
+Microinvasive&C0205622
+Pseudohypoplasia of the optic nerve&C1290608
+Micropapilla (disorder)&C1290608
+Micropapilla&C1290608
+Microscopic (qualifier value)&C0205288
+Microscopic&C0205288
+CONGENITAL FAMILIAL PROTRACTED DIARRHEA WITH ENTEROCYTE BRUSH-BORDER ABNORMALITIES&C0341306
+DIARRHEA 2, WITH MICROVILLUS ATROPHY, WITH OR WITHOUT CHOLESTASIS&C0341306
+anomalies of intestine microvillus inclusion disease (diagnosis)&C0341306
+anomalies of intestine microvillus inclusion disease&C0341306
+Diarrhea 2, With Microvillus Atrophy&C0341306
+Congenital microvillous atrophy&C0341306
+Intractable diarrhea of infancy&C0341306
+MICROVILLUS ATROPHY, CONGENITAL&C0341306
+Congenital microvillus atrophy&C0341306
+Microvillous inclusion disease&C0341306
+Microvillus inclusion disease&C0341306
+Microvillous atrophy&C0341306
+DAVIDSON DISEASE&C0341306
+DIAR2&C0341306
+MVID1&C0341306
+MVID&C0341306
+Modulated (qualifier value)&C0443264
+Modulating&C0443264
+Modulation&C0443264
+Modulated&C0443264
+modulate&C0443264
+Molecular Targeted Therapies&C2699893
+Targeted Molecular Therapies&C2699893
+molecularly targeted therapy&C2699893
+Molecular Therapy, Targeted&C2699893
+Targeted Therapy, Molecular&C2699893
+Therapy, Molecular Targeted&C2699893
+Therapy, Targeted Molecular&C2699893
+Molecular Targeted Therapy&C2699893
+Targeted Molecular Therapy&C2699893
+Product containing monoclonal antibody (product)&C0003250
+Monoclonal immunoglobulin-containing product&C0003250
+Monoclonal antibody-containing product&C0003250
+Monoclonal antibody (substance)&C0003250
+Monoclonal immunoglobulin&C0003250
+Antibodies, Monoclonal&C0003250
+Monoclonal Antibodies&C0003250
+Antibody, Monoclonal&C0003250
+Monoclonal Antibody&C0003250
+Monoclonal protein&C0003250
+MAb&C0003250
+Morbidity - disease rate&C0026538
+disorder incidence&C0026538
+Morbidity rates&C0026538
+disease rates&C0026538
+disease rate&C0026538
+Morbidities&C0026538
+Morbidity&C0026538
+Mucinous&C1513712
+Multicentric (qualifier value)&C0439743
+Multicentric&C0439743
+Multifocal (qualifier value)&C0205292
+Multifocal&C0205292
+Genetic mutation (finding)&C0026882
+alterations genetic&C0026882
+mutation (genetics)&C0026882
+Genetic Alteration&C0026882
+genetic mutations&C0026882
+Genetic mutation&C0026882
+genomic mutation&C0026882
+genome mutation&C0026882
+Mutations&C0026882
+Mutation&C0026882
+NBAS subunit of NRZ tethering complex protein, human&C1431698
+neuroblastoma-amplified sequence protein, human&C1431698
+neuroblastoma-amplified protein, human&C1431698
+Neuroblastoma-Amplified Gene Protein&C1431698
+Neuroblastoma-Amplified Sequence&C1431698
+Neuroblastoma-Amplified Protein&C1431698
+NBAS protein, human&C1431698
+NAG protein, human&C1431698
+NAG&C1431698
+NCI-Designated Cancer Center&C1513817
+Cancer Centers&C1513817
+Cancer Center&C1513817
+Nanoparticle Albumin-Bound Docetaxel&C2347327
+Docetaxel Albumin-bound&C2347327
+Nab-Docetaxel&C2347327
+National Cancer Program&C1513887
+NCP&C1513887
+National Surgical Adjuvant Breast and Bowel Project&C1513905
+NSABP&C1513905
+Necrosis (morphologic abnormality)&C0027540
+Cellular necrosis, NOS&C0027540
+Tissue devitalization&C0027540
+Cellular necrosis&C0027540
+Necrotic Process&C0027540
+Necrosis, NOS&C0027540
+death tissue&C0027540
+tissue death&C0027540
+NECROSES&C0027540
+Necrosis&C0027540
+Needle biopsy (procedure)&C0005560
+Needle biopsy procedure&C0005560
+Needle biopsy, NOS&C0005560
+Needle biopsy NOS&C0005560
+Biopsies, Needle&C0005560
+Needle Biopsies&C0005560
+Needle sampling&C0005560
+Biopsy, Needle&C0005560
+biopsy needles&C0005560
+Needle Biopsy&C0005560
+Lymph node negative&C0678034
+Negative Lymph Node&C0678034
+node negative&C0678034
+node-negative&C0678034
+Intradermal test negative&C0855856
+Skin test NOS negative&C0855856
+Negative Skin Test&C0855856
+Skin test negative&C0855856
+Skin test normal&C0855856
+Surgical Margins, Negative&C1709157
+Negative Surgical Margins&C1709157
+Surgical Margin, Negative&C1709157
+Negative Surgical Margin&C1709157
+Clear Surgical Margin&C1709157
+Margins, Tumor-Free&C1709157
+Margin, Tumor-Free&C1709157
+Tumor Free Margins&C1709157
+Tumor-Free Margins&C1709157
+Tumor-Free Margin&C1709157
+Clear Margin&C1709157
+Chemotherapy Treatment, Neoadjuvant&C5392214
+Neoadjuvant Chemotherapy Treatments&C5392214
+Treatment, Neoadjuvant Chemotherapy&C5392214
+Neoadjuvant Chemotherapy Treatment&C5392214
+Neoadjuvant Chemotherapies&C5392214
+Chemotherapy, Neoadjuvant&C5392214
+Neoadjuvant Chemotherapy&C5392214
+Neoadjuvant Treatments&C0600558
+Treatment, Neoadjuvant&C0600558
+Neoadjuvant Therapies&C0600558
+Neoadjuvant Treatment&C0600558
+Pre-Adjuvant Therapy&C0600558
+Preoperative Therapy&C0600558
+Therapy, Neoadjuvant&C0600558
+Neoadjuvant Therapy&C0600558
+Induction Therapy&C0600558
+Neoadjuvant&C0600558
+Metastases, Neoplasm&C0027627
+Metastasis, Neoplasm&C0027627
+Neoplasm Metastasis&C0027627
+metastatic cancer&C0027627
+metastatic tumors&C0027627
+metastatic tumour&C0027627
+tumour metastasis&C0027627
+cancer secondary&C0027627
+metastatic tumor&C0027627
+secondary cancer&C0027627
+tumor metastasis&C0027627
+METASTASES NOS&C0027627
+metastasized&C0027627
+secondaries&C0027627
+Metastases&C0027627
+Metastasis&C0027627
+secondary&C0027627
+NG - Neoplastic growth&C0027651
+neoplastic disease&C0027651
+Neoplastic Growth&C0027651
+NEOPLASM NOS&C0027651
+neoplasias&C0027651
+NEOPLASIA&C0027651
+Neoplasms&C0027651
+Neoplasm&C0027651
+Tumors&C0027651
+Tumour&C0027651
+Tumor&C0027651
+Nipple reconstruction (procedure)&C0191926
+nipple reconstruction (treatment)&C0191926
+Reconstruction of nipple, NOS&C0191926
+Reconstruction of nipple&C0191926
+nipples reconstruction&C0191926
+Nipple reconstruction&C0191926
+Repair of nipple, NOS&C0191926
+Mammilliplasty, NOS&C0191926
+Theleplasty, NOS&C0191926
+Mammilliplasty&C0191926
+nipple repair&C0191926
+Theleplasty&C0191926
+Nipple structure (body structure)&C0028109
+Papillary part of breast&C0028109
+Nipple (Anatomy)&C0028109
+Nipple structure&C0028109
+Papilla mammaria&C0028109
+Nipple anatomy&C0028109
+Nipples&C0028109
+Nipple&C0028109
+teats&C0028109
+Teat&C0028109
+No Surgical Reconstruction&C3840851
+no reconstruction&C3840851
+No radiation therapy&C3846110
+Non-Metastatic Mass&C1334990
+Nonmetastatic Mass&C1334990
+Non-Infiltrating Intraductal Breast Adenocarcinoma&C0007124
+Non-Invasive Intraductal Breast Adenocarcinoma&C0007124
+Non-Infiltrating Intraductal Adenocarcinoma&C0007124
+Non-Invasive Ductal Breast Adenocarcinoma&C0007124
+Carcinoma, Intraductal, Noninfiltrating&C0007124
+Carcinomas, Noninfiltrating Intraductal&C0007124
+Non-Infiltrating Intraductal Carcinoma&C0007124
+ductal carcinoma in situ of the breast&C0007124
+Intraductal carcinoma noninfiltrating&C0007124
+Noninfiltrating Intraductal Carcinoma&C0007124
+Intraductal Carcinoma of the Breast&C0007124
+Carcinoma in situ of breast ductal&C0007124
+Breast Ductal Carcinoma In Situ&C0007124
+Intraductal Carcinoma of Breast&C0007124
+ductal breast carcinoma in situ&C0007124
+breast; carcinoma, intraductal&C0007124
+carcinoma; intraductal, breast&C0007124
+breast; intraductal carcinoma&C0007124
+breast cancer intraductal&C0007124
+intraductal breast cancer&C0007124
+carcinoma ductal in situ&C0007124
+Carcinomas, Intraductal&C0007124
+Intraductal Carcinomas&C0007124
+dci&C0007124
+Nuclear Staining&C5237001
+Nucleotide Sequence Sample Name&C5551027
+Sequenced Sample Name&C5551027
+Sample Name&C5551027
+Sample&C5551027
+delivery under medical care&C0011209
+Pregnancy delivered, NOS&C0011209
+Deliveries, Obstetric&C0011209
+Delivery (Obstetrics)&C0011209
+Delivery Procedures&C0011209
+Pregnancy delivered&C0011209
+Delivery procedure&C0011209
+Labor and delivery&C0011209
+Obstetric Delivery&C0011209
+Delivery - action&C0011209
+childbirth&C0011209
+Birthing&C0011209
+DELIVERY&C0011209
+Occultism (religion/philosophy)&C0028794
+Occultisms&C0028794
+Occultism&C0028794
+Occult&C0028794
+Oocyte (cell)&C0029045
+cells oocytes&C0029045
+Ovocyte, NOS&C0029045
+Oocyte, NOS&C0029045
+Ovocytes&C0029045
+Oocytes&C0029045
+Ovocyte&C0029045
+Oocyte&C0029045
+PROSTATE: GENERAL AND MISCELLANEOUS OPERATIVE PROCEDURES&C0194790
+OPERATIVE PROCEDURES ON THE PROSTATE&C0194790
+Surgical Procedures on the Prostate&C0194790
+Operation on prostate (procedure)&C0194790
+procedures prostate surgical&C0194790
+prostate surgery (treatment)&C0194790
+Operation on prostate, NOS&C0194790
+Prostatic operation NOS&C0194790
+Operation on prostate&C0194790
+Prostatic operation&C0194790
+prostate operation&C0194790
+prostate surgeries&C0194790
+PROSTATE SURGERY&C0194790
+surgery prostate&C0194790
+Optical Image Reconstruction&C0020912
+Reconstructions, Image&C0020912
+Image Reconstructions&C0020912
+Reconstruction, Image&C0020912
+images reconstruction&C0020912
+Image Reconstruction&C0020912
+Reconstruction&C0020912
+Optimal&C2698651
+Optimum&C2698651
+Docetaxel-P-glycoprotein Inhibitor&C4330857
+Docetaxel-P-gp Inhibitor&C4330857
+Oral Docetaxel&C4330857
+Circumoral region of face&C0230028
+Perioral region of face&C0230028
+Oral region of face&C0230028
+Oral part of face&C0230028
+Regio oralis&C0230028
+Oral region&C0230028
+Oregon (geographic location)&C0029195
+Oregon&C0029195
+Organs (Anatomy)&C0178784
+anatomy organs&C0178784
+organs anatomy&C0178784
+anatomy organ&C0178784
+{Organ}&C0178784
+organs&C0178784
+Organ&C0178784
+Organization administrative structures&C0029246
+Organizational Unit&C0029246
+Organizational&C0029246
+Organizations&C0029246
+Organization&C0029246
+Brachydactyly of the hands and feet with duplication of the first toes&C0406726
+Orofacial-digital syndrome III (disorder)&C0406726
+OFD III - Orofacial-digital syndrome III&C0406726
+ORAL-FACIAL-DIGITAL SYNDROME, TYPE III&C0406726
+Oral-facial-digital syndrome type 3&C0406726
+orofaciodigital (OFD) syndrome III&C0406726
+oral-facial-digital syndrome III&C0406726
+Orofaciodigital syndrome type 3&C0406726
+Oral-facial-digital syndrome 3&C0406726
+Orofacial-digital syndrome III&C0406726
+digito-orofacial syndrome III&C0406726
+OROFACIODIGITAL SYNDROME III&C0406726
+Orofaciodigital syndrome 3&C0406726
+SUGARMAN SYNDROME&C0406726
+OFDS III&C0406726
+Inserts [medical device]&C0813036
+Orthopedic inserts&C0813036
+Inserts&C0813036
+INSERT&C0813036
+Paget's disease of bone [osteitis deformans]&C0029401
+Osteitis deformans (disorder)&C0029401
+osteitis deformans of bone&C0029401
+Paget; osteitis deformans&C0029401
+osteitis deformans; Paget&C0029401
+PAGET'S DISEASE OF BONE&C0029401
+Paget's disease (bone)&C0029401
+Pagets Disease (Bone)&C0029401
+OSTEITIS DEFORMANS&C0029401
+Osteitis Deformans&C0029401
+bone Paget disease&C0029401
+PAGET DISEASE&C0029401
+bone; Paget&C0029401
+OVARIAN&C0205065
+Ovarian&C0205065
+Ovaro-&C0205065
+Ovarian ablation (procedure)&C0677922
+ovarian ablation (treatment)&C0677922
+Ovarian Ablation&C0677922
+Ovarian ablation&C0677922
+ovarian failure (diagnosis)&C0747102
+Ovarian failure (disorder)&C0747102
+Ovarian Insufficiency&C0747102
+Ovarian Hypofunction&C0747102
+OVARIAN FAILURE&C0747102
+Ovarian failure&C0747102
+failure ovarian&C0747102
+ADP-ribosyltransferase (NAD+; poly (ADP-ribose) polymerase)&C1538577
+poly (ADP-ribose) polymerase family, member 1&C1538577
+Poly(ADP-Ribose) Polymerase 1 Gene&C1538577
+POLY(ADP-RIBOSE) POLYMERASE 1&C1538577
+POLY(ADP-RIBOSE) POLYMERASE&C1538577
+POLY(ADP-RIBOSE) SYNTHETASE&C1538577
+ADP-RIBOSYLTRANSFERASE&C1538577
+PARP1 Gene&C1538577
+PARP1 gene&C1538577
+Poly-PARP&C1538577
+ADPRT1&C1538577
+ADPRT&C1538577
+ARTD1&C1538577
+PARP1&C1538577
+PARP&C1538577
+PARS&C1538577
+PPOL&C1538577
+c-Met inhibitor PLB1001&C4331801
+PLB-1001&C4331801
+PLB1001&C4331801
+Nervous System-Specific Octamer-Binding Transcription Factor N-Oct-3&C1310510
+POU domain, class 3, transcription factor 2 protein, human&C1310510
+Brain-Specific Homeobox/POU Domain Protein 2&C1310510
+POU Domain, Class 3, Transcription Factor 2&C1310510
+Octamer-Binding Transcription Factor 7&C1310510
+Octamer-Binding Protein 7&C1310510
+Brain-2 protein, human&C1310510
+N-Oct-3 protein, human&C1310510
+brain 2 protein, human&C1310510
+POU3F2 protein, human&C1310510
+POUF3 protein, human&C1310510
+BR-2 protein, human&C1310510
+BRN2 protein, human&C1310510
+OCT7 protein, human&C1310510
+Brain-2&C1310510
+Brn-2&C1310510
+OTF-7&C1310510
+Oct-7&C1310510
+PREVENT [brand name]&C0309872
+PREVENT (product)&C0309872
+PREVENT&C0309872
+PC4 and SFRS1-Interacting Protein Isoform 1&C1615518
+PC4 and SFRS1-Interacting Protein Isoform 2&C1615518
+PC4 and SFRS1 interacting protein 1, human&C1615518
+Lens Epithelium-Derived Growth Factor&C1615518
+dense fine speckles 70 protein, human&C1615518
+PC4 and SFRS1 Interacting Protein 1&C1615518
+PC4 and SFRS1 Interacting Protein 2&C1615518
+Dense Fine Speckles 70 kDa Protein&C1615518
+Transcriptional Coactivator p52&C1615518
+Transcriptional Coactivator p75&C1615518
+CLL-Associated Antigen KW-7&C1615518
+DFS70 protein, human&C1615518
+LEDGF protein, human&C1615518
+PSIP1 protein, human&C1615518
+PSIP2 protein, human&C1615518
+DFS 70&C1615518
+PSIP1&C1615518
+PSIP2&C1615518
+PAIP&C1615518
+p52&C1615518
+p75&C1615518
+Pacing Inadequately&C1881165
+Paclitaxel/Pertuzumab/Trastuzumab Regimen&C4527351
+Pertuzumab-Trastuzumab-Paclitaxel Regimen&C4527351
+Pertuzumab/Trastuzumab/Paclitaxel Regimen&C4527351
+Pertuzumab + Trastuzumab + Paclitaxel&C4527351
+Pertuzumab-Trastuzumab-Paclitaxel&C4527351
+Taxol/Herceptin/Pertuzumab&C4527351
+THP (Taxol) Regimen&C4527351
+Palliative care (regime/therapy)&C0030231
+Supportive Care, Palliative&C0030231
+Palliative Supportive Care&C0030231
+Palliative Treatment&C0030231
+Providing Palliation&C0030231
+Therapy, Palliative&C0030231
+Palliative Therapy&C0030231
+therapy palliative&C0030231
+Care, Palliative&C0030231
+Supportive Cares&C0030231
+care palliatives&C0030231
+care; palliative&C0030231
+cares palliative&C0030231
+palliative; care&C0030231
+Palliative Care&C0030231
+Supportive Care&C0030231
+Palliative Radiation Therapy&C3898008
+Palliative Radiotherapy&C3898008
+Palpable (qualifier value)&C0522499
+Palpable Disease&C0522499
+Palpable&C0522499
+Exocrine and endocrine pancreas&C0030274
+Structure of pancreas&C0030274
+Pancreas, NOS&C0030274
+Pancreatic&C0030274
+PANCREAS&C0030274
+Pancreas&C0030274
+Pathologic Response&C4054230
+Patient currently pregnant&C0549206
+Pregnancy, not delivered&C0549206
+Pregnancy not delivered&C0549206
+Pregnancy (finding)&C0549206
+Currently pregnant&C0549206
+Pregnancy, gravid&C0549206
+Patient pregnant&C0549206
+pregnant patient&C0549206
+Gravidity&C0549206
+Pregnancy&C0549206
+Pregnant&C0549206
+Gravid&C0549206
+Pectoral&C1521735
+Pectoralis minor muscle structure (body structure)&C0224347
+Pectoralis minor muscle structure&C0224347
+Musculus Pectoralis Minor&C0224347
+Muscle, Pectoralis Minor&C0224347
+Pectoralis Minor Muscles&C0224347
+Pectoralis Minor Muscle&C0224347
+M. pectoralis minor&C0224347
+Pectoralis Minors&C0224347
+Pectoralis Minor&C0224347
+PEGylation&C4763480
+Pegylation&C4763480
+Structure of pelvic region, unspecified&C0030797
+Pelvic Cavity&C0030797
+Pelvic Region&C0030797
+Pelvis, NOS&C0030797
+PELVIS&C0030797
+Pelvic&C0030797
+Pelvis&C0030797
+Pentachlorophenol (substance)&C0030855
+PCP - Pentachlorophenol&C0030855
+pentachlorophenol (PCP)&C0030855
+Phenol, pentachloro-&C0030855
+PENTACHLOROPHENOL&C0030855
+Pentachlorophenol&C0030855
+PCP&C0030855
+Renal biopsy; percutaneous, by trocar or needle&C0372299
+RENAL BIOPSY PRQ TROCAR/NEEDLE&C0372299
+Percutaneous Biopsy of Kidney&C0372299
+Percutaneous Renal Biopsy&C0372299
+Perfusion - action (qualifier value)&C0031001
+Perfusion (procedure)&C0031001
+Perfusion - action&C0031001
+Perfusion, NOS&C0031001
+Perfusion NOS&C0031001
+Perfusions&C0031001
+Perfusion&C0031001
+Perimenopausal state (finding)&C3839366
+Perimenopausal state&C3839366
+PERIMENOPAUSAL&C3839366
+peripheral neuropathy (physical finding)&C0031117
+peripheral neuropathy (diagnosis)&C0031117
+PN - Peripheral neuropathy&C0031117
+Peripheral nerve damage&C0031117
+Neuropathy;peripheral&C0031117
+PERIPHERAL NEUROPATHY&C0031117
+Peripheral Neuropathy&C0031117
+Peripheral neuritis&C0031117
+Fracture of bone adjacent to prosthesis (disorder)&C2609162
+Fracture of bone adjacent to prosthesis&C2609162
+Fractures, Periprosthetic&C2609162
+Fracture, Periprosthetic&C2609162
+Periprosthetic Fractures&C2609162
+Periprosthetic Fracture&C2609162
+Pertuzumab-Trastuzumab Regimen&C4527348
+Pertuzumab/Trastuzumab Regimen&C4527348
+Pertuzumab Plus Trastuzumab&C4527348
+Pertuzumab + Trastuzumab&C4527348
+Pertuzumab/Trastuzumab&C4527348
+Herceptin-Perjeta&C4527348
+Pharmacological Treatments&C0013216
+Pharmacological Treatment&C0013216
+pharmacotherapeutics&C0013216
+medications therapy&C0013216
+medication therapy&C0013216
+pharmacotherapies&C0013216
+Pharmacotherapy&C0013216
+Chemotherapies&C0013216
+Drug Therapies&C0013216
+Therapy (Drug)&C0013216
+Therapy, Drug&C0013216
+Drug Therapy&C0013216
+Clinical Trials, Phase II as Topic&C0282460
+Clinical Trials, Phase II&C0282460
+clinical ii phase trials&C0282460
+phase ii clinical trials&C0282460
+2 clinical phase trials&C0282460
+Phase 2 Clinical Trials&C0282460
+Phase II Clinical Trial&C0282460
+clinical trial phase II&C0282460
+clinical trials phase 2&C0282460
+Phase II Protocol&C0282460
+ii phase trials&C0282460
+Phase II Study&C0282460
+Phase II Trial&C0282460
+ii phase study&C0282460
+Phase 2 Study&C0282460
+Phase 3 (qualifier value)&C0439561
+3 phases&C0439561
+3 phase&C0439561
+Phase 3&C0439561
+Clinical Trials, Phase III as Topic&C0282461
+Clinical Trials, Phase 3 as Topic&C0282461
+Clinical Trials, Phase III&C0282461
+Phase III Clinical Trial&C0282461
+clinical trial phase III&C0282461
+Phase 3 Clinical Trials&C0282461
+clinical trials phase 3&C0282461
+iii phase protocols&C0282461
+Phase III Protocol&C0282461
+iii phase studies&C0282461
+Phase III Trials&C0282461
+iii phase trials&C0282461
+Phase III Study&C0282461
+Phase III Trial&C0282461
+iii phase trial&C0282461
+Phase 3 Study&C0282461
+Phase I/II Trial&C1519043
+Trial Phase 1/2&C1519043
+Photon (substance)&C0086805
+Photons&C0086805
+Photon&C0086805
+Phyllodes&C2998956
+Pigmentation (qualifier value)&C0031911
+pigment deposition&C0031911
+Pigmentations&C0031911
+Pigmentation&C0031911
+Pivot Device&C1709557
+Pivot&C1709557
+Plain X-ray of chest (procedure)&C0039985
+Radiologic examination, chest&C0039985
+x-ray of chest (procedure)&C0039985
+Radiologic examination&C0039985
+Chest exclusion X-ray&C0039985
+Plain X-ray of thorax&C0039985
+Plain X-ray of chest&C0039985
+thoracic radiography&C0039985
+Chest Radiography&C0039985
+Plain chest X-ray&C0039985
+Chest x-ray, NOS&C0039985
+X-ray NOS chest&C0039985
+thoracic x-ray&C0039985
+x-ray of chest&C0039985
+chest x rays&C0039985
+Chest X-ray&C0039985
+X-ray;chest&C0039985
+chest X ray&C0039985
+CXR&C0039985
+Polyacrylamide gel electrophoresis (procedure)&C0013862
+PAGE - Polyacrylamide gel electrophoresis&C0013862
+Polyacrylamide gel electrophoresis (PAGE)&C0013862
+Electrophoresis, Polyacrylamide Gel&C0013862
+Gel Electrophoresis, Polyacrylamide&C0013862
+Polyacrylamide Gel Electrophoresis&C0013862
+Fractionation, Polyacrylamide Gel&C0013862
+PAGE&C0013862
+Polymerase chain reaction technique (qualifier value)&C0032520
+PCR (polymerase chain reaction) technique&C0032520
+Polymerase chain reaction technique&C0032520
+PCR - Polymerase chain reaction&C0032520
+polymerase chain reaction (PCR)&C0032520
+Reactions, Polymerase Chain&C0032520
+Polymerase Chain Reactions&C0032520
+Reaction, Polymerase Chain&C0032520
+Polymerase Chain Reaction&C0032520
+PCR&C0032520
+Positioning (attribute)&C0733755
+Positioning Attribute&C0733755
+Position (attribute)&C0733755
+Positioning&C0733755
+positions&C0733755
+Position&C0733755
+lymph nodes positive&C0746319
+LYMPH NODE POSITIVE&C0746319
+Positive Lymph Node&C0746319
+nodes positives&C0746319
+node-positive&C0746319
+Positron emission tomographic imaging - action (qualifier value)&C0032743
+Positron emission tomography (PET) imaging&C0032743
+Positron emission tomography (procedure)&C0032743
+Positron emission tomographic imaging&C0032743
+Positron-Emission Tomography Imaging&C0032743
+Positron emission tomography (PET)&C0032743
+Tomography, Positron Emission&C0032743
+Positron Emission Tomography&C0032743
+Positron-Emission Tomography&C0032743
+Positron emission tomogram&C0032743
+Imaging, PET&C0032743
+PET Imaging&C0032743
+PET Scans&C0032743
+Post Radiation Therapy&C5667420
+Post-Traumatic Stress Disorders&C0038436
+Stress Disorder, Post Traumatic&C0038436
+Stress Disorder, Post-Traumatic&C0038436
+disorder, post-traumatic stress&C0038436
+post-traumatic stress; disorder&C0038436
+Disorder;post traumatic stress&C0038436
+POST TRAUMATIC STRESS DISORDER&C0038436
+Post-Traumatic Stress Disorder&C0038436
+post traumatic stress syndrome&C0038436
+post-traumatic stress syndrome&C0038436
+Post-Traumatic Neuroses&C0038436
+Combat Neurosis&C0038436
+PTSD&C0038436
+Postmenopausal state (finding)&C0232970
+postmenopausal (symptom)&C0232970
+menopause has occurred&C0232970
+post menopausal state&C0232970
+Postmenopausal state&C0232970
+POSTMENOPAUSAL&C0232970
+Period, Post-menopausal&C0206159
+Period, Postmenopausal&C0206159
+Post menopausal Period&C0206159
+Post-menopausal Period&C0206159
+Postmenopausal Period&C0206159
+Post-Menopauses&C0206159
+POST MENOPAUSE&C0206159
+Post-Menopause&C0206159
+menopause post&C0206159
+POSTMENOPAUSE&C0206159
+Postmenopause&C0206159
+Maternal postpartum (qualifier value)&C0086839
+the period after childbirth&C0086839
+postpartum finding state&C0086839
+Postpartum period, NOS&C0086839
+Postpartum Period&C0086839
+POSTPARTUM STATE&C0086839
+POST PREGNANCY&C0086839
+POST PARTUM&C0086839
+POSTPARTUM&C0086839
+Puerperium&C0086839
+Puerperal&C0086839
+pregnancy complications caused by infection&C0032965
+Complications, Infectious Pregnancy&C0032965
+Pregnancy Complications, Infectious&C0032965
+Pregnancy, Infectious Complications&C0032965
+Infectious Pregnancy Complications&C0032965
+Pregnancy Complication, Infectious&C0032965
+Infectious Pregnancy Complication&C0032965
+infection; complicating pregnancy&C0032965
+c.pregnancy; disease, infective&C0032965
+c.pregnancy; infectious disease&C0032965
+Infection complicat pregnancy&C0032965
+Other infectious conditions&C0032965
+Infections and Pregnancy&C0032965
+Pregnancy, Infections in&C0032965
+c.pregnancy; infection&C0032965
+pregnancy; infection&C0032965
+INFECTION PREGNANCY&C0032965
+pregnancy infection&C0032965
+Pregnancy detection examination&C0032976
+PT - Pregnancy test&C0032976
+pregnancies testing&C0032976
+pregnancy testing&C0032976
+Tests, Pregnancy&C0032976
+pregnancies test&C0032976
+Pregnancy Tests&C0032976
+Test, Pregnancy&C0032976
+Pregnancy Test&C0032976
+Test;pregnancy&C0032976
+First trimester pregnancy (finding)&C0032979
+First trimester (qualifier value)&C0032979
+first trimester of pregnancy&C0032979
+First Trimester Pregnancies&C0032979
+Pregnancy Trimesters, First&C0032979
+Pregnancy--Trimester, First&C0032979
+First Pregnancy Trimesters&C0032979
+PREGNANCY, FIRST TRIMESTER&C0032979
+Pregnancy Trimester, First&C0032979
+First Pregnancy Trimester&C0032979
+First trimester pregnancy&C0032979
+Placental Phases, Early&C0032979
+Early Placental Phases&C0032979
+Placental Phase, Early&C0032979
+Early Placental Phase&C0032979
+Trimesters, First&C0032979
+Trimester, First&C0032979
+First Trimester&C0032979
+1st trimester&C0032979
+Pregnancies, Second Trimester&C0032980
+second trimester of pregnancy&C0032980
+Pregnancy Trimesters, Second&C0032980
+Pregnancy--Trimester, Second&C0032980
+Second Trimester Pregnancies&C0032980
+PREGNANCY, SECOND TRIMESTER&C0032980
+Pregnancy Trimester, Second&C0032980
+Second Pregnancy Trimesters&C0032980
+Second Pregnancy Trimester&C0032980
+Second trimester pregnancy&C0032980
+pregnancy second trimester&C0032980
+Trimesters, Second&C0032980
+Second Trimesters&C0032980
+Trimester, Second&C0032980
+Second Trimester&C0032980
+2nd trimester&C0032980
+Midtrimesters&C0032980
+Premenopausal - menopausal status&C0279752
+Premenopausal&C0279752
+Primary Neoplasm&C0677930
+primary tumors&C0677930
+Primary Tumor&C0677930
+Primary malignant neoplasm (diagnosis)&C1306459
+Primary malignant neoplasm (disorder)&C1306459
+Malignant tumour morphology&C1306459
+Malignant tumor morphology&C1306459
+Primary Malignant Neoplasm&C1306459
+Primary malignant neoplasm&C1306459
+malignant neoplasm primary&C1306459
+malignant neoplasm&C1306459
+Cancer morphology&C1306459
+primary cancer&C1306459
+Malignancy&C1306459
+Prior Adjuvant Endocrine/Hormonal Therapy&C0281266
+Prior Adjuvant Endocrine Therapy&C0281266
+Prior Adjuvant Hormonal Therapy&C0281266
+Probe, device (physical object)&C0182400
+Probe, device&C0182400
+Probe Device&C0182400
+Probe, NOS&C0182400
+Probes&C0182400
+PROBE&C0182400
+Survival, Progression-Free&C0242792
+Progression Free Survival&C0242792
+Progression-Free Survival&C0242792
+Classic progressive supranuclear palsy syndrome&C0038868
+Progressive supranuclear palsy (disorder)&C0038868
+PSP - progressive supranuclear palsy&C0038868
+Richardson-Steele-Olszewski syndrome&C0038868
+STEELE-RICHARDSON-OLSZEWSKI SYNDROME&C0038868
+Nuchal dystonia-dementia syndrome&C0038868
+PALSY, SUPRANUCLEAR, PROGRESSIVE&C0038868
+Supranuclear Palsy, Progressive&C0038868
+Progressive Supranuclear Palsy&C0038868
+Progressive supranuclear palsy&C0038868
+SUPRANUCLEAR PALSY PROGRESSIVE&C0038868
+Steele-Richardson-Olszewski&C0038868
+Richardson's Syndrome&C0038868
+Classic PSP syndrome&C0038868
+Predictions and Projections&C0016538
+Projections and Predictions&C0016538
+Forecasting&C0016538
+projections&C0016538
+Projection&C0016538
+Projected&C0016538
+forecasts&C0016538
+forecast&C0016538
+Prone body position (finding)&C0033422
+Lying ventricumbent&C0033422
+Prone body position&C0033422
+positioning prone&C0033422
+Lying procumbent&C0033422
+Positions, Prone&C0033422
+Position, Prone&C0033422
+Prone Positions&C0033422
+Prone Position&C0033422
+position prone&C0033422
+Lying prone&C0033422
+prone lying&C0033422
+off feet&C0033422
+Prone&C0033422
+Prophylactic mastectomy (procedure)&C2191320
+prophylactic mastectomy (treatment)&C2191320
+Mastectomies, Prophylactic&C2191320
+Prophylactic Mastectomies&C2191320
+Mastectomy, Prophylactic&C2191320
+Prophylactic Mastectomy&C2191320
+Prophylactic (qualifier value)&C0445202
+Prophylactic behavior&C0445202
+Prophylactic&C0445202
+preventive&C0445202
+Prophylaxis - procedure intent (qualifier value)&C0199176
+Admin prophylactic treatment per order&C0199176
+Prophylaxis - procedure intent&C0199176
+Prophylactic treatment, NOS&C0199176
+Preventive Intervention&C0199176
+Prophylactic treatment&C0199176
+Preventive treatment&C0199176
+Prophylaxis&C0199176
+Administers prescribed prophylactic treatments&C0199176d
+Prosthetic devices&C0175649
+device prosthetic&C0175649
+Prosthesis, NOS&C0175649
+Prosthesis&C0175649
+Deglycase, Parkinsonism Associated&C4255233
+Parkinsonism Associated Deglycase&C4255233
+DJ-1, Protein Deglycase&C4255233
+Protein Deglycase DJ-1&C4255233
+Parkinson Protein 7&C4255233
+DJ 1 PARK7 Protein&C4255233
+DJ-1-PARK7 Protein&C4255233
+PARK7 Protein&C4255233
+DJ 1 Protein&C4255233
+DJ-1 Protein&C4255233
+DJ1 Protein&C4255233
+Domains, Peptide&C1514562
+Domains, Protein&C1514562
+Protein Feature&C1514562
+Peptide Domain&C1514562
+Protein Region&C1514562
+Protein Motif&C1514562
+Motif&C1514562
+Protein Overexpression&C1514559
+Puerto Rico (geographic location)&C0034044
+Puerto Rico&C0034044
+Quadrant&C1631280
+RAB1A, member RAS oncogene family&C1419187
+Rab GTPase YPT1 homolog (yeast)&C1419187
+RAS-ASSOCIATED PROTEIN RAB1&C1419187
+RAB1A gene&C1419187
+RAB1A&C1419187
+RAB1&C1419187
+YPT1&C1419187
+ZINC, IN-BETWEEN-RING FINGER, AND UBIQUITIN-ASSOCIATED DOMAINS&C1423923
+Ring Finger Protein 31 Gene&C1423923
+HOIL-1-interacting protein&C1423923
+HOIL1-INTERACTING PROTEIN&C1423923
+RING FINGER PROTEIN 31&C1423923
+RNF31 Gene&C1423923
+RNF31 gene&C1423923
+FLJ10111&C1423923
+FLJ23501&C1423923
+RNF31&C1423923
+ZIBRA&C1423923
+HOIP&C1423923
+Paul&C1423923
+Hypofractionations, Radiotherapy Dose&C4042795
+Dose Hypofractionation, Radiotherapy&C4042795
+Hypofractionation, Radiotherapy Dose&C4042795
+Radiotherapy Dose Hypofractionation&C4042795
+Dose Hypofractionation, Radiation&C4042795
+Hypofractionation, Radiation Dose&C4042795
+Hypofractionated Dose, Radiation&C4042795
+Radiation Dose Hypofractionation&C4042795
+Radiation Hypofractionated Dose&C4042795
+Minibeam, Radiotherapy&C4042795
+Radiotherapy Minibeams&C4042795
+Radiotherapy Minibeam&C4042795
+Radiation Field&C1882536
+Radiation Interaction&C1514689
+occupation: radiation oncologist (history)&C1514693
+Radiation oncologist (occupation)&C1514693
+occupation: radiation oncologist&C1514693
+Oncologists, Radiation&C1514693
+Oncologist, Radiation&C1514693
+Radiation Oncologists&C1514693
+Radiation Oncologist&C1514693
+oncologist radiation&C1514693
+RNAx support radiation therapy care (treatment)&C0150318
+RNIx radiation therapy care (treatment)&C0150318
+Radiation therapy care (regime/therapy)&C0150318
+RNAx support radiation therapy care&C0150318
+radiation therapy care (treatment)&C0150318
+Radiation Therapy Management&C0150318
+Radiation therapy management&C0150318
+RNIx radiation therapy care&C0150318
+Radiation Therapy Care&C0150318
+care radiation therapy&C0150318
+Radiographic (qualifier value)&C0444708
+Radiographic&C0444708
+Radioisotope scan of bone, NOS&C0203668
+isotopic bone scan (procedure)&C0203668
+Radioisotope scan of bone&C0203668
+Radionuclide bone study&C0203668
+Radioisotope bone scan&C0203668
+Bone Scintigraphy&C0203668
+isotope bone scan&C0203668
+skeletal imaging&C0203668
+Bone scan, NOS&C0203668
+Bone scan NOS&C0203668
+Joint imaging&C0203668
+bone scanning&C0203668
+Scan;bone(s)&C0203668
+bone imaging&C0203668
+Bone Scans&C0203668
+bones scan&C0203668
+Bone Scan&C0203668
+scan bone&C0203668
+Radioactive isotope (substance)&C0034595
+Isotopes, Radioactive&C0034595
+Isotope, Radioactive&C0034595
+Radioactive Isotopes&C0034595
+Radioactive Isotope&C0034595
+Radioisotope, NOS&C0034595
+Radioisotopes&C0034595
+Radionuclides&C0034595
+Radioisotope&C0034595
+Radionuclide&C0034595
+Radionuclide Scanning and Imaging&C0034606
+Scanning, Radioisotope&C0034606
+Imaging, Radionuclide&C0034606
+Radioisotope scanning&C0034606
+Radionuclide Scanning&C0034606
+Radionuclide Imaging&C0034606
+radionuclide imaging&C0034606
+radionuclide studies&C0034606
+Radionuclide scans&C0034606
+Radioisotope scan&C0034606
+Nuclear Medicine&C0034606
+Thyroid imaging&C0034606
+isotope study&C0034606
+Isotope scan&C0034606
+Scintigraphy&C0034606
+Radiotherapies, Adjuvant&C0242939
+Adjuvant Radiotherapies&C0242939
+Radiotherapy, Adjuvant&C0242939
+Adjuvant Radiotherapy&C0242939
+Radiation Therapies, Image-Guided&C3179062
+Therapies, Image-Guided Radiation&C3179062
+Image-Guided Radiation Therapies&C3179062
+Radiation Therapy, Image-Guided&C3179062
+Therapy, Image-Guided Radiation&C3179062
+Image Guided Radiation Therapy&C3179062
+Image-Guided Radiation Therapy&C3179062
+Radiotherapies, Image-Guided&C3179062
+Image-Guided Radiotherapies&C3179062
+Radiotherapy, Image Guided&C3179062
+Radiotherapy, Image-Guided&C3179062
+Image-Guided Radiotherapy&C3179062
+Intensity modulated radiation therapy (procedure)&C1512814
+intensity-modulated radiation therapy (treatment)&C1512814
+IMRT - intensity modulated radiation therapy&C1512814
+Intensity modulated radiation therapy&C1512814
+Intensity-Modulated Radiation Therapy&C1512814
+Radiotherapies, Intensity-Modulated&C1512814
+Intensity-Modulated Radiotherapies&C1512814
+Radiotherapy, Intensity Modulated&C1512814
+Radiotherapy, Intensity-Modulated&C1512814
+Intensity modulated radiotherapy&C1512814
+Intensity-Modulated Radiotherapy&C1512814
+Intensity Modulated RT&C1512814
+IMRT irradiation&C1512814
+IMRT&C1512814
+Re-Biopsy Site&C5671009
+Nuclear receptor subfamily 3 group C member 3&C0034833
+Progesterone receptor (substance)&C0034833
+PR - Progesterone receptor&C0034833
+Progesterone receptor site&C0034833
+progesterone receptor (PR)&C0034833
+Progesterone--Receptors&C0034833
+Receptors, Progesterone&C0034833
+Progesterone Receptors&C0034833
+Receptor, Progesterone&C0034833
+Progesterone Receptor&C0034833
+Receptors, Progestin&C0034833
+Progestin Receptors&C0034833
+Receptor, Progestin&C0034833
+Progestin Receptor&C0034833
+Reconstruction using free flap (procedure)&C4749787
+Reconstruction using free flap&C4749787
+Reconstruction with free flap&C4749787
+flaps free reconstruction&C4749787
+free flap reconstruction&C4749787
+flap reconstruction&C4749787
+Reconstructive Surgeon&C2985416
+Procedures, Reconstructive Surgical&C0524865
+Surgical Procedures, Reconstructive&C0524865
+Plastic repair with reconstruction&C0524865
+Reconstructive Surgical Procedures&C0524865
+Surgical Procedure, Reconstructive&C0524865
+Reconstructive Surgical Procedure&C0524865
+surgical reconstruction procedure&C0524865
+Plastic repair, reconstruction&C0524865
+Plastic repair procedure&C0524865
+Reconstruction procedure&C0524865
+Reconstruction - action&C0524865
+reconstructive; surgery&C0524865
+surgical reconstruction&C0524865
+Reconstructive Surgery&C0524865
+Recurrent Carcinoma&C0549379
+Relapsed Carcinoma&C0549379
+CANCER RECURRENT&C0549379
+RECURRENT CANCER&C0549379
+Relapsed Cancer&C0549379
+Recurrent neoplasm (disorder)&C0521158
+NEOPLASM RECURRENCE NOS&C0521158
+Recurrence of tumour&C0521158
+Neoplasm Recurrence&C0521158
+Recurrence of tumor&C0521158
+Recurrent Neoplasm&C0521158
+recurrences tumor&C0521158
+Recurrent tumour&C0521158
+recurrence tumor&C0521158
+tumor recurrence&C0521158
+Recurrent Tumor&C0521158
+Recurrent tumor&C0521158
+Reduction mammoplasty for gynecomastia&C0191922
+McKissock operation, breast reduction&C0191922
+Reduction mammoplasty (procedure)&C0191922
+Reduction mammaplasty&C0191922
+Reduction mammoplasty&C0191922
+breast reductions&C0191922
+BREAST REDUCTION&C0191922
+Reflex test&C1550160
+Regional Site Receiving Treatment&C5555704
+Treatment of Regional Site&C5555704
+Reinduction Therapy&C5204037
+Relapse phase (qualifier value)&C0035020
+client/patient relapse&C0035020
+Relapse (Disorders)&C0035020
+disorder relapse&C0035020
+Relapse phase&C0035020
+Relapsing&C0035020
+Relapses&C0035020
+RELAPSE&C0035020
+Relapse&C0035020
+agonist, releasing hormone therapy&C0279690
+therapy, releasing hormone agonist&C0279690
+Releasing Hormone Agonist Therapy&C0279690
+Releasing Factor Agonist Therapy&C0279690
+Disorder resulting from impaired renal tubular function, unspecified&C0151747
+Disorders resulting from impaired renal tubular function&C0151747
+renal tubular disorder (diagnosis)&C0151747
+Renal tubular disorder (disorder)&C0151747
+Renal tubular disorder, NOS&C0151747
+Renal tubular disorder NOS&C0151747
+dysfunction; renal tubular&C0151747
+DISORDER TUBULAR KIDNEY&C0151747
+KIDNEY TUBULAR DISORDER&C0151747
+Kidney tubule disorder&C0151747
+RENAL TUBULAR DISORDER&C0151747
+Renal tubular disorder&C0151747
+NEPHROPATHY TUBULAR&C0151747
+Reoperation (qualifier value)&C0035110
+Repeated Surgical Procedure&C0035110
+Repeat Surgery&C0035110
+reoperations&C0035110
+Cancer, Residual&C0242594
+Residual Cancers&C0242594
+Residual Cancer&C0242594
+Residual Cancer Burden&C5205498
+RCB&C5205498
+Residual Disease&C0543478
+Residual Tumours&C0543478
+Tumour, Residual&C0543478
+Residual Tumors&C0543478
+Residual Tumour&C0543478
+Residual Tumor&C0543478
+Respiratory frequency&C0231832
+BR - Breathing rate&C0231832
+Rate of respiration&C0231832
+Rates, Respiration&C0231832
+RESPIRATORY RATES&C0231832
+Respiration rate&C0231832
+Respiratory Rate&C0231832
+Respiratory rate&C0231832
+breathing rates&C0231832
+Breathing Rate&C0231832
+Breath rate&C0231832
+Studies, Retrospective&C0035363
+Retrospective Studies&C0035363
+Study, Retrospective&C0035363
+Retrospective Study&C0035363
+retrospective&C0035363
+Structure of reuniens nucleus of thalamus&C0228327
+Reuniens nucleus of thalamus&C0228327
+Nucleus endymalis (Hassler)&C0228327
+Nucleus, Reuniens Thalamic&C0228327
+Reuniens Thalamus, Nucleus&C0228327
+Thalamic Nucleus, Reuniens&C0228327
+Thalamus, reuniens nucleus&C0228327
+Reuniens Thalami, Nucleus&C0228327
+Reuniens Thalamic Nucleus&C0228327
+Thalami, Nucleus Reuniens&C0228327
+nucleus reuniens (Malone)&C0228327
+Nucleus Reuniens Thalami&C0228327
+Reuniens, Nucleus&C0228327
+Nucleus Reuniens&C0228327
+Reuniens Nucleus&C0228327
+Nucleus Reunien&C0228327
+Ring Dosing Unit&C1882954
+Ring&C1882954
+SARCOLIPIN&C1420247
+MGC125854&C1420247
+MGC125855&C1420247
+MGC12301&C1420247
+SLN gene&C1420247
+SLN&C1420247
+suppressor of cytokine signaling 2 protein, human&C0540340
+STAT-induced STAT inhibitor 2, human&C0540340
+Suppressor of Cytokine Signaling 2&C0540340
+Suppressor of Cytokine Signaling-2&C0540340
+Cytokine-Inducible SH2 Protein 2&C0540340
+STAT Induced STAT Inhibitor-2&C0540340
+STAT-Induced STAT Inhibitor 2&C0540340
+STAT-Induced STAT Inhibitor-2&C0540340
+hsSOCS-2 protein, human&C0540340
+SOCS2 protein, human&C0540340
+SOSC2 protein, human&C0540340
+CIS2 protein, human&C0540340
+SOCS-2&C0540340
+CIS-2&C0540340
+SSI-2&C0540340
+Sacituzumab Govitecan-hziy Regimen&C5420493
+Sacituzumab Govitecan Regimen&C5420493
+Trodelvy Regimen&C5420493
+Salivary duct carcinoma (morphologic abnormality)&C1301194
+High Grade Salivary Duct Carcinoma&C1301194
+Carcinoma of the Salivary Duct&C1301194
+Carcinoma of Salivary Duct&C1301194
+Salivary Duct Carcinoma&C1301194
+Salivary duct carcinoma&C1301194
+Salvia hispanica Seed&C4085254
+Chia Seed&C4085254
+SH seed&C4085254
+Chia&C4085254
+Sarcoma of the Soft Tissue and Bone&C1261473
+Sarcoma (morphologic abnormality)&C1261473
+Sarcoma of Soft Tissue and Bone&C1261473
+Soft tissue tumour, malignant&C1261473
+Malignant soft tissue tumour&C1261473
+Soft tissue tumor, malignant&C1261473
+Sarcoma, Soft Tissue&C1261473
+Sarcoma (disorder)&C1261473
+Sarcoma NOS&C1261473
+Sarcomas&C1261473
+SARCOMA&C1261473
+Sarcoma&C1261473
+Scalp structure (body structure)&C0036270
+Scalp (Anatomy)&C0036270
+Scalp structure&C0036270
+scalp anatomy&C0036270
+Scalp, NOS&C0036270
+scalping&C0036270
+Scalps&C0036270
+Scalp&C0036270
+Progressive systemic scleroderma&C0011644
+scleroderma (diagnosis)&C0011644
+Scleroderma (disorder)&C0011644
+Scleroderma (Disease)&C0011644
+scleroderma disease&C0011644
+Dermatosclerosis&C0011644
+sclerodermas&C0011644
+SCLERODERMA&C0011644
+Scleroderma&C0011644
+Cancer Screening for Patients&C0199230
+cancer early detection&C0199230
+Screening for cancer&C0199230
+Screening of Cancer&C0199230
+Neoplasm screening&C0199230
+Screening, Cancer&C0199230
+cancer screenings&C0199230
+Cancer Screening&C0199230
+SCREENING CANCER&C0199230
+cancer screen&C0199230
+screening&C0199230
+Metastatic malignant neoplasm to axilla (disorder)&C0684830
+secondary malignant neoplasm of axilla (diagnosis)&C0684830
+Metastatic malignant neoplasm to axilla, NOS&C0684830
+Metastatic Malignant Neoplasm in the Axilla&C0684830
+Metastatic Malignant Neoplasm to the Axilla&C0684830
+Secondary malignant neoplasm of axilla, NOS&C0684830
+Metastatic Malignant Tumor to the Axilla&C0684830
+Metastatic malignant neoplasm of axilla&C0684830
+Metastatic malignant neoplasm to axilla&C0684830
+Secondary malignant neoplasm of axilla&C0684830
+Axillary Metastases&C0684830
+Axillary Metastasis&C0684830
+Secondary malignant neoplasm of bone and bone marrow&C0153690
+metastasis of malignant neoplasm to bone (diagnosis)&C0153690
+secondary malignant neoplasm of bone (diagnosis)&C0153690
+Metastatic malignant neoplasm to bone, NOS&C0153690
+Metastatic Malignant Neoplasm in the Bone&C0153690
+Secondary malignant neoplasm of bone, NOS&C0153690
+Metastatic malignant neoplasm of bone&C0153690
+Secondary malignant neoplasm of bone&C0153690
+Metastatic Neoplasm to the Bone&C0153690
+Secondary malignancy of bone&C0153690
+Tumor metastatic to bone&C0153690
+BONE NEOPLASM SECONDARY&C0153690
+metastatic bone cancer&C0153690
+metastatic bone tumor&C0153690
+Metastases to bone&C0153690
+Osseous metastasis&C0153690
+Bony secondaries&C0153690
+Bone Metastasis&C0153690
+Bony metastasis&C0153690
+bone metastases&C0153690
+Metastatic malignant neoplasm to breast (disorder)&C5441655
+secondary malignant neoplasm of breast (diagnosis)&C5441655
+Metastatic Malignant Neoplasm in the Breast&C5441655
+Metastatic Malignant Neoplasm to the Breast&C5441655
+Metastatic malignant neoplasm of breast&C5441655
+Secondary malignant neoplasm of breast&C5441655
+Secondary malignant deposit to breast&C5441655
+Metastatic Neoplasm to the Breast&C5441655
+Metastatic Cancer to the Breast&C5441655
+Metastatic Tumor to the Breast&C5441655
+Metastases to breast&C5441655
+Breast Metastases&C5441655
+Breast Metastasis&C5441655
+metastases breast&C5441655
+metastasis breast&C5441655
+metastasis of malignant neoplasm to liver (diagnosis)&C0494165
+Malignant neoplasm of liver, specified as secondary&C0494165
+Metastatic malignant neoplasm to liver, NOS&C0494165
+Metastatic Malignant Neoplasm in the Liver&C0494165
+Metastatic Malignant Neoplasm to the Liver&C0494165
+Metastatic malignant neoplasm of liver&C0494165
+Metastatic malignant neoplasm to liver&C0494165
+Secondary malignant neoplasm of liver&C0494165
+Cancer metastatic to liver&C0494165
+Cancer of liver, secondary&C0494165
+metastatic cancer to liver&C0494165
+secondary cancer of liver&C0494165
+Metastasis to liver&C0494165
+HEPATIC METASTASES&C0494165
+Hepatic metastasis&C0494165
+Liver secondaries&C0494165
+LIVER METASTASIS&C0494165
+Liver Metastases&C0494165
+Juvenile carcinoma of the breast (morphologic abnormality)&C0334371
+Infiltrating Cystic Hypersecretory Duct Breast Carcinoma&C0334371
+hypersecretory cystic carcinoma of breast (diagnosis)&C0334371
+Juvenile Secretory Carcinoma of the Breast&C0334371
+Cystic Hypersecretory Carcinoma of Breast&C0334371
+hypersecretory cystic carcinoma of breast&C0334371
+Cystic Hypersecretory Breast Carcinoma&C0334371
+Juvenile Secretory Carcinoma of Breast&C0334371
+Secretory Carcinoma of the Breast&C0334371
+Juvenile carcinoma of the breast&C0334371
+Secretory Carcinoma of Breast&C0334371
+Juvenile Carcinoma of Breast&C0334371
+Breast Secretory Carcinoma&C0334371
+Secretory Breast Carcinoma&C0334371
+Secretory breast carcinoma&C0334371
+Secretory Carcinoma&C0334371
+Mastectomies, Limited Resection&C0024885
+Limited Resection Mastectomies&C0024885
+Mastectomy, Limited Resection&C0024885
+Segmental resection of breast&C0024885
+Limited Resection Mastectomy&C0024885
+Mastectomies, Local Excision&C0024885
+Segmental excision of breast&C0024885
+Local Excision Mastectomies&C0024885
+Mastectomy, Local Excision&C0024885
+Local Excision Mastectomy&C0024885
+Mastectomies, Segmental&C0024885
+Partial mastectomy, NOS&C0024885
+Segmentectomy of breast&C0024885
+Segmental Mastectomies&C0024885
+Mastectomies, Partial&C0024885
+Mastectomy, Segmental&C0024885
+Partial Mastectomies&C0024885
+Segmental Mastectomy&C0024885
+mastectomy segmental&C0024885
+Mastectomy, Partial&C0024885
+Partial Mastectomy&C0024885
+Product containing selective estrogen receptor modulator (product)&C0732611
+Selective estrogen receptor modulator-containing product&C0732611
+Selective Estrogen Receptor Modulators (medication)&C0732611
+SERM - Selective estrogen receptor modulator&C0732611
+Selective Estrogen Receptor Modifying Agents&C0732611
+Estrogen Receptor Modulators, Selective&C0732611
+Estrogen Receptor Modulator, Selective&C0732611
+Selective Estrogen Receptor Modulators&C0732611
+Selective oestrogen receptor modulator&C0732611
+Selective Estrogen Receptor Modulator&C0732611
+SERMs&C0732611
+SERM&C0732611
+Sentinel lymph node biopsy (procedure)&C0796693
+Biopsy, Sentinel Lymph Node&C0796693
+Lymph Node Biopsy, Sentinel&C0796693
+Sentinel Lymph Node Biopsy&C0796693
+biopsies node sentinel&C0796693
+biopsy node sentinels&C0796693
+Sentinel Node Biopsy&C0796693
+biopsy node sentinel&C0796693
+biopsy sentinel node&C0796693
+sentinel node (diagnosis)&C0677944
+Sentinel node (disorder)&C0677944
+Signal node (disorder)&C0677944
+lymph nodes sentinel&C0677944
+sentinel lymph node&C0677944
+nodes sentinel&C0677944
+Sentinel node&C0677944
+node sentinel&C0677944
+Signal node&C0677944
+Seroma (morphologic abnormality)&C0262627
+seroma (diagnosis)&C0262627
+Seroma (disorder)&C0262627
+Seromas&C0262627
+SEROMA&C0262627
+Seroma&C0262627
+Serum estradiol measurement (procedure)&C0474672
+serum estradiol measurement (lab test)&C0474672
+Serum oestradiol measurement&C0474672
+Serum estradiol measurement&C0474672
+Serum oestradiol level&C0474672
+Serum estradiol level&C0474672
+Serum Estradiol Test&C0474672
+Serum oestradiol&C0474672
+Serum estradiol&C0474672
+estradiol serum&C0474672
+Set of regional lymph nodes&C1184738
+Nodi lymphoidei regionales&C1184738
+Regional lymph nodes set&C1184738
+Regional Lymph Nodes&C1184738
+lymph nodes regional&C1184738
+Regional Lymph Node&C1184738
+Unilateral mastectomy (treatment)&C0024886
+Unilateral Mastectomy, complete&C0024886
+Simple mastectomy (procedure)&C0024886
+simple mastectomy (treatment)&C0024886
+Unilateral simple mastectomy&C0024886
+simple mastectomy unilateral&C0024886
+Unilateral mastectomy, NOS&C0024886
+SM - Simple mastectomy&C0024886
+mastectomy unilateral&C0024886
+Mastectomy, Total&C0024886
+Simple Mastectomy&C0024886
+Simple mastectomy&C0024886
+mastectomy simple&C0024886
+Total mastectomy&C0024886
+Single Agent Treatment&C4763675
+Single Agent Therapy&C4763675
+Monotherapy&C4763675
+sirolimus protein-bound particles (medication)&C2347328
+Sirolimus Albumin-bound Nanoparticles&C2347328
+Nanoparticle Albumin-Bound Rapamycin&C2347328
+Nanoparticle Albumin-bound Sirolimus&C2347328
+Sirolimus Albumin-bound Particles&C2347328
+Sirolimus Protein-bound Particles&C2347328
+Albumin-bound Sirolimus&C2347328
+Nab-sirolimus&C2347328
+nab-rapamycin&C2347328
+Skin (tissue) specimen (specimen)&C0444099
+Specimen from skin (specimen)&C0444099
+Tissue specimen from skin&C0444099
+Skin (tissue) specimen&C0444099
+Skin tissue sample&C0444099
+Specimen from skin&C0444099
+Skin Specimen&C0444099
+Skin sample&C0444099
+Skin&C0444099
+Skin flap (substance)&C4544564
+Cutaneous flap&C4544564
+Skin flap&C4544564
+breast surgery mastectomy skin-sparing&C1997268
+skin-sparing mastectomy (treatment)&C1997268
+Skin sparing mastectomy&C1997268
+Skin-Sparing Mastectomy&C1997268
+Skin-Directed Therapy&C4054014
+Sleep-wake inversion&C4703574
+Smoking History&C4721824
+social determinants of health (history)&C3658315
+Socio Economic Determinants of Health&C3658315
+Socio-Economic Determinants of Health&C3658315
+Social Determinants of Health&C3658315
+SDOH&C3658315
+Solid Neoplasm&C0280100
+Solid tumour&C0280100
+solid tumors&C0280100
+Solid Tumor&C0280100
+tumor solid&C0280100
+therapy, somatostatin analogue&C0278907
+Somatostatin Analogue Therapy&C0278907
+Somatostatin Analog Therapy&C0278907
+Distributions (qualifier value)&C0037775
+Distribution (attribute)&C0037775
+Spatial Distribution&C0037775
+DISTRIBUTIONS&C0037775
+Distribution&C0037775
+squamous cell carcinoma (diagnosis)&C0007137
+Malignant Squamous Cell Neoplasm&C0007137
+Carcinomas, Squamous Cell&C0007137
+Squamous Cell Epithelioma&C0007137
+squamous cell carcinomas&C0007137
+Planocellular carcinoma&C0007137
+SQUAMOUS CELL CARCINOMA&C0007137
+Squamous cell carcinoma&C0007137
+Carcinomas, Epidermoid&C0007137
+Epidermoid Cell Cancer&C0007137
+Carcinoma, Epidermoid&C0007137
+Epidermoid carcinoma&C0007137
+Carcinoma, Squamous&C0007137
+squamous carcinomas&C0007137
+CARCINOMA SQUAMOUS&C0007137
+Squamous carcinoma&C0007137
+Stable Disease&C0677946
+Stage 1 (qualifier value)&C0441766
+Stage level 1&C0441766
+First stage&C0441766
+Stage 1&C0441766
+Stage I&C0441766
+Stage level 4 (qualifier value)&C0441772
+Stage 4 (qualifier value)&C0441772
+Stage level 4&C0441772
+Stage IV&C0441772
+Stage 4&C0441772
+Staging system (attribute)&C0449394
+staging systems&C0449394
+Staging System&C0449394
+Staging system&C0449394
+Stereotactic Ablative Body Radiation Therapy&C3896609
+Stereotactic Body Radiation Therapy&C3896609
+stereotactic radiation therapy&C3896609
+stereotactic radiotherapy&C3896609
+SABR&C3896609
+SBRT&C3896609
+Structure of axillary artery (body structure)&C0004455
+Axillary part of trunk of subclavian artery&C0004455
+Axillary part of subclavian artery&C0004455
+Structure of axillary artery&C0004455
+Axillary artery, NOS&C0004455
+Arteries, Axillary&C0004455
+AXILLARY ARTERIES&C0004455
+Arteria axillaris&C0004455
+arteries axillary&C0004455
+Artery, Axillary&C0004455
+Axillary Artery&C0004455
+Structure of axillary vein (body structure)&C0004456
+Structure of axillary vein&C0004456
+Veins, Axillary&C0004456
+Axillary Veins&C0004456
+Vein, Axillary&C0004456
+Vena axillaris&C0004456
+Axillary Vein&C0004456
+Structure of internal thoracic artery (body structure)&C0226276
+INTERNAL THORACIC ARTERIES - MAMMARY ARTERIES&C0226276
+Structure of internal thoracic artery&C0226276
+Internal thoracic mammary artery&C0226276
+ITA - Internal thoracic artery&C0226276
+Internal mammary artery, NOS&C0226276
+Arteries, Internal Thoracic&C0226276
+Arteries, Internal Mammary&C0226276
+Internal Thoracic Arteries&C0226276
+Internal Mammary Arteries&C0226276
+Internal Thoracic Artery&C0226276
+Mammary Artery, Internal&C0226276
+Internal Mammary Artery&C0226276
+Structure of latissimus dorsi muscle (body structure)&C0224362
+Structure of latissimus dorsi muscle&C0224362
+Musculus Latissimus Dorsi&C0224362
+Latissimus dorsi muscle&C0224362
+LD - Latissimus dorsi&C0224362
+M. latissimus dorsi&C0224362
+Dorsus, Latissimus&C0224362
+Dorsi, Latissimus&C0224362
+Latissimus Dorsus&C0224362
+Latissimus Dorsi&C0224362
+dorsi latissimus&C0224362
+Subgroup A Nepoviruses&C1079230
+subgroups&C1079230
+subgroup&C1079230
+Surgeries, Image-Guided&C0969690
+Image-Guided Surgeries&C0969690
+Surgery, Image Guided&C0969690
+Surgery, Image-Guided&C0969690
+Image Guided Surgery&C0969690
+Image-Guided Surgery&C0969690
+PYRIN-ASSOCIATED AUTOINFLAMMATORY DISEASE&C0085077
+Febrile neutrophilic dermatosis [Sweet]&C0085077
+NEUTROPHILIC DERMATOSIS, ACUTE FEBRILE&C0085077
+Acute febrile neutrophilic dermatosis&C0085077
+dermatosis; febrile neutrophilic&C0085077
+Febrile neutrophilic dermatosis&C0085077
+Sweet's syndrome (diagnosis)&C0085077
+SWEET'S SYNDROME&C0085077
+Sweet's disease&C0085077
+Sweets Syndrome&C0085077
+SWEET SYNDROME&C0085077
+Sweet Syndrome&C0085077
+AFND&C0085077
+Swelling (excluding K07)&C0038999
+Tumefaction&C0038999
+Bulge, NOS&C0038999
+Tumescence&C0038999
+swelled&C0038999
+Enlarged lymph nodes, unspecified&C4282165
+enlargement lymph nodes&C4282165
+lymph nodes enlargement&C4282165
+swelling of lymph nodes&C4282165
+enlargement lymph node&C4282165
+lymph node enlargement&C4282165
+Enlarged lymph nodes&C4282165
+LYMPH NODES ENLARGED&C4282165
+glands lymph swollen&C4282165
+lymph nodes swelling&C4282165
+swelling lymph nodes&C4282165
+swollen lymph glands&C4282165
+Swollen lymph nodes&C4282165
+lymph node swelling&C4282165
+lymph nodes swollen&C4282165
+lymph swollen nodes&C4282165
+swelling lymph node&C4282165
+Swollen Lymph Node&C4282165
+lymph node swollen&C4282165
+lymph swollen node&C4282165
+lymph nodes swell&C4282165
+Symptomatic (qualifier value)&C0231220
+Symptomatic&C0231220
+Systemic Chemotherapy&C1883256
+Systemic Radiation Therapy&C2985381
+Systemic Therapy&C1515119
+T-cell and NK-cell non-Hodgkin's lymphoma&C0079772
+T-cell and NK-cell non-Hodgkin lymphoma&C0079772
+Lymphoma, non-Hodgkin lymphoma, T-cell&C0079772
+Malignant lymphoma, T-cell type&C0079772
+T-cell non-Hodgkin's lymphoma&C0079772
+T-Cell Non-Hodgkin Lymphoma&C0079772
+T-cell lymphoma (diagnosis)&C0079772
+T-cell lymphoma NOS&C0079772
+Lymphoma, T-Cell&C0079772
+T-Cell Lymphomas&C0079772
+cells lymphoma t&C0079772
+T-Cell Lymphoma&C0079772
+lymphoma t cell&C0079772
+lymphoma t-cell&C0079772
+t cell lymphoma&C0079772
+Li-Fraumeni syndrome&C0079419
+TUMOR PROTEIN p53&C0079419
+p53 oncogene&C0079419
+Genes, TP53&C0079419
+Gene, TP53&C0079419
+Genes, p53&C0079419
+TP53 Genes&C0079419
+Gene, p53&C0079419
+TP53 Gene&C0079419
+TP53 gene&C0079419
+p53 Genes&C0079419
+p53 Gene&C0079419
+TRP53&C0079419
+LFS1&C0079419
+TP53&C0079419
+P53&C0079419
+Targeted Therapy&C2985566
+taxane (medication)&C0796419
+Taxane Compound&C0796419
+Taxanes&C0796419
+taxane&C0796419
+Thrombocytopenic disorder (disorder)&C0040034
+Thrombocytopenic disorder&C0040034
+Thrombocytopenia, NOS&C0040034
+Thrombocytopenias&C0040034
+thrombocytopaenia&C0040034
+THROMBOCYTOPENIA&C0040034
+Thrombocytopenia&C0040034
+THROMBOPENIA&C0040034
+Other venous embolism and thrombosis of unspecified site&C0040038
+Thromboembolic disorder (disorder)&C0040038
+Thromboembolism - lesion&C0040038
+thromboembolic; disorder&C0040038
+Thromboembolic disorder&C0040038
+diseases thromboembolic&C0040038
+THROMBOEMBOLIC DISEASE&C0040038
+Thromboembolic events&C0040038
+embolism; thrombus&C0040038
+thrombus; embolism&C0040038
+Thromboembolisms&C0040038
+Thromboembolism&C0040038
+Thromboembolus&C0040038
+Hypercoagulability state (finding)&C0398623
+Hypercoagulability state, NOS&C0398623
+Hypercoagulable state NOS&C0398623
+thrombophilia (diagnosis)&C0398623
+Hypercoagulability state&C0398623
+Hypercoagulable state&C0398623
+Hypercoagulabilities&C0398623
+Hypercoagulability&C0398623
+HYPERCOAGULATION&C0398623
+Thrombophilias&C0398623
+Thrombophilia&C0398623
+thrombosis of blood vessel (diagnosis)&C2586211
+Thrombosis of blood vessel (disorder)&C2586211
+Thrombosis of blood vessel&C2586211
+Vascular Thrombosis&C2586211
+Dissection - action (qualifier value)&C0012737
+Dissection procedure (procedure)&C0012737
+dissection procedures&C0012737
+Dissection procedure&C0012737
+Dissection - action&C0012737
+Tissue Dissection&C0012737
+Dissection, NOS&C0012737
+Dissections&C0012737
+DISSECTION&C0012737
+Expansions, Tissue&C0040290
+Expansion, Tissue&C0040290
+Tissue Expansions&C0040290
+expansion tissues&C0040290
+Tissue Expansion&C0040290
+expansion tissue&C0040290
+Damage (morphologic abnormality)&C0010957
+Tissue damage, NOS&C0010957
+damage tissues&C0010957
+damages tissue&C0010957
+TISSUE DAMAGE&C0010957
+Tissue damage&C0010957
+Damage, NOS&C0010957
+damages&C0010957
+Damage&C0010957
+Tissue sampling&C4266460
+Topical Route of Drug Administration&C1522168
+Topical Route of Administration&C1522168
+Topical route (qualifier value)&C1522168
+Topical application, skin&C1522168
+Topical route&C1522168
+topical uses&C1522168
+Topical use&C1522168
+Topical&C1522168
+Transabdominal Ultrasound&C2348813
+Abdominal ultrasound&C2348813
+TUS&C2348813
+Nucleotide Transition Abnormality&C0599156
+Mutation, Transition&C0599156
+Transition Mutation&C0599156
+Transition&C0599156
+Transrectal Ultrasonography Guided Biopsy&C4684963
+TRUS-Guided Biopsy&C4684963
+TRUS Biopsy&C4684963
+Fam-trastuzumab Deruxtecan-nxki Regimen&C5420492
+Trastuzumab Deruxtecan-nxki Regimen&C5420492
+Trastuzumab Deruxtecan Regimen&C5420492
+Enhertu Regimen&C5420492
+Triple negative malignant neoplasm of breast (diagnosis)&C3539878
+Triple negative malignant neoplasm of breast (disorder)&C3539878
+hormone receptor negative malignant tumor breast triple&C3539878
+ER Negative PR Negative HER2 Negative Breast Neoplasms&C3539878
+ER-Negative PR-Negative HER2-Negative Breast Neoplasms&C3539878
+ER Negative PR Negative HER2 Negative Breast Cancer&C3539878
+ER-Negative PR-Negative HER2-Negative Breast Cancer&C3539878
+Triple negative malignant neoplasm of breast&C3539878
+Triple negative breast cancer metastatic&C3539878
+TNBC - Triple-negative breast cancer&C3539878
+Breast Neoplasms, Triple-Negative&C3539878
+Breast Neoplasm, Triple-Negative&C3539878
+Triple Negative Breast Neoplasms&C3539878
+Triple-Negative Breast Neoplasms&C3539878
+Triple Negative Breast Neoplasm&C3539878
+Triple-Negative Breast Neoplasm&C3539878
+Breast Cancer, Triple-Negative&C3539878
+Triple-Negative Breast Cancers&C3539878
+Triple Negative Breast Cancer&C3539878
+Triple-Negative Breast Cancer&C3539878
+ER-Negative PR-Negative ERBB2-Negative&C2348819
+Triple Negative Breast Cancer Finding&C2348819
+Triple-Negative Breast Cancer Finding&C2348819
+Triple Negative Breast Cancer Result&C2348819
+Triple-Negative Breast Cancer Result&C2348819
+ESR1/PGR/ERBB2 Negative Finding&C2348819
+Triple negative breast cancer&C2348819
+ER/PR/HER2 Negative&C2348819
+TNBC&C2348819
+Ligation or occlusion of fallopian tubes&C0520483
+Ligation of fallopian tube, NOS&C0520483
+Ligation of fallopian tubes&C0520483
+Ligation of fallopian tube&C0520483
+tubal ligation (treatment)&C0520483
+Tubal ligation;procedure&C0520483
+tubal ligation procedure&C0520483
+FALLOPIAN TUBE LIGATION&C0520483
+TL - Tubal ligation&C0520483
+Tubal ligation, NOS&C0520483
+Ligations, Tubal&C0520483
+Ligation, Tubal&C0520483
+Tubal Ligations&C0520483
+ligations tubal&C0520483
+TUBAL LIGATION&C0520483
+Tubal Ligation&C0520483
+ligation tubal&C0520483
+Substance with microtubule inhibitor mechanism of action (substance)&C1563757
+Substance with microtubule inhibitor mechanism of action&C1563757
+Product containing microtubule inhibitor (product)&C1563757
+Microtubule inhibitor-containing product&C1563757
+Modulators, Microtubule&C1563757
+Microtubule Modulators&C1563757
+Modulator, Microtubule&C1563757
+Microtubule Modulator&C1563757
+Microtubule inhibitor&C1563757
+Modulators, Tubulin&C1563757
+Modulator, Tubulin&C1563757
+Tubulin Modulators&C1563757
+Tubulin Modulator&C1563757
+Biomarkers, Cancer&C0041365
+Biomarker, Cancer&C0041365
+Cancer Biomarkers&C0041365
+Cancer Biomarker&C0041365
+Markers, Tumor&C0041365
+Marker, Tumor&C0041365
+Tumor Markers&C0041365
+Tumor Marker&C0041365
+Tumor bed (morphologic abnormality)&C3640144
+Tumour bed&C3640144
+Tumor Bed&C3640144
+Tumor bed&C3640144
+Tumor status (attribute)&C0475752
+Tumour status&C0475752
+Tumor Status&C0475752
+Tumor status&C0475752
+2-Dimensional Grayscale Ultrasound Imaging&C0041618
+2-Dimensional Ultrasound Imaging&C0041618
+Ultrasounds, Diagnostic&C0041618
+Diagnosis, Ultrasound&C0041618
+Diagnostic ultrasound&C0041618
+USS - ultrasound scan&C0041618
+Ultrasound scan, NOS&C0041618
+procedure ultrasound&C0041618
+Imaging, Ultrasonic&C0041618
+Imaging, Ultrasound&C0041618
+ultrasound scanning&C0041618
+Ultrasound Imaging&C0041618
+imaging ultrasound&C0041618
+testing ultrasound&C0041618
+sound measurement&C0041618
+Ultrasonography&C0041618
+Ultrasound Test&C0041618
+Ultrasound scan&C0041618
+Echotomography&C0041618
+ultrasound&C0041618
+Unequivocal Progression&C3272925
+PV - Vaginal blood loss&C2979982
+Hemorrhage of vagina&C2979982
+VAGINAL HAEMORRHAGE&C2979982
+Hemorrhage vaginal&C2979982
+VAGINAL HEMORRHAGE&C2979982
+Vaginal Hemorrhage&C2979982
+Vaginal blood loss&C2979982
+vagina; hemorrhage&C2979982
+BLEEDING VAGINAL&C2979982
+Bleeding-vaginal&C2979982
+Bleeding;vaginal&C2979982
+Vaginal Bleeding&C2979982
+VAGINA BLEEDING&C2979982
+Contraceptive method vasectomy&C0042387
+Vasectomy for contraception&C0042387
+Vasectomy, NOS&C0042387
+Vasectomy NOS&C0042387
+vasectomies&C0042387
+VASECTOMY&C0042387
+Vasectomy&C0042387
+Structure of vertebral column, unspecified&C0037949
+Structure of vertebral column&C0037949
+Vertebral column, NOS&C0037949
+Spinal column, NOS&C0037949
+Vertebral Columns&C0037949
+Vertebral column&C0037949
+Columns, Spinal&C0037949
+Column, Spinal&C0037949
+Spinal Column&C0037949
+Dorsal spine&C0037949
+Spine, NOS&C0037949
+backbones&C0037949
+Backbone&C0037949
+Spine&C0037949
+Visceral&C0442045
+Visceral Crisis&C4527413
+binocular vision suppression (diagnosis)&C0221103
+Binocular vision suppression (disorder)&C0221103
+Suppression (observable entity)&C0221103
+Suppression of binocular vision&C0221103
+Supression of binocular vision&C0221103
+binocular; vision, suppression&C0221103
+vision; binocular, suppression&C0221103
+Binocular vision, suppression&C0221103
+suppression; binocular vision&C0221103
+Binocular vision suppression&C0221103
+Visual Suppression&C0221103
+Suppression&C0221103
+Finding of weight-bearing (finding)&C0085086
+Observation of weight-bearing&C0085086
+Does weight-bear (finding)&C0085086
+Finding of weight-bearing&C0085086
+Weight-bearing (finding)&C0085086
+Does WB (weight-bear)&C0085086
+WB - Weight-bearing&C0085086
+Does weight-bear&C0085086
+Weight Bearing&C0085086
+Weight-bearing&C0085086
+Bears weight&C0085086
+Weight-bears&C0085086
+Whole Breast Irradiation&C3897169
+Whole brain radiation therapy (regime/therapy)&C1520143
+Whole brain radiation therapy&C1520143
+whole-brain radiation therapy&C1520143
+Whole brain radiotherapy&C1520143
+Whole-Brain Radiotherapy&C1520143
+WBRT&C1520143
+Whole breast&C0457102
+Deteriorating&C0332271
+Structure resulting from tissue repair process (morphologic abnormality)&C0043240
+Observation of wound healing&C0043240
+Repair following injury, NOS&C0043240
+Finding of wound healing&C0043240
+Repair following injury&C0043240
+Tissue repair, NOS&C0043240
+Wound healing, NOS&C0043240
+repairing tissues&C0043240
+Wound Healing&C0043240
+healed wounds&C0043240
+tissue repair&C0043240
+heals wounds&C0043240
+Computerized tomography without IV contrast&C0040405
+Computerized transaxial tomography&C0040405
+CT - Computerized tomography&C0040405
+Computerised tomograph scan&C0040405
+Computerized axial tomogram&C0040405
+Computed Tomography, X-Ray&C0040405
+Tomography, Computed X-Ray&C0040405
+X Ray Tomography, Computed&C0040405
+Computed X-Ray Tomography&C0040405
+X-Ray Computed Tomography&C0040405
+Computerized Tomography&C0040405
+tomography, computed&C0040405
+cat scan procedure&C0040405
+tomodensitometry&C0040405
+C.A.T. scan NOS&C0040405
+c.a.t. scan&C0040405
+CAT Scans&C0040405
+cats scan&C0040405
+CTT scan&C0040405
+CT scan&C0040405
+CAT&C0040405
+2-Pyrimidinamine, N-(5-((4-ethyl-1-piperazinyl)methyl)-2-pyridinyl)-5-fluoro-4-(4-fluoro-2-methyl-1-(1-methylethyl)-1H-benzimidazol-6-yl)&C3852841
+5-(4-ethylpiperazin-1-ylmethyl)pyridin-2-yl)-(5-fluoro-4-(7-fluoro-3-isopropyl-2-methyl-3H-benzoimidazol-5-yl)pyrimidin-2-yl)amine&C3852841
+5-(4-ethylpiperazin-1-ylmethyl)pyridin-2-yl)-(5-fluoro-4-(7-fluoro-3-isopropyl-2-methyl-3H-benzimidazol-5-yl)pyrimidin-2-yl)amine&C3852841
+Product containing abemaciclib (medicinal product)&C3852841
+Abemaciclib-containing product&C3852841
+Abemaciclib (medication)&C3852841
+Abemaciclib (substance)&C3852841
+ABEMACICLIB&C3852841
+abemaciclib&C3852841
+L-Alpha-acetamido-beta-mercaptopropionic Acid&C0001047
+(2R)-2-acetylamino-3-sulfanylpropanoic acid&C0001047
+L-Cysteine, N-acetyl-&C0001047
+N-Acetyl-L-cysteine&C0001047
+N-Acetyl Cysteine&C0001047
+N-Acetylcysteine&C0001047
+Acetyl cysteine&C0001047
+Acetylcysteinum&C0001047
+ACETYLCYSTEINE&C0001047
+acetylcysteine&C0001047
+NAC&C0001047
+Immunoglobulin G1, Anti-(Human p185neu Receptor) (Human-Mouse Monoclonal RhuMab HER2 Gamma1-Chain), Disulfide with Human-Mouse Monoclonal RhuMab HER2 Light Chain, Dimer, Tetraamide with N2'-(3-((1-((4-carboxycyclohexyl)methyl)-2,5-dioxo-3-pyrrolidinyl)thio)-1-oxopropyl)-N2'-deacetylMaytansine&C2935436
+Product containing trastuzumab emtansine (medicinal product)&C2935436
+Trastuzumab-MCC-DM1 Antibody-Drug Conjugate&C2935436
+ado-trastuzumab emtansine (medication)&C2935436
+trastuzumab-MCC-DM1 immunoconjugate&C2935436
+Trastuzumab emtansine (substance)&C2935436
+Ado Trastuzumab Emtansine&C2935436
+Trastuzumab DM1 Conjugate&C2935436
+ado-trastuzumab emtansine&C2935436
+TRASTUZUMAB EMTANSINE&C2935436
+Trastuzumab-MCC-DM1&C2935436
+Trastuzumab DM1&C2935436
+Trastuzumab-DM1&C2935436
+T-DM1&C2935436
+Product containing alpelisib (medicinal product)&C4055478
+Alpelisib-containing product&C4055478
+alpelisib (medication)&C4055478
+Alpelisib (substance)&C4055478
+ALPELISIB&C4055478
+alpelisib&C4055478
+Molybdate(2-), Tetrathioxo-, Ammonium (1:2), (T-4)-&C0103097
+Molybdate(2-), Tetrathioxo-, Diammonium, (T-4)-&C0103097
+Ammonium molybdenum sulfide ((nh4)2mos4)&C0103097
+Diammonium Tetrathiomolybdate&C0103097
+Ammonium Molybdenum Sulfide&C0103097
+Ammonium Tetrathiomolybdate&C0103097
+ammonium tetrathiomolybdate&C0103097
+ammonium TM&C0103097
+ATTM&C0103097
+ATM&C0103097
+Anatomic (qualifier value)&C0220784
+Anatomical&C0220784
+Anatomic&C0220784
+anatomic&C0220784
+Androst-4-ene-3,17-dione&C0002860
+4 Androstene 3,17 dione&C0002860
+4-Androstene-3,17-dione&C0002860
+Delta 4-androstenedione&C0002860
+Delta-4-Androstenedione&C0002860
+delta 4 Androstenedione&C0002860
+ANDROSTENEDIONE&C0002860
+androstenedione&C0002860
+bony appendage&C1184743
+Bone process&C1184743
+bony process&C1184743
+Processus&C1184743
+Stem&C1184743
+Insertion of prosthetic device into breast, NOS&C0178391
+Insertion of prosthesis for breast (procedure)&C0178391
+Insertion of prosthesis for breast&C0178391
+Insertion of breast implants, NOS&C0178391
+Implantations, Breast Prosthesis&C0178391
+Prosthesis Implantations, Breast&C0178391
+Breast Prosthesis Implantations&C0178391
+Implantation, Breast Prosthesis&C0178391
+Prosthesis Implantation, Breast&C0178391
+Breast Prosthesis Implantation&C0178391
+Insertion of breast prosthesis&C0178391
+Insertion of breast implant&C0178391
+Breast Implant Procedure&C0178391
+breast implant procedure&C0178391
+Implantations, Breast&C0178391
+Breast Implantation&C0178391
+Breast implant NOS&C0178391
+breast implant(s)&C0178391
+BREAST IMPLANT&C0178391
+(1-(5-Deoxy-beta-D-ribofuranosyl)-5-fluoro-1,2-dihydro-2-oxo-4-pyrimidinyl)-carbamic acid pentyl ester&C0671970
+pentyl 1-(5-deoxy-β-D-ribofuranosyl)-5-fluoro-1,2-dihydro-2-oxo-4-pyrimidinecarbamate&C0671970
+5'-Deoxy-5-fluoro-N-[(pentyloxy)carbonyl]-cytidine&C0671970
+N(4)-pentyloxycarbonyl-5'-deoxy-5-fluorocytidine&C0671970
+capecitabine (medication)&C0671970
+Capecitabine (substance)&C0671970
+Capecitabinum&C0671970
+CAPECITABINE&C0671970
+capecitabine&C0671970
+CAPE&C0671970
+4-amino-N-(1-(4-chlorophenyl)-3-hydroxypropyl)-1-(7H-pyrrolo(2,3-d)pyrimidin-4-yl)piperidine-4-carboxamide&C4682387
+capivasertib (medication)&C4682387
+Capivasertibum&C4682387
+CAPIVASERTIB&C4682387
+capivasertib&C4682387
+(SP-4-2)-diammine[1,1-cyclobutanedicarboxylato(2--)-O,O']platinum&C0079083
+cis-diammine(1,1-cyclobutanedicarboxylato) platinum(II)&C0079083
+cis-diammine(1,1-cyclobutanedicarboxylato)platinum(II)&C0079083
+cis-diammine(cyclobutane-1,1-dicarboxylato)platinum&C0079083
+cis-diammine(1,1-cyclobutanedicarboxylato)platinum&C0079083
+1,1-cyclobutanedicarboxylic acid platinum complex&C0079083
+cis-diammine(cyclobutanedicarboxylato)platinum II&C0079083
+Carboplatin-containing product&C0079083
+carboplatin (medication)&C0079083
+Carboplatine&C0079083
+CARBOPLATIN&C0079083
+carboplatin&C0079083
+CBDCA&C0079083
+cellular targeting&C0599894
+Targeting&C0599894
+Targeted&C0599894
+Contralateral breast cancer&C1096616
+contralateral breast cancer&C1096616
+Cribriform&C1621425
+cribriform&C1621425
+2-[Bis(2-chloroethylamino)]-tetrahydro-2H-1,3,2-oxazaphosphorine-2-oxide&C0010583
+Product containing cyclophosphamide (medicinal product)&C0010583
+Cyclophosphamide (substance)&C0010583
+(+-)-Cyclophosphamide&C0010583
+Cyclophosphamidum&C0010583
+CYCLOPHOSPHAMIDE&C0010583
+cyclophosphamide&C0010583
+Cyclophosphane&C0010583
+Cyclophospham&C0010583
+Cyclophosphan&C0010583
+Cytophosphane&C0010583
+Syklofosfamid&C0010583
+Mitoxan&C0010583
+cyclophosphamide, fluorouracil, and methotrexate chemotherapy protocol&C0950521
+cyclophosphamide/fluorouracil/methotrexate protocol&C0950521
+cyclophosphamide-methotrexate-fluorouracil regimen&C0950521
+Oral Cyclophosphamide/Methotrexate/Fluorouracil&C0950521
+Cyclophosphamide/Fluorouracil/Methotrexate&C0950521
+Cytoxan-Methotrexate-Fluorouracil Regimen&C0950521
+CMF chemotherapy protocol&C0950521
+CTX/5-FU/MTX&C0950521
+CMF Regimen&C0950521
+CMF&C0950521
+definition - ActMoodCompletionTrack&C1550452
+definition&C1550452
+Product containing denosumab (medicinal product)&C1690432
+Denosumab-containing product&C1690432
+denosumab (medication)&C1690432
+Denosumab (substance)&C1690432
+Densosumab&C1690432
+DENOSUMAB&C1690432
+denosumab&C1690432
+diphtheria, tetanus toxoids and acellular pertussis vaccine&C3526553
+diphtheria, tetanus, and pertussis (DTaP) vaccine&C3526553
+Tetanus, Diphtheria, and Pertussis Vaccines&C3526553
+DTaP/Tdap/Td&C3526553
+DTaP&C3526553
+Tdap&C3526553
+Product containing docetaxel (medicinal product)&C0246415
+DOCETAXEL&C0246415
+Docetaxol&C0246415
+docetaxel&C0246415
+Dose-response relationship&C0678790
+dose response relationship&C0678790
+dose-response relationship&C0678790
+5,12-Naphthacenedione, 10-((3-amino-2,3,6-trideoxy-alpha-L-lyxo-hexopyranosyl)oxy)-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxyacetyl)-1-methoxy-, (8S-cis)-&C0013089
+(8S-cis)-10-[(3-Amino-2,3,6-trideoxy-alpha-L-lyxo-hexopyranosyl)oxy]-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxyacetyl)-1-methoxy-5,12-naphthacenedione&C0013089
+(8S-cis)-10-((3-amino-2,3,6-trideoxy-α-L-lyxo-hexopyranosyl)oxy)-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxyacetyl)-1-methoxy-5,12-naphthacenedione&C0013089
+Product containing doxorubicin (medicinal product)&C0013089
+Doxorubicin-containing product&C0013089
+Doxorubicin nanoparticles&C0013089
+14-hydroxydaunorubicine&C0013089
+14-Hydroxydaunomycin&C0013089
+Hydroxyldaunorubicin&C0013089
+Doxorubicinum&C0013089
+Doxorubicine&C0013089
+DOXORUBICIN&C0013089
+doxorubicin&C0013089
+ADR&C0013089
+DOX&C0013089
+(8S-cis)-8-Acetyl-10-[(3-amino-2,3,6-trideoxy-a-L-lyxo-hexopyranosyl)oxy]-7,8,9,10-tetrahydro-6,8,11-tri-hydroxy-1-methoxy-5,12-naphthacenedione Hydrochloride&C1522690
+Pegylated Liposomal Doxorubicin Hydrochloride&C1522690
+Doxorubicin hydrochloride pegylated liposome&C1522690
+Doxorubicin Hydrochloride Liposomal&C1522690
+Liposomal Doxorubicin Hydrochloride&C1522690
+doxorubicin HCl pegylated liposomal&C1522690
+DOXORUBICIN HYDROCHLORIDE LIPOSOME&C1522690
+Pegylated Doxorubicin HCl Liposome&C1522690
+doxorubicin hydrochloride liposome&C1522690
+Sterically Stabilized Liposome&C1522690
+Stealth Liposomal Doxorubicin&C1522690
+doxorubicin HCl liposome&C1522690
+S-Liposomal Doxorubicin&C1522690
+PEG-LD&C1522690
+2-naphthalenol, 6-(2-(ethyl((4-(2-(ethylamino)ethyl)phenyl)methyl)amino)-4-methoxyphenyl)-5,6,7,8-tetrahydro-, (6R)-&C4682404
+(6R)-6-(2-(Ethyl((4-(2- (ethylamino)ethyl)phenyl)methyl)amino)-4-methoxyphenyl)- 5,6,7,8-tetrahydronaphthalen-2-ol&C4682404
+(6R)-6-(2-(ethyl((4-(2-(ethylamino)ethyl)phenyl)methyl)amino)-4-methoxyphenyl)-5,6,7,8-tetrahydronaphthalen-2-ol&C4682404
+(2R)-2-(2-(ethyl-((4-(2-(ethylamino)ethyl)phenyl)methyl)amino)-4-methoxy-phenyl)tetralin-6-ol&C4682404
+elacestrant (medication)&C4682404
+ELACESTRANT&C4682404
+elacestrant&C4682404
+5,12-NAPHTHACENEDIONE, 10-((3-AMINO-2,3,6-TRIDEOXY-.ALPHA.-L-ARABINO-HEXOPYRANOSYL)OXY)-7,8,9,10-TETRAHYDRO-6,8,11-TRIHYDROXY-8-(HYDROXYACETYL)-1-METHOXY-, (8S-CIS)-&C0014582
+5,12-Naphthacenedione, 10-((3-amino-2,3,6-trideoxy-alpha-L-arabino-hexopyranosyl)oxy)-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxyacetyl)-1-methoxy-, (8S-cis)-&C0014582
+Product containing epirubicin (medicinal product)&C0014582
+4'-Epi-Adriamycin&C0014582
+4'-Epidoxorubicin&C0014582
+4' Epiadriamycin&C0014582
+4'-Epiadriamycin&C0014582
+Epiadriamycin&C0014582
+Pidorubicinum&C0014582
+Epirubicina&C0014582
+Epirubicine&C0014582
+Pidorubicin&C0014582
+4' Epi DXR&C0014582
+4'-Epi-DXR&C0014582
+Epirubicin&C0014582
+epirubicin&C0014582
+Tyrosine Kinase-type Cell Surface Receptor HER2&C0069515
+Receptor tyrosine-protein kinase erbB-2&C0069515
+CD340 - cluster of differentiation 340&C0069515
+Metastatic Lymph Node Gene 19 Protein&C0069515
+Cluster of differentiation 340&C0069515
+Proto-Oncogene Protein, HER-2&C0069515
+erbB 2 Proto Oncogene Protein&C0069515
+HER 2 Proto Oncogene Protein&C0069515
+HER-2 Proto-Oncogene Protein&C0069515
+Proto-Oncogene Protein HER-2&C0069515
+Proto-oncogene Protein Neu&C0069515
+Proto-oncogene c-ErbB-2&C0069515
+Oncogene Protein HER 2&C0069515
+Oncogene protein neu&C0069515
+Receptor, ErbB-2&C0069515
+erbB-2 Receptors&C0069515
+ErbB-2 Receptor&C0069515
+erbB-2 Receptor&C0069515
+neu receptors&C0069515
+Neu Receptor&C0069515
+erbb2&C0069515
+HER2&C0069515
+(17beta)-Estra-1,3,5(10)-triene-3,17-diol&C0014912
+Estradiol preparation&C0014912
+therapeutic estradiol&C0014912
+17-Beta oestradiol&C0014912
+Oestradiol product&C0014912
+17 Beta-Estradiol&C0014912
+17 beta Estradiol&C0014912
+17beta oestradiol&C0014912
+Estradiol product&C0014912
+17beta estradiol&C0014912
+17β-oestradiol&C0014912
+E2 - estradiol&C0014912
+Oestradiol&C0014912
+Estradiol&C0014912
+estradiol&C0014912
+oestrogen biosynthetic process&C1157310
+estrogen biosynthetic process&C1157310
+oestrogen biosynthesis&C1157310
+estrogen biosynthesis&C1157310
+estrogen anabolism&C1157310
+estrogen formation&C1157310
+estrogen synthesis&C1157310
+Acetic acid, (2,3-dichloro-4-(2-methylene-1-oxobutyl)phenoxy)-&C0014963
+(2,3-Dichloro-4-(2-methylene-1-oxobutyl)phenoxy)acetic acid&C0014963
+[2,3-dichloro-4-(2-methylene-1-oxobutyl)phenoxy]acetic Acid&C0014963
+Methylenebutyrylphenoxyacetic acid&C0014963
+Etacrynic acid-containing product&C0014963
+Acide étacrynique&C0014963
+Acid, Ethacrinic&C0014963
+ETHACRYNIC ACID&C0014963
+ethacrinic acid&C0014963
+ethacrynic acid&C0014963
+Etacrynic acid&C0014963
+event cycle&C1511572
+Cyclical&C1511572
+Cycles&C1511572
+Cyclic&C1511572
+Cycle&C1511572
+femtogram (qualifier value)&C0439214
+femtogram (fg)&C0439214
+Femtogram&C0439214
+femtogram&C0439214
+5-Fluoro-2,4(1H,3H)-pyrimidinedione&C0016360
+5FU - Fluorouracil&C0016360
+5 Fluorouracil&C0016360
+5-Fluorouracil&C0016360
+Fluoro Uracil&C0016360
+Fluorouracil&C0016360
+fluorouracil&C0016360
+5-Fluracil&C0016360
+fluouracil&C0016360
+5 fu&C0016360
+5FU&C0016360
+(7α,17β)-7-{9-[(4,4,5,5,5-pentafluoropentyl)sulfinyl]nonyl}estra-1(10),2,4-triene-3,17-diol&C0935916
+7a-[9-[(4,4,5,5,5,-Pentafluoropentyl)sulphinyl]nonyl]-estra-1,3,5(10)-triene-3,17b-diol&C0935916
+7-(9-(4,4,5,5,5-pentafluoropentylsulfinyl)nonyl)estra-1,3,5(10)-triene-3,17-diol&C0935916
+Product containing fulvestrant (medicinal product)&C0935916
+Fulvestrant-containing product&C0935916
+fulvestrant (medication)&C0935916
+Fulvestrant (substance)&C0935916
+FULVESTRANT&C0935916
+fulvestrant&C0935916
+4-amino-1-((2R,4R,5R)-3,3-difluoro-4-hydroxy-5-(hydroxymethyl)-tetrahydrofuran-2-yl)pyrimidin-2(1H)-one&C0045093
+Product containing gemcitabine (medicinal product)&C0045093
+Gemcitabine-containing product&C0045093
+2' Deoxy 2' Difluorocytidine&C0045093
+2'-Deoxy-2'-Difluorocytidine&C0045093
+2',2'-Difluorodeoxycytidine&C0045093
+2,2 difluorodexoycytidine&C0045093
+Gemcitabine (substance)&C0045093
+Difluorodeoxycytidine&C0045093
+Gemicitabine&C0045093
+Gemcitabina&C0045093
+Gemcitabine&C0045093
+gemcitabine&C0045093
+Gemcitabin&C0045093
+dFdCyd&C0045093
+Population (social concept)&C0032659
+geographic population&C0032659
+Populations&C0032659
+Population&C0032659
+Product containing gonadorelin (medicinal product)&C0023610
+Follicle stimulating hormone releasing factor&C0023610
+LHRH - Luteinising hormone releasing hormone&C0023610
+Luteinizing Hormone-Releasing Hormone&C0023610
+Luteinising Hormone-Releasing Factor&C0023610
+Luteinizing hormone releasing factor&C0023610
+Gonadotropin releasing factor (GRF)&C0023610
+Gonadotropin releasing hormone&C0023610
+Gonadotropin-Releasing Hormone&C0023610
+Gonadotropin releasing factor&C0023610
+Luteotropin-releasing factor&C0023610
+Releasing Hormone, LHFSH&C0023610
+LH Releasing Hormone&C0023610
+Gonadorelina&C0023610
+GONADORELIN&C0023610
+gonadorelin&C0023610
+Gn-RH&C0023610
+GnRH&C0023610
+lhrh&C0023610
+GRF&C0023610
+GRH&C0023610
+Luteinizing hormone-releasing factor (pig), 6-(O-(1,1-dimethylethyl)-D-serine)-10-deglycinamide-, 2-(aminocarbonyl)hydrazide&C0120107
+6-[O-(1,1-Dimethylethyl)-D-serine]-10-deglycinamide Luteinizing Hormone-Releasing Factor (Pig) 2-(aminocarbonyl)hydrazide&C0120107
+Gonadotropin Releasing Hormone Agonists (GnRH) goserelin&C0120107
+Product containing goserelin (medicinal product)&C0120107
+Goserelin-containing product&C0120107
+goserelin (medication)&C0120107
+Goserelin (substance)&C0120107
+Goserelin product&C0120107
+Goserelina&C0120107
+GOSERELIN&C0120107
+goserelin&C0120107
+Product containing hyaluronidase (medicinal product)&C0020197
+Factor, Duran-Reynals Permeability&C0020197
+Permeability Factor, Duran-Reynals&C0020197
+Duran-Reynals Permeability Factor&C0020197
+Hyaluronidase-containing product&C0020197
+Hyaluronate 4-glycanohydrolase&C0020197
+enzymes topical hyaluronidase&C0020197
+Hyaluronidase (substance)&C0020197
+Hyaluronoglucosaminidase&C0020197
+Hyaluronate Hydrolase&C0020197
+chondroitinase&C0020197
+HYALURONIDASE&C0020197
+hyaluronidase&C0020197
+GL Enzyme&C0020197
+HYALURONIDASE-OYSK&C4764383
+hyaluronidase-oysk&C4764383
+(1S,3S,7S,10R,11S,12S,16R)-7,11-Dihydroxy-8,8,10,12,16-pentamethyl-3-[(1E)-1-methyl-2-(2-methyl-4-thiazolyl)ethenyl]-17-oxa-4-azabicyclo[14.1.0]heptadecane-5,9-dione&C1135132
+Ixabepilone-containing product&C1135132
+ixabepilone (medication)&C1135132
+Aza-epothilone B&C1135132
+Azaepothilone B&C1135132
+IXABEPILONE&C1135132
+ixabepilone&C1135132
+Epothilone&C1135132
+(2S,3S,4R,6S) -6- {[(2R,3S,4R,5R,6S) -6- {[(4R,5S,6S,7R,9R,10R,11E,13E,16R) -4- (acetyloxy)-10-hydroxy-5-methoxy-9, 16-dimethyl-2-oxo-7-(2-oxoethyl)-1-oxacyclohexadeca-11, 13-dien-6-yl]oxy}-4-(dimethylamino)-5-hydroxy-2-methyloxan-3-yl]oxy}-4-hydroxy-2, 4-dimethyloxan-3-yl 3-methylbutanoate&C0022419
+Leucomycin V, 3-acetate 4B-(3-methylbutanoate)&C0022419
+leucomycin V 3-acetate 4B-(3-methylbutanoate)&C0022419
+leucomycin V 3-acetate 4β-(3-methylbutanoate)&C0022419
+Josamycin (substance)&C0022419
+Kitasamycin A3&C0022419
+Leucomycin A3&C0022419
+Turimycin A5&C0022419
+Josamycinum&C0022419
+Josamicina&C0022419
+Josamycine&C0022419
+Josamycin&C0022419
+josamycin&C0022419
+VACTERL (vertebral anomalies-anal atresia-cardiac abnormalities-tracheoesophageal fistula-renal agenesis-limb defects) association or syndrome&C0543973
+VATER (vertebral defects-anal atresia-tracheoesophageal fistula-esophageal atresia-radial and renal dysplasia) association or syndrome&C0543973
+hydronephrocolpos-postaxial polydactyly-congenital heart disease syndrome&C0543973
+polydactyly-imperforate anus-vertebral anomalies syndrome&C0543973
+imperforate anus-polydactyly syndrome&C0543973
+polydactyly-imperforate anus syndrome&C0543973
+Metaherpetic keratitis&C0543973
+Quan-Smith syndrome&C0543973
+Say-Gerald syndrome&C0543973
+Kaufman's syndrome&C0543973
+Kaufman syndrome&C0543973
+kaufman syndrome&C0543973
+N-(3-chloro-4-((3-fluorophenyl)methoxy)phenyl)-6-(5-(((2-(methylsulfonyl)ethyl)amino)methyl)-2-furanyl)-4-quinazolinamine&C1506770
+N-(3-chloro-4-(((3-fluorobenzyl)oxy)phenyl)-6-(5-(((2-methylsulfonyl)ethyl)amino)methyl) -2-furyl)-4-quinazolinamine&C1506770
+Product containing lapatinib (medicinal product)&C1506770
+Lapatinib-containing product&C1506770
+lapatinib (medication)&C1506770
+Lapatinib (substance)&C1506770
+LAPATINIB&C1506770
+lapatinib&C1506770
+1-Pyrrolidinecarboxamide, N-(5-((2R)-2-(2,5-difluorophenyl)-1-pyrrolidinyl)pyrazolo(1,5-a)pyrimidin-3-yl)-3-hydroxy-, (3S)-&C4524315
+3S)-N-(5-((2R)-2-(2,5-Difluorophenyl)pyrrolidin-1-yl)pyrazolo(1,5-a)pyrimidin-3-yl)-3-hydroxypyrrolidine- 1-carboxamide&C4524315
+(3S)-N-(5-(2-(2,5-difluorophenyl)pyrrolidin-1-yl)pyrazolo(1,5-a)pyrimidin-3-yl)-3-hydroxypyrrolidine-1-carboxamide&C4524315
+Product containing larotrectinib (medicinal product)&C4524315
+Larotrectinib-containing product&C4524315
+larotrectinib (medication)&C4524315
+Larotrectinib (substance)&C4524315
+LAROTRECTINIB&C4524315
+larotrectinib&C4524315
+Leukaemia, unspecified, without mention of remission&C0023418
+Leukaemia of unspecified cell type&C0023418
+Leukemia of unspecified cell type&C0023418
+Leukemia, unspecified&C0023418
+Leukemia morphology&C0023418
+leukemias types&C0023418
+Leucocythaemia&C0023418
+Leukemia, NOS&C0023418
+type leukemia&C0023418
+LEUKAEMIA&C0023418
+Leukemias&C0023418
+LEUKEMIA&C0023418
+leukemia&C0023418
+Localization - action (qualifier value)&C0475264
+Localisation - action&C0475264
+Localization - action&C0475264
+localizations&C0475264
+Localisation&C0475264
+Localization&C0475264
+localization&C0475264
+Structure of lymph node (body structure)&C0024204
+Reticuloendothelial System, Lymph Node&C0024204
+Structure of lymph node&C0024204
+Lymph Node Structures&C0024204
+Lymph gland, NOS&C0024204
+Lymphatic gland&C0024204
+Lymph node(s)&C0024204
+Nodes, Lymph&C0024204
+glands lymph&C0024204
+LYMPH NODES&C0024204
+Lymph Gland&C0024204
+lymph nodes&C0024204
+lymphs node&C0024204
+Lymph node&C0024204
+Mammalian Target of Rapamycin Inhibitors&C1515672
+mTOR Inhibitors [MoA]&C1515672
+mTOR Inhibitors&C1515672
+Product containing margetuximab (medicinal product)&C4053695
+Margetuximab-containing product&C4053695
+Margetuximab (substance)&C4053695
+MARGETUXIMAB&C4053695
+margetuximab&C4053695
+margetuximab-cmkb (medication)&C5432368
+MARGETUXIMAB-CMKB&C5432368
+margetuximab-cmkb&C5432368
+Mating&C1260875
+mating&C1260875
+Mated&C1260875
+Mate&C1260875
+(9beta,10alpha)-17-(Acetyloxy)-6-methylpregna-4,6-diene-3,20-dione&C0065879
+6-Methyl-delta-4,6-pregnadien-17 alpha-ol-3,20-dione Acetate&C0065879
+17alpha-Hydroxy-6-methylpregna-4,6-diene-3,20-dione acetate&C0065879
+6-Methyl-17alpha-hydroxy-delta(sup 6)-progesterone acetate&C0065879
+17-Hydroxy-6-methylpregna-4,6-diene-3,20-dione 17-acetate&C0065879
+6-Methyl-delta(sup 6)-dehydro-17alpha-acetoxyprogesterone&C0065879
+17α-Hydroxy-6-methylpregna-4,6-diene-3,20-dione acetate&C0065879
+17-Hydroxy-6-methylpregna-4,6-diene-3,20-dione Acetate&C0065879
+6-Methyl-17α-hydroxy-delta(sup 6)-progesterone acetate&C0065879
+6-Dehydro-6-methyl-17 alpha-acetoxyprogesterone&C0065879
+17alpha-Acetoxy-6-dehydro-6-methylprogesterone&C0065879
+6-Dehydro-6-methyl-17alpha-acetoxyprogesterone&C0065879
+6-Methyl-6-dehydro-17alpha-acetoxyprogesterone&C0065879
+17α-Acetoxy-6-dehydro-6-methylprogesterone&C0065879
+6-Methyl-6-dehydro-17α-acetoxyprogesterone&C0065879
+Megestrol acetate (substance)&C0065879
+Acetate, Megestrol&C0065879
+Megestrol Acetate&C0065879
+megestrol acetate&C0065879
+MGA&C0065879
+Methotrexate&C0025677
+methotrexate&C0025677
+Milligram/square meter (qualifier value)&C1319266
+Milligram per Meter Squared&C1319266
+Milligram per Square Meter&C1319266
+Milligram/Square Meter&C1319266
+Milligram/square metre&C1319266
+Milligram/meter2&C1319266
+Milligram/metre2&C1319266
+mg/sq.m&C1319266
+mg/m2&C1319266
+Natural menopause&C0856856
+menopause natural&C0856856
+natural menopause&C0856856
+N-(4-(3-chloro-4-(2-pyridinylmethoxy)anilino)-3-cyano-7-ethoxy-6-quinolyl)-4-(dimethylamino)-2-butenamide&C2713008
+Product containing neratinib (medicinal product)&C2713008
+Neratinib-containing product&C2713008
+Neratinib (medication)&C2713008
+Neratinib (substance)&C2713008
+NERATINIB&C2713008
+neratinib&C2713008
+Nitric Oxide, Endothelium Derived&C0028128
+Nitric Oxide, Endothelium-Derived&C0028128
+Nitrate Vasodilator, Endogenous&C0028128
+Nitric oxide-containing product&C0028128
+Monoxide, Mononitrogen&C0028128
+Mononitrogen Monoxide&C0028128
+Monóxido de nitrógeno&C0028128
+nitrogen protoxide&C0028128
+NO - Nitric oxide&C0028128
+Nitrogen monoxide&C0028128
+Nitric oxide gas&C0028128
+Oxyde nitrique&C0028128
+Oxide, Nitric&C0028128
+NITRIC OXIDE&C0028128
+nitric oxide&C0028128
+Glyceryl trinitrate-containing product&C0017887
+Glyceryl trinitrate product&C0017887
+GTN - Glyceryl trinitrate&C0017887
+Glyceroli trinitratis&C0017887
+Glycerin trinitrate&C0017887
+Glyceryl trinitrate&C0017887
+NITROGLYCERIN&C0017887
+Nitroglycerol&C0017887
+nitroglycerin&C0017887
+Trinitrine&C0017887
+4-(3-{[4-(cyclopropylcarbonyl)piperazin-1-yl]carbonyl}-4-fluorobenzyl)phthalazin-1(2H)-one&C2316164
+Product containing olaparib (medicinal product)&C2316164
+Olaparib-containing product&C2316164
+Olaparib (medication)&C2316164
+Olaparib (substance)&C2316164
+OLAPARIB&C2316164
+olaparib&C2316164
+functions ovarian&C0678879
+ovarian function&C0678879
+No regional lymph node metastasis (finding)&C0332396
+No regional lymph node involvement&C0332396
+No regional lymph node metastasis&C0332396
+pN0 Regional Lymph Nodes Finding&C0332396
+pN0 Lymph Node Finding&C0332396
+pN0 Stage Finding&C0332396
+pN0 Node Finding&C0332396
+pN0 TNM Finding&C0332396
+pN0 stage&C0332396
+pN0&C0332396
+pN1 Regional Lymph Nodes Finding&C0332397
+pN1 Lymph Node Finding&C0332397
+pN1 Node Finding&C0332397
+pN1 TNM Finding&C0332397
+pN1 category&C0332397
+pN1 stage&C0332397
+pN1&C0332397
+pN1a Regional Lymph Nodes Finding&C1711118
+pN1a Lymph Node Finding&C1711118
+pN1a Stage Finding&C1711118
+pN1a Node Finding&C1711118
+pN1a TNM Finding&C1711118
+pN1a&C1711118
+pN2 Regional Lymph Nodes Finding&C0332398
+pN2 Lymph Node Finding&C0332398
+pN2 Stage Finding&C0332398
+pN2 Node Finding&C0332398
+pN2 TNM Finding&C0332398
+pN2 stage&C0332398
+pN2&C0332398
+pT1 Primary Tumor Finding&C0332391
+pT1 Tumor Finding&C0332391
+pT1 TNM Finding&C0332391
+pT1 stage&C0332391
+pT1&C0332391
+pT1a Primary Tumor Finding&C1711128
+pT1a Stage Finding&C1711128
+pT1a Tumor Finding&C1711128
+pT1a TNM Finding&C1711128
+pT1a&C1711128
+pT1b Primary Tumor Finding&C1711129
+pT1b Stage Finding&C1711129
+pT1b Tumor Finding&C1711129
+pT1b TNM Finding&C1711129
+pT1b&C1711129
+pT2 Primary Tumor Finding&C0332392
+pT2 Stage Finding&C0332392
+pT2 Tumor Finding&C0332392
+pT2 TNM Finding&C0332392
+pT2 stage&C0332392
+pT2&C0332392
+pT3 Primary Tumor Finding&C0332393
+pT3 Stage Finding&C0332393
+pT3 Tumor Finding&C0332393
+pT3 TNM Finding&C0332393
+pT3 stage&C0332393
+pT3&C0332393
+[2aR-[2a alpha,4beta,4a beta,6beta,9alpha(alphaR*,betaS*),-11alpha,12alpha,12a alpha,12b alpha]]-beta-(benzoylamino)-alpha-hydroxybenzene-propanoic acid 6,12b-bis(acetyloxy)-12-(benzoyloxy)-1a,33,4,-41,5,6,9,10,11,12,12a,12b-dodecahydro-4,11-dihydroxy-41,8,-12,13-tetramethyl-5-oxo-7,11-methano-1H-cyclodeca[3,4]benz[1,2-b]oxet-9-yl ester&C0144576
+BENZENEPROPANOIC ACID, .BETA.-(BENZOYLAMINO)-.ALPHA.-HYDROXY-, (2AR,4S,4AS,6R,9S,11S,12S,12AR,12BS)-6,12B-BIS(ACETYLOXY)-12-(BENZOYLOXY)-2A,3,4,4A,5,6,9,10,11,12,12A,12B-DODECAHYDRO-4,11-DIHYDROXY-4A,8,13,13-TETRAMETHYL-5-OXO-7,11-METHANO-1H-CYCLODECA(3,&C0144576
+5beta,20-epoxy-1,2alpha,4,7beta,10beta,13alpha-hexahydroxytax-11-en-9-one, 4,10-diacetate 2-benzoate 13-ester with (2R,3S)-N-benzoyl-3-phenylisoserine&C0144576
+Paclitaxel, albumin-bound (human)&C0144576
+Paclitaxel-containing product&C0144576
+Paclitaxel (substance)&C0144576
+Paclitaxel Preparation&C0144576
+PACLitaxel&C0144576
+paclitaxel&C0144576
+Pyrido(2,3-d)pyrimidin-7(8H)-one, 6-Acetyl-8-cyclopentyl-5-methyl-2-((5-(1-piperazinyl)-2-pyridinyl)amino)-&C3853822
+6-Acetyl-8-cyclopentyl-5-methyl-2-((5-(piperazin-1-yl)pyridin-2-yl)amino)-8h-pyrido(2,3-d)pyrimidin-7-one&C3853822
+6-acetyl-8-cyclopentyl-5-methyl-2-((5-(piperazin-1-yl)pyridin-2-yl)amino)pyrido[2,3-d]pyrimidin-7(8H)-one&C3853822
+6-acetyl-8-cyclopentyl-5-methyl-2-{[5-(piperazin-1-yl)pyridin-2-yl]amino}pyrido[2,3-d]pyrimidin-7(8H)-one&C3853822
+6-acetyl-8-cyclopentyl-5-methyl-2-(5-piperazin-1-ylpyridin-2-ylamino)-8H-pyrido(2,3-d)pyrimidin-7-one&C3853822
+Product containing palbociclib (medicinal product)&C3853822
+palbociclib (medication)&C3853822
+Palbociclib (substance)&C3853822
+PALBOCICLIB&C3853822
+palbociclib&C3853822
+(3-Amino-1-hydroxypropylidene)-1,1-biphosphonate&C0043603
+Amino 1 hydroxypropane 1,1 diphosphonate&C0043603
+Amino-1-hydroxypropane-1,1-diphosphonate&C0043603
+Aminohydroxypropylidene Diphosphonate&C0043603
+Aminopropanehydroxydiphosphonate&C0043603
+Pamidronate (substance)&C0043603
+PAMIDRONATE&C0043603
+pamidronate&C0043603
+Amidronate&C0043603
+AHPrBP&C0043603
+apds&C0043603
+apd&C0043603
+Immunoglobulin G4, Anti-(Human Programmed Cell Death 1); Humanized Mouse Monoclonal (228-L-proline(H10-S>P))gamma 4 Heavy Chain (134-218')-disulfide with Humanized Mouse Monoclonal Kappa Light Chain Dimer (226-226'':229-229'')-bisdisulfide&C3658706
+humanized mouse monoclonal (228-L-proline(H10-S>P))gamma 4 heavy chain (134-218')-disulfide with humanized mouse monoclonal kappa light chain dimer (226-226'':229-229'')-bisdisulfide&C3658706
+immunoglobulin G4, anti-(human programmed cell death 1)&C3658706
+Product containing pembrolizumab (medicinal product)&C3658706
+Pembrolizumab-containing product&C3658706
+pembrolizumab (medication)&C3658706
+Pembrolizumab (substance)&C3658706
+Lambrolizumab&C3658706
+PEMBROLIZUMAB&C3658706
+pembrolizumab&C3658706
+Perioperative&C1518988
+perioperative&C1518988
+Product containing pertuzumab (medicinal product)&C1328025
+Pertuzumab-containing product&C1328025
+pertuzumab (medication)&C1328025
+Pertuzumab (substance)&C1328025
+PERTUZUMAB&C1328025
+pertuzumab&C1328025
+Platinum (substance)&C0032207
+Platinum Black&C0032207
+Platinum, NOS&C0032207
+Pt - Platinum&C0032207
+platinum (Pt)&C0032207
+PLATINUM&C0032207
+platinum&C0032207
+predictive&C0681890
+Progesterone Receptor Negative&C0279766
+negative progesterone receptor&C0279766
+progesterone negative receptor&C0279766
+progesterone receptor negative&C0279766
+PGR Negative&C0279766
+PR Negative&C0279766
+PR-&C0279766
+Radiologist (occupation)&C0260194
+Radiologist, NOS&C0260194
+Radiologists&C0260194
+Radiologist&C0260194
+radiologist&C0260194
+radiation therapy&C0034619
+radiotherapeutic&C0034619
+radiotherapy&C0034619
+1,15-ETHENO-1H-PYRAZOLO(4,3-F)(1,4,8,10)BENZOXATRIAZACYCLOTRIDECIN-4(5H)-ONE, 11-FLUORO-6,7,13,14-TETRAHYDRO-7,13-DIMETHYL-, (7S,13R)-&C4524909
+(7S,13R)-11-Fluoro-7,13-Dimethyl-6,7,13,14-Tetrahydro-1,15-Ethenopyrazolo[4,3-F][1,4,8,10]Benzoxatriazacyclotridecin-4(5H)-One&C4524909
+(3R,6S,)-45-FLUORO-3,6-DIMETHYL-5-OXA-2,8-DIAZA-1(5,3)-PYRAZOLO(1,5-A)PYRIMIDINA-4(1,2)-BENZENANONAPHAN-9-ONE&C4524909
+repotrectinib (medication)&C4524909
+REPOTRECTINIB&C4524909
+repotrectinib&C4524909
+response to phosphatidyl(amino)ethanols&C4327510
+response to phosphatidylethanolamines&C4327510
+response to phosphatidylethanolamine&C4327510
+response to PtdEtn&C4327510
+response to PE&C4327510
+response to tumor cell&C1817727
+7-Cyclopentyl-N,N-dimethyl-2-((5-(piperazin-1-yl)pyridin-2-yl)amino)-7H-pyrrolo[2,3-d]pyrimidine-6-carboxamide&C4045494
+Product containing ribociclib (medicinal product)&C4045494
+Ribociclib-containing product&C4045494
+ribociclib (medication)&C4045494
+Ribociclib (substance)&C4045494
+RIBOCICLIB&C4045494
+ribociclib&C4045494
+roentgenographic&C0034571
+X-ray diagnosis&C0034571
+roentgenography&C0034571
+X-ray image&C0034571
+radiography&C0034571
+X-ray&C0034571
+Product containing sacituzumab govitecan (medicinal product)&C4086837
+Sacituzumab govitecan-containing product&C4086837
+Sacituzumab govitecan (substance)&C4086837
+SACITUZUMAB GOVITECAN&C4086837
+sacituzumab govitecan&C4086837
+Naphtho(1,2-b)furan-2,8(3H,4H)-dione, 3a,5,5a,9b-tetrahydro-3,5a,9-trimethyl-, (3S-(3alpha,3aalpha,5abeta,9bbeta))-&C0036179
+(3S,3AS,5AS)-3,5a,9-Trimethyl-3a,4,5,5a-Tetrahydronaphtho(1,2-B)Furan-2,8(3H,9bh)-Dione&C0036179
+Santonin (substance)&C0036179
+SANTONIN&C0036179
+santonin&C0036179
+Product containing selpercatinib (medicinal product)&C5235396
+Selpercatinib-containing product&C5235396
+selpercatinib (medication)&C5235396
+Selpercatinib (substance)&C5235396
+SELPERCATINIB&C5235396
+selpercatinib&C5235396
+Product containing sodium fluoride (medicinal product)&C0037508
+FLUORIDE (AS SODIUM FLUORIDE)&C0037508
+Sodium fluoride (substance)&C0037508
+Fluorides, Sodium&C0037508
+Fluoride, Sodium&C0037508
+Sodium Fluorides&C0037508
+Fluoride Sodium&C0037508
+SODIUM FLUORIDE&C0037508
+sodium fluoride&C0037508
+Subcutaneous (qualifier value)&C0443315
+SC - Subcutaneous&C0443315
+Subcutaneous&C0443315
+subcutaneous&C0443315
+4-aminobenzene sulfonic acid amide&C0038702
+vaginal preparations sulfanilamide&C0038702
+Benzenesulfonamide, 4-amino-&C0038702
+para-aminobenzenesulfonamide&C0038702
+4-azanylbenzenesulfonamide&C0038702
+4 aminobenzenesulfonamide&C0038702
+4-Aminobenzenesulfonamide&C0038702
+Sulfanilamide (substance)&C0038702
+sulfanilamide (vaginal)&C0038702
+4-Sulfamoylaniline&C0038702
+Sulfanilamidum&C0038702
+Sulphanilamide&C0038702
+SULFANILAMIDE&C0038702
+sulfanilamide&C0038702
+Sulfamine&C0038702
+salicylic acid-dependent systemic resistance&C1155281
+systemic acquired resistance&C1155281
+3H-Pyrido(4,3,2-de)phthalazin-3-one, 5-fluoro-8-(4-fluorophenyl)-2,7,8,9-tetrahydro-9-(1-methyl-1H-1,2,4-triazol-5-yl)-, (8S,9R)-&C4042960
+Product containing talazoparib (medicinal product)&C4042960
+Talazoparib-containing product&C4042960
+talazoparib (medication)&C4042960
+Talazoparib (substance)&C4042960
+TALAZOPARIB&C4042960
+talazoparib&C4042960
+Ethanamine, 2-(4-(1,2-diphenyl-1-butenyl)phenoxy)-N,N-dimethyl-, (Z)-&C0039286
+1-p-beta-dimethylamino-ethoxyphenyl-trans-1,2-diphenylbut-1-ene&C0039286
+1-p-beta-Dimethylaminoethoxyphenyl-trans-1,2-diphenylbut-1-ene&C0039286
+Product containing tamoxifen (medicinal product)&C0039286
+tamoxifen (medication)&C0039286
+Tamoxifen (substance)&C0039286
+Tamoxifeno&C0039286
+Tamoxifène&C0039286
+TAMOXIFEN&C0039286
+tamoxifen&C0039286
+TAM&C0039286
+taxane&C0215136
+termination - ActReason&C1692758
+termination&C1692758
+4-(Dimethylamino)-1,4,4A,5,5A,6,11,12A-Octahydro-3,6,10,12,12A-Pentahydroxy-6-Methyl-1,11-Dioxo-2-Naphthacenecarboxamide&C0039644
+Product containing tetracycline (medicinal product)&C0039644
+Tetracycline-containing product&C0039644
+Tetracycline (substance)&C0039644
+Tetracycline&C0039644
+tetracycline&C0039644
+Tetracyclin&C0039644
+Tetrazyklin&C0039644
+Thromboembolic&C0333214
+thromboembolic&C0333214
+Tomographic imaging, plain radiologic - action&C0040395
+Diagnostic laminographic examination, NOS&C0040395
+Diagnostic tomographic examination&C0040395
+Diagnostic tomography&C0040395
+Tomographic imaging&C0040395
+Tomographies&C0040395
+Tomography&C0040395
+tomography&C0040395
+tomograms&C0040395
+Tomogram&C0040395
+Ethanamine, 2-(4-(4-chloro-1,2-diphenyl-1-butenyl)phenoxy)-N,N-dimethyl-, (Z)-&C0076836
+(Z)-4-Chloro-1,2-diphenyl-1[4-[2-(N,N-dimethylamino)ethoxy]phenyl]-1-butene&C0076836
+(Z)-2-[4-(4-Chloro-1,2-diphenyl-1-butenyl)phenoxy]-N,N-dimethylethanamine&C0076836
+Product containing toremifene (medicinal product)&C0076836
+Toremifene-containing product&C0076836
+Toremifene (substance)&C0076836
+Toremifenum&C0076836
+TOREMIFENE&C0076836
+Toremifeno&C0076836
+toremifene&C0076836
+Product containing trastuzumab (medicinal product)&C0728747
+anti-HER2/c-erbB2 monoclonal antibody&C0728747
+Trastuzumab-containing product&C0728747
+anti-erbB2 monoclonal antibody&C0728747
+monoclonal antibody HER2&C0728747
+Trastuzumab (substance)&C0728747
+beta, Trastuzumab&C0728747
+anti-c-erB-2&C0728747
+RHUMAB HER2&C0728747
+TRASTUZUMAB&C0728747
+trastuzumab&C0728747
+MOAB HER2&C0728747
+Gonadotropin Releasing Hormone Agonists (GnRH) triptorelin&C0077275
+Luteinizing hormone-releasing factor (pig), 6-D-tryptophan&C0077275
+(6-D-Tryptophan)luteinizing hormone-releasing hormone&C0077275
+6-D-Tryptophanluteinizing Hormone-releasing Factor&C0077275
+Product containing triptorelin (medicinal product)&C0077275
+pGlu-His-Trp-Ser-Tyr-D-Trp-Leu-Arg-Pro-Gly-NH2&C0077275
+6-D-Tryptophan-LH-RH&C0077275
+LHRH, Tryptophyl(6)-&C0077275
+Detryptoreline&C0077275
+(D-Trp6)-GnRH&C0077275
+D-Trp-6-LH-RH&C0077275
+GnRH, Trp(6)-&C0077275
+LHRH, Trp(6)-&C0077275
+Triptorelinum&C0077275
+D-TRP-6-LHRH&C0077275
+Triptorelina&C0077275
+TRIPTORELIN&C0077275
+triptorelin&C0077275
+TRIP&C0077275
+N6-(4,4-Dimethyl-4,5-dihydrooxazol-2-yl)-N4-(3-methyl-4-((1,2,4)triazolo(1,5-a)pyridin-7-yloxy)phenyl)quinazoline-4,6-diamine&C4519167
+N6-(4,5-dihydro-4,4-dmethyl-2-oxazolyl)-N4-(3-methyl-4-((1,2,4)triazolo(1,5-A)pyridin-7-Yloxy)phenyl)-4,6-quinazolinediamine&C4519167
+Product containing tucatinib (medicinal product)&C4519167
+tucatinib (medication)&C4519167
+Tucatinib (substance)&C4519167
+Irbinitinib&C4519167
+TUCATINIB&C4519167
+tucatinib&C4519167
+urea amidohydrolase activity&C1149785
+urease activity&C1149785
+C'-Norvincaleukoblastine, 3',4'-didehydro-4'-deoxy-&C0078257
+Product containing vinorelbine (medicinal product)&C0078257
+Vinorelbine-containing product&C0078257
+5' Nor anhydrovinblastine&C0078257
+5'-Nor-Anhydrovinblastine&C0078257
+5'-Noranhydrovinblastine&C0078257
+vinorelbine (medication)&C0078257
+Vinorelbine (substance)&C0078257
+Vinorelbinum&C0078257
+VINORELBINE&C0078257
+Vinorelbina&C0078257
+vinorelbine&C0078257
+Vinorelbin&C0078257
+(1-hydroxy-2-(1H-imidazol-1-yl)ethylidene)bisphosphonic acid&C0257685
+2-(Imidazol-1-yl)-1-hydroxyethylidene-1,1-bisphosphonic acid&C0257685
+[1-Hydroxy-2-(1H-imidazol-1-yl)ethylidene]bisphosphonic Acid&C0257685
+Product containing zoledronic acid (medicinal product)&C0257685
+Zoledronic acid-containing product&C0257685
+bisphosphonate zoledronic acid&C0257685
+zoledronic acid (medication)&C0257685
+Zoledronic acid (substance)&C0257685
+ZOLEDRONIC ACID&C0257685
