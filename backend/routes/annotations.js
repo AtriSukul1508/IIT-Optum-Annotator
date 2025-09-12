@@ -17,4 +17,7 @@ router.put('/document/:documentId/:annotationId', annotationController.updateAnn
 // Delete specific annotation
 router.delete('/document/:documentId/:annotationId', annotationController.deleteAnnotation);
 
+// Bulk delete multiple annotations from a document
+router.delete('/document/:documentId/bulk', annotationController.bulkDeleteAnnotations);
+
 module.exports = router;
