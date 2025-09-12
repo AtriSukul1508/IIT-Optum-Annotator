@@ -1,6 +1,5 @@
 const Project = require('../models/Document');
 
-// Get annotations for a specific document
 const getAnnotations = async (req, res) => {
   try {
     const documentId = parseInt(req.params.documentId);
@@ -27,7 +26,9 @@ const getAnnotations = async (req, res) => {
   }
 };
 
-// Add new annotation
+/**
+ * Add new annotation and update document annotation status
+ */
 const addAnnotation = async (req, res) => {
   try {
     const documentId = parseInt(req.params.documentId);
@@ -52,8 +53,13 @@ const addAnnotation = async (req, res) => {
     for (const project of projects) {
       const docIndex = project.documents.findIndex(doc => doc.id === documentId);
       if (docIndex !== -1) {
+        const document = project.documents[docIndex];
+        
+        // Check if this is the first annotation for this document
+        const isFirstAnnotation = !document.annotations || document.annotations.length === 0;
+        
         // Generate new annotation ID
-        const existingIds = project.documents[docIndex].annotations.map(a => a.id);
+        const existingIds = document.annotations ? document.annotations.map(a => a.id) : [];
         const newAnnotationId = existingIds.length > 0 ? Math.max(...existingIds) + 1 : 1;
         
         const newAnnotation = {
@@ -81,13 +87,36 @@ const addAnnotation = async (req, res) => {
           ]
         };
         
-        project.documents[docIndex].annotations.push(newAnnotation);
-        project.documents[docIndex].last_modified = new Date().toISOString();
+        // Add annotation to document
+        if (!document.annotations) {
+          document.annotations = [];
+        }
+        document.annotations.push(newAnnotation);
+        
+        // Update document annotation status if this is the first annotation
+        if (isFirstAnnotation) {
+          document.is_annotated = true;
+          document.first_annotation_date = new Date();
+          console.log(`Document ${documentId} moved from not-annotated to annotated status`);
+        }
+        
+        // Update document last_modified timestamp
+        document.last_modified = new Date().toISOString();
         
         await project.save();
         
         console.log(`Added annotation ${newAnnotationId} to document ${documentId}`);
-        res.status(201).json(newAnnotation);
+        
+        // Return the annotation along with the updated document status
+        res.status(201).json({
+          annotation: newAnnotation,
+          document_status: {
+            is_annotated: document.is_annotated,
+            first_annotation_date: document.first_annotation_date,
+            total_annotations: document.annotations.length,
+            was_first_annotation: isFirstAnnotation
+          }
+        });
         updated = true;
         break;
       }
@@ -102,7 +131,9 @@ const addAnnotation = async (req, res) => {
   }
 };
 
-// Update annotation
+/**
+ * Update annotation
+ */
 const updateAnnotation = async (req, res) => {
   try {
     const documentId = parseInt(req.params.documentId);
@@ -169,7 +200,9 @@ const updateAnnotation = async (req, res) => {
   }
 };
 
-// Delete annotation
+/**
+ * Delete annotation and update document annotation status if needed
+ */
 const deleteAnnotation = async (req, res) => {
   try {
     const documentId = parseInt(req.params.documentId);
@@ -181,18 +214,40 @@ const deleteAnnotation = async (req, res) => {
     for (const project of projects) {
       const docIndex = project.documents.findIndex(doc => doc.id === documentId);
       if (docIndex !== -1) {
-        const initialLength = project.documents[docIndex].annotations.length;
+        const document = project.documents[docIndex];
+        const initialLength = document.annotations.length;
         
-        project.documents[docIndex].annotations = project.documents[docIndex].annotations.filter(
+        // Remove the annotation
+        document.annotations = document.annotations.filter(
           ann => ann.id !== annotationId
         );
         
-        if (project.documents[docIndex].annotations.length < initialLength) {
-          project.documents[docIndex].last_modified = new Date().toISOString();
+        if (document.annotations.length < initialLength) {
+          // Check if document now has no annotations
+          const wasLastAnnotation = document.annotations.length === 0;
+          
+          if (wasLastAnnotation) {
+            // Move document back to not-annotated status
+            document.is_annotated = false;
+            document.first_annotation_date = null;
+            console.log(`Document ${documentId} moved back to not-annotated status`);
+          }
+          
+          document.last_modified = new Date().toISOString();
           await project.save();
           
           console.log(`Deleted annotation ${annotationId} from document ${documentId}`);
-          res.status(204).send();
+          
+          // Return deletion status along with document status
+          res.status(200).json({
+            message: 'Annotation deleted successfully',
+            document_status: {
+              is_annotated: document.is_annotated,
+              first_annotation_date: document.first_annotation_date,
+              total_annotations: document.annotations.length,
+              was_last_annotation: wasLastAnnotation
+            }
+          });
           deleted = true;
           break;
         }
@@ -208,7 +263,9 @@ const deleteAnnotation = async (req, res) => {
   }
 };
 
-// Get annotation statistics
+/**
+ * Get annotation statistics for a document
+ */
 const getAnnotationStats = async (req, res) => {
   try {
     const documentId = parseInt(req.params.documentId);
@@ -228,16 +285,17 @@ const getAnnotationStats = async (req, res) => {
       return res.status(404).json({ error: 'Document not found' });
     }
     
-    const annotations = foundDocument.annotations;
+    const annotations = foundDocument.annotations || [];
     const stats = {
       total: annotations.length,
       confirmed: annotations.filter(ann => ann.meta_anns[0]?.value === 'Confirmed').length,
       other: annotations.filter(ann => ann.meta_anns[0]?.value === 'Other').length,
-      rejected: annotations.filter(ann => ann.meta_anns[0]?.value === 'Rejected').length,
       validated: annotations.filter(ann => ann.validated).length,
       manually_created: annotations.filter(ann => ann.manually_created).length,
       avg_confidence: annotations.length > 0 ? 
-        (annotations.reduce((sum, ann) => sum + (ann.acc || 1), 0) / annotations.length).toFixed(2) : 0
+        (annotations.reduce((sum, ann) => sum + (ann.acc || 1), 0) / annotations.length).toFixed(2) : 0,
+      is_annotated: foundDocument.is_annotated || false,
+      first_annotation_date: foundDocument.first_annotation_date
     };
     
     res.json(stats);
@@ -247,10 +305,82 @@ const getAnnotationStats = async (req, res) => {
   }
 };
 
+/**
+ * Bulk delete annotations - useful for testing or data cleanup
+ */
+const bulkDeleteAnnotations = async (req, res) => {
+  try {
+    const documentId = parseInt(req.params.documentId);
+    const { annotation_ids } = req.body;
+    
+    if (!annotation_ids || !Array.isArray(annotation_ids)) {
+      return res.status(400).json({ 
+        error: 'annotation_ids array is required' 
+      });
+    }
+    
+    const projects = await Project.find({});
+    let updated = false;
+    
+    for (const project of projects) {
+      const docIndex = project.documents.findIndex(doc => doc.id === documentId);
+      if (docIndex !== -1) {
+        const document = project.documents[docIndex];
+        const initialLength = document.annotations.length;
+        
+        // Remove specified annotations
+        document.annotations = document.annotations.filter(
+          ann => !annotation_ids.includes(ann.id)
+        );
+        
+        const deletedCount = initialLength - document.annotations.length;
+        
+        if (deletedCount > 0) {
+          // Check if document now has no annotations
+          const hasNoAnnotations = document.annotations.length === 0;
+          
+          if (hasNoAnnotations && document.is_annotated) {
+            // Move document back to not-annotated status
+            document.is_annotated = false;
+            document.first_annotation_date = null;
+            console.log(`Document ${documentId} moved back to not-annotated status after bulk delete`);
+          }
+          
+          document.last_modified = new Date().toISOString();
+          await project.save();
+          
+          console.log(`Bulk deleted ${deletedCount} annotations from document ${documentId}`);
+          
+          res.json({
+            message: `Successfully deleted ${deletedCount} annotations`,
+            deleted_count: deletedCount,
+            remaining_annotations: document.annotations.length,
+            document_status: {
+              is_annotated: document.is_annotated,
+              first_annotation_date: document.first_annotation_date,
+              total_annotations: document.annotations.length
+            }
+          });
+          updated = true;
+          break;
+        }
+      }
+    }
+    
+    if (!updated) {
+      res.status(404).json({ error: 'Document not found or no annotations were deleted' });
+    }
+  } catch (error) {
+    console.error('Error bulk deleting annotations:', error);
+    res.status(500).json({ error: error.message });
+  }
+};
+
 module.exports = {
   getAnnotations,
   addAnnotation,
   updateAnnotation,
   deleteAnnotation,
-  getAnnotationStats
+  getAnnotationStats,
+  bulkDeleteAnnotations
 };
