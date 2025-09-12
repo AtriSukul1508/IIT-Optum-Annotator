@@ -28,6 +28,10 @@ const documentSchema = new mongoose.Schema({
   name: { type: String, required: true },
   text: { type: String, required: true },
   last_modified: { type: Date, default: Date.now },
+  // New field to track annotation status
+  is_annotated: { type: Boolean, default: false },
+  // Track when first annotation was added
+  first_annotation_date: { type: Date, default: null },
   annotations: [annotationSchema]
 });
 
@@ -37,6 +41,18 @@ const projectSchema = new mongoose.Schema({
   cuis: { type: String, default: '' },
   tuis: { type: String, default: '' },
   documents: [documentSchema]
+});
+
+// Pre-save middleware to automatically update is_annotated status
+documentSchema.pre('save', function(next) {
+  if (this.annotations && this.annotations.length > 0 && !this.is_annotated) {
+    this.is_annotated = true;
+    this.first_annotation_date = new Date();
+  } else if (this.annotations && this.annotations.length === 0 && this.is_annotated) {
+    this.is_annotated = false;
+    this.first_annotation_date = null;
+  }
+  next();
 });
 
 module.exports = mongoose.model('Project', projectSchema);
