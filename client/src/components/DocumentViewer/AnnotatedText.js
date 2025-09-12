@@ -1,4 +1,3 @@
-// src/components/DocumentViewer/AnnotatedText.js
 import React, { useState, useRef, useEffect } from 'react';
 import WordTooltip from './WordTooltip';
 
@@ -8,17 +7,44 @@ const AnnotatedText = ({
   onAnnotationSelect, 
   selectedAnnotation,
   onTextSelected,
-  onDeleteAnnotation 
+  onDeleteAnnotation,
+  // New props for auto-highlighting
+  autoMatches = [],
+  showAutoHighlights = true,
+  onAutoMatchSelect
 }) => {
   const [hoveredWord, setHoveredWord] = useState(null);
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
   const [selection, setSelection] = useState(null);
   const [hoveredAnnotation, setHoveredAnnotation] = useState(null);
   const [hoveredAnnotationPosition, setHoveredAnnotationPosition] = useState({ x: 0, y: 0 });
+  const [hoveredAutoMatch, setHoveredAutoMatch] = useState(null);
+  const [hoveredAutoMatchPosition, setHoveredAutoMatchPosition] = useState({ x: 0, y: 0 });
   const textContainerRef = useRef(null);
 
-  // Sort annotations by start position
-  const sortedAnnotations = [...annotations].sort((a, b) => a.start - b.start);
+  // Combine and sort all highlights (annotations + auto-matches)
+  const getAllHighlights = () => {
+    const highlights = [...annotations];
+    
+    if (showAutoHighlights) {
+      // Only add auto-matches that don't overlap with existing annotations
+      autoMatches.forEach(match => {
+        const overlaps = annotations.some(ann => 
+          (match.start >= ann.start && match.start <= ann.end) ||
+          (match.end >= ann.start && match.end <= ann.end) ||
+          (match.start <= ann.start && match.end >= ann.end)
+        );
+        
+        if (!overlaps) {
+          highlights.push(match);
+        }
+      });
+    }
+    
+    return highlights.sort((a, b) => a.start - b.start);
+  };
+
+  const sortedHighlights = getAllHighlights();
 
   // Handle text selection
   const handleMouseUp = () => {
@@ -52,17 +78,18 @@ const AnnotatedText = ({
     }
   };
 
-  // Clear selection when clicking elsewhere
+  
   const handleMouseDown = (e) => {
-    // Don't clear selection if clicking on the add button
-    if (e.target.closest('.floating-add-button')) {
+    
+    if (e.target.closest('.floating-add-button') || e.target.closest('.auto-match-tooltip')) {
       return;
     }
+
     setSelection(null);
     window.getSelection().removeAllRanges();
   };
 
-  // Handle add new annotation from selection
+  
   const handleAddFromSelection = () => {
     if (selection && onTextSelected) {
       onTextSelected({
@@ -77,6 +104,8 @@ const AnnotatedText = ({
 
   // Handle annotation hover for delete button
   const handleAnnotationMouseEnter = (annotation, event) => {
+    if (annotation.isAutoDetected) return; // Don't show delete for auto-matches
+    
     const rect = event.target.getBoundingClientRect();
     const container = textContainerRef.current.getBoundingClientRect();
     
@@ -91,6 +120,22 @@ const AnnotatedText = ({
     setHoveredAnnotation(null);
   };
 
+  // Handle auto-match hover for add button
+  const handleAutoMatchMouseEnter = (autoMatch, event) => {
+    const rect = event.target.getBoundingClientRect();
+    const container = textContainerRef.current.getBoundingClientRect();
+    
+    setHoveredAutoMatch(autoMatch);
+    setHoveredAutoMatchPosition({
+      x: rect.left - container.left + rect.width / 2,
+      y: rect.top - container.top - 10
+    });
+  };
+
+  const handleAutoMatchMouseLeave = () => {
+    setHoveredAutoMatch(null);
+  };
+
   // Handle delete annotation
   const handleDeleteAnnotation = (annotationId) => {
     if (onDeleteAnnotation) {
@@ -99,15 +144,29 @@ const AnnotatedText = ({
     setHoveredAnnotation(null);
   };
 
-  // Create highlighted text with annotations
+  // Handle adding auto-match as annotation
+  const handleAddAutoMatch = (autoMatch) => {
+    if (onTextSelected) {
+      onTextSelected({
+        value: autoMatch.value,
+        start: autoMatch.start,
+        end: autoMatch.end + 1, // Adjust for annotation format
+        suggestedCui: autoMatch.cui,
+        suggestedConcept: autoMatch.concept
+      });
+    }
+    setHoveredAutoMatch(null);
+  };
+
+  // Create highlighted text with annotations and auto-matches
   const createHighlightedText = () => {
     let result = [];
     let lastIndex = 0;
 
-    sortedAnnotations.forEach((annotation, index) => {
-      // Add text before annotation
-      if (annotation.start > lastIndex) {
-        const beforeText = text.substring(lastIndex, annotation.start);
+    sortedHighlights.forEach((highlight, index) => {
+      // Add text before highlight
+      if (highlight.start > lastIndex) {
+        const beforeText = text.substring(lastIndex, highlight.start);
         result.push(
           <span key={`before-${index}`} className="regular-text">
             {renderTextWithWordHover(beforeText, lastIndex)}
@@ -115,24 +174,47 @@ const AnnotatedText = ({
         );
       }
 
-      // Add highlighted annotation
-      const annotationText = text.substring(annotation.start, annotation.end+1);
-      const isSelected = selectedAnnotation && selectedAnnotation.id === annotation.id;
+      const highlightText = text.substring(highlight.start, highlight.end + 1);
+      const isSelected = selectedAnnotation && selectedAnnotation.id === highlight.id;
       
-      result.push(
-        <span
-          key={`annotation-${annotation.id}`}
-          className={`highlighted-text ${isSelected ? 'selected' : ''} status-${annotation.meta_anns[0]?.value.toLowerCase() || 'other'}`}
-          onClick={() => onAnnotationSelect(annotation)}
-          onMouseEnter={(e) => handleAnnotationMouseEnter(annotation, e)}
-          onMouseLeave={handleAnnotationMouseLeave}
-          title={`${annotation.value} (${annotation.cui})`}
-        >
-          {annotationText}
-        </span>
-      );
+      if (highlight.isAutoDetected) {
 
-      lastIndex = annotation.end+1;
+        const confidenceLevel = Math.round(highlight.confidence * 10);
+        result.push(
+          <span
+            key={`auto-${highlight.id}`}
+            className={`auto-highlighted-text confidence-${confidenceLevel} ${isSelected? 'auto-selected':''}`}
+            onClick={() => onAutoMatchSelect && onAutoMatchSelect(highlight)}
+            onMouseEnter={(e) => handleAutoMatchMouseEnter(highlight, e)}
+            onMouseLeave={handleAutoMatchMouseLeave}
+            title={`Auto-detected: ${highlight.concept} (${highlight.cui}) - Confidence: ${Math.round(highlight.confidence * 100)}%`}
+            style={{
+              borderRadius: '3px',
+              padding: '1px 3px',
+              cursor: 'pointer',
+              margin: '0 1px'
+            }}
+          >
+            {highlightText}
+          </span>
+        );
+      } else {
+        // Manual annotation
+        result.push(
+          <span
+            key={`annotation-${highlight.id}`}
+            className={`highlighted-text ${isSelected ? 'selected' : ''} status-${highlight.meta_anns[0]?.value.toLowerCase() || 'other'}`}
+            onClick={() => onAnnotationSelect(highlight)}
+            // onMouseEnter={(e) => handleAnnotationMouseEnter(highlight, e)}
+            // onMouseLeave={handleAnnotationMouseLeave}
+            title={`${highlight.value} (${highlight.cui})`}
+          >
+            {highlightText}
+          </span>
+        );
+      }
+
+      lastIndex = highlight.end + 1;
     });
 
     // Add remaining text
@@ -225,10 +307,15 @@ const AnnotatedText = ({
         </div>
       )}
 
+      {/* Word Hover Tooltip - commented out as in original */}
+      {/* {hoveredWord && (
+        <WordTooltip
+          word={hoveredWord}
+          position={mousePosition}
+        />
+      )} */}
     </div>
   );
 };
 
-
 export default AnnotatedText;
-

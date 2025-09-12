@@ -378,9 +378,9 @@
   background-color: #dc3545;
   color: white;
   border: none;
-  padding: 8px 16px;
+  padding: 6px 12px;
   border-radius: 4px;
-  font-size: 14px;
+  font-size: 12px;
   font-weight: 500;
   cursor: pointer;
 }
@@ -716,4 +716,470 @@ select:focus-visible {
 .annotation-details.full-height {
   flex: 1;
   overflow-y: auto;
+}
+
+
+/* ----------------------------------------------------- */
+
+
+/* Additional CSS for auto-highlighting functionality with file upload */
+/* Add these styles to your existing DocumentViewer.css */
+
+/* Concept Controls Section */
+.concept-controls {
+  background: #f8f9fa;
+  border: 1px solid #dee2e6;
+  border-radius: 8px;
+  padding: 16px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.concept-controls-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.concept-controls-header h3 {
+  margin: 0;
+  color: #426384;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.status-loaded {
+  color: #28a745;
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.concept-loader {
+  background-color: rgb(230, 126, 34);
+  border-radius: 5px;
+  color: white;
+  padding: 6px 12px;
+  border-radius: 4px;
+  font-size: 12px;
+  font-weight: 500;
+
+
+}
+
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+/* File Format Help */
+.file-format-help {
+  background: #fff3cd;
+  border: 1px solid #ffeaa7;
+  border-radius: 6px;
+  padding: 12px;
+  color: #856404;
+}
+
+.file-format-help strong {
+  color: #856404;
+  display: block;
+  margin-bottom: 4px;
+}
+
+.concept-controls-actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.btn-toggle {
+  padding: 8px 16px;
+  border: 1px solid #007bff;
+  background: white;
+  color: #007bff;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-size: 14px;
+}
+
+.btn-toggle:hover {
+  background: #007bff;
+  color: white;
+}
+
+.btn-toggle.active {
+  background: #007bff;
+  color: white;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.btn-secondary {
+  padding: 8px 16px;
+  border: 1px solid #6c757d;
+  background: white;
+  color: #6c757d;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s;
+  font-size: 14px;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.btn-secondary:hover {
+  background: #6c757d;
+  color: white;
+  text-decoration: none;
+}
+
+.reload-concepts label {
+  margin: 0;
+}
+
+/* Auto-highlighted text styles */
+.auto-highlighted-text {
+  border-radius: 3px;
+  padding: 1px 3px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  position: relative;
+  margin: 0 1px;
+}
+
+.auto-highlighted-text.confidence-10:hover {
+  background-color: #fdcb6e;
+  border:1px solid #e17055;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+}
+
+
+.auto-highlighted-text.confidence-10 {
+  background-color: #746ab0;
+  border-color: #00a085;
+}
+
+.auto-highlighted-text.confidence-9 {
+  background: linear-gradient(135deg, #55a3ff 0%, #74b9ff 100%);
+  border-color: #74b9ff;
+}
+
+.auto-highlighted-text.confidence-8 {
+  background: linear-gradient(135deg, #ffeaa7 0%, #fdcb6e 100%);
+  border-color: #e17055;
+}
+
+.auto-highlighted-text.confidence-7,
+.auto-highlighted-text.confidence-6 {
+  background: linear-gradient(135deg, #fab1a0 0%, #e17055 100%);
+  border-color: #d63031;
+}
+
+.auto-highlighted-text.confidence-5,
+.auto-highlighted-text.confidence-4,
+.auto-highlighted-text.confidence-3,
+.auto-highlighted-text.confidence-2,
+.auto-highlighted-text.confidence-1 {
+  background: linear-gradient(135deg, #fd79a8 0%, #e84393 100%);
+  border-color: #d63031;
+}
+
+
+
+/* Selected auto-match info styling */
+.selected-auto-match-info {
+  margin-bottom: 16px;
+}
+
+.selected-auto-match-info div {
+  background: #fff3cd !important;
+  border: 1px solid #ffeaa7 !important;
+  border-radius: 4px !important;
+  padding: 12px !important;
+}
+
+.selected-auto-match-info strong {
+  color: #856404;
+}
+
+.selected-auto-match-info small {
+  color: #856404;
+  opacity: 0.8;
+}
+
+/* Instructions update */
+.text-instructions small {
+  color: #6c757d;
+  font-style: italic;
+}
+
+.text-instructions span {
+  font-weight: 500;
+  color: #743ab0;
+}
+
+/* Enhanced form styling for auto-filled fields */
+input[style*="background: #f8f9fa"] {
+  background: #f8f9fa !important;
+  border-color: #e9ecef !important;
+}
+
+/* File upload drag and drop states */
+.file-upload-area.dragover {
+  border-color: #0056b3;
+  background: #cce5ff;
+  transform: scale(1.02);
+}
+
+/* Success state for file loading */
+.concept-status {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.status-loaded::before {
+  content: '✅';
+  margin-right: 4px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .concept-controls-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .concept-controls-actions > * {
+    width: 100%;
+    text-align: center;
+  }
+
+  
+  .auto-match-popup {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+    max-width: 250px;
+  }
+  
+  .auto-match-info {
+    text-align: center;
+  }
+
+}
+
+/* Accessibility improvements */
+.file-upload-label:focus-within {
+  outline: 2px solid #007bff;
+  outline-offset: 2px;
+}
+
+.btn-toggle:focus,
+.btn-secondary:focus {
+  outline: 2px solid #007bff;
+  outline-offset: 2px;
+}
+
+/* Loading state for buttons */
+.btn-toggle:disabled,
+.btn-secondary:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+/* Smooth transitions */
+.concept-controls-body > * {
+  transition: opacity 0.3s ease, transform 0.3s ease;
+}
+
+.concept-loader button,.concept-loader button span{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+
+
+.concept-controls-actions {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+}
+
+
+.btn-toggle.active {
+  background: #007bff;
+  color: white;
+  box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+}
+
+.btn-secondary {
+  padding: 8px 16px;
+  border: 1px solid #6c757d;
+  background: white;
+  color: #6c757d;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.btn-secondary:hover {
+  background: #6c757d;
+  color: white;
+}
+
+/* Auto-match tooltip */
+.auto-match-tooltip {
+  position: absolute;
+  z-index: 1001;
+  background: white;
+  border: 1px solid #dee2e6;
+  border-radius: 6px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  overflow: hidden;
+}
+
+.auto-match-popup {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 12px;
+  max-width: 300px;
+}
+
+.auto-match-info {
+  flex-grow: 1;
+  font-size: 13px;
+}
+
+.auto-match-info strong {
+  color: #495057;
+  font-size: 14px;
+}
+
+.auto-match-info small {
+  color: #6c757d;
+  display: block;
+  margin-top: 2px;
+}
+
+.add-auto-match-btn {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 6px 10px;
+  background: #28a745;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-size: 12px;
+  font-weight: 500;
+  transition: background 0.2s;
+}
+
+.add-auto-match-btn:hover {
+  background: #218838;
+}
+
+/* Floating button improvements */
+.floating-add-button,
+.floating-delete-button {
+  position: absolute;
+  z-index: 1000;
+}
+
+.add-annotation-btn {
+  background: #28a745;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(40, 167, 69, 0.3);
+  transition: all 0.2s;
+}
+
+.add-annotation-btn:hover {
+  background: #218838;
+  transform: scale(1.1);
+}
+
+.delete-annotation-btn {
+  background: #dc3545;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  box-shadow: 0 2px 8px rgba(220, 53, 69, 0.3);
+  transition: all 0.2s;
+}
+
+.delete-annotation-btn:hover {
+  background: #c82333;
+  transform: scale(1.1);
+}
+
+/* Selected auto-match info styling */
+.selected-auto-match-info {
+  margin-bottom: 16px;
+}
+
+.selected-auto-match-info div {
+  background: #fff3cd !important;
+  border: 1px solid #ffeaa7 !important;
+  border-radius: 4px !important;
+  padding: 12px !important;
+}
+
+.selected-auto-match-info strong {
+  color: #856404;
+}
+
+.selected-auto-match-info small {
+  color: #856404;
+  opacity: 0.8;
+}
+
+/* Enhanced form styling for auto-filled fields */
+input[style*="background: #f8f9fa"] {
+  background: #f8f9fa !important;
+  border-color: #e9ecef !important;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  .concept-controls-actions {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  
+  .concept-loader {
+    gap: 8px;
+  }
+  
+  .auto-match-popup {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 8px;
+  }
+  
+  .auto-match-info {
+    text-align: center;
+  }
 }
