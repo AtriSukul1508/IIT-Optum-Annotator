@@ -505,8 +505,10 @@ Structure of lymph node (body structure)&C0024204
 Mammalian Target of Rapamycin Inhibitors&C1515672
 Milligram/square meter (qualifier value)&C1319266
 Amino 1 hydroxypropane 1,1 diphosphonate&C0043603
+deep inferior epigastric perforator flap&C5686775
 Amino-1-hydroxypropane-1,1-diphosphonate&C0043603
 Sacituzumab govitecan-containing product&C4086837
+Ductal carcinoma in situ of right breast&C2865374
 Challenge Agent Characterization Domain&C0001246
 Adjuvant Therapy Clinical Trial Setting&C4084850
 Advanced HER2 Low Breast Adenocarcinoma&C5555766
@@ -557,6 +559,7 @@ Binocular vision suppression (disorder)&C0221103
 Receptor tyrosine-protein kinase erbB-2&C0069515
 Localization - action (qualifier value)&C0475264
 response to phosphatidyl(amino)ethanols&C4327510
+Ductal carcinoma in situ of left breast&C2865375
 accelerated partial breast irradiation&C3896696
 Accelerated Partial Breast Irradiation&C3896696
 Aromatase inhibitor-containing product&C0593802
@@ -714,6 +717,8 @@ Triple-Negative Breast Cancer Result&C2348819
 Luteinizing hormone releasing factor&C0023610
 Luteinising Hormone-Releasing Factor&C0023610
 response to phosphatidylethanolamine&C4327510
+Ductal carcinoma on the left breast&C2865375
+Ductal carcinoma of the left breast&C2865375
 process of judicial decision making&C0680730
 Adriamycin-cyclophosphamide regimen&C1879503
 Androstenedione Aromatase Inhibitor&C0593802
@@ -855,6 +860,7 @@ No regional lymph node involvement&C0332396
 vaginal preparations sulfanilamide&C0038702
 Diagnostic tomographic examination&C0040395
 Zoledronic acid-containing product&C0257685
+Metastatic Breast Ductal Carcinoma&C2698203
 adrenal insufficiency (diagnosis)&C0001623
 Antibodies, Monoclonal, Humanized&C2985546
 glutamic oxaloacetic transaminase&C0004002
@@ -1270,6 +1276,7 @@ Trastuzumab-containing product&C0728747
 anti-erbB2 monoclonal antibody&C0728747
 Vinorelbine-containing product&C0078257
 bisphosphonate zoledronic acid&C0257685
+Microinvasive Breast Carcinoma&C2732473
 glutamic pyruvic transaminase&C0001899
 Glutamic Alanine Transaminase&C0001899
 Glutamic-Pyruvic Transaminase&C0001899
@@ -1387,7 +1394,6 @@ Observation of weight-bearing&C0085086
 whole brain radiation therapy&C1520143
 whole-brain radiation therapy&C1520143
 Whole brain radiation therapy&C1520143
-Healing following injury, NOS&C0043240
 Diammonium Tetrathiomolybdate&C0103097
 Stealth Liposomal Doxorubicin&C1522690
 erbB 2 Proto Oncogene Protein&C0069515
@@ -1525,6 +1531,7 @@ systemic acquired resistance&C1155281
 Tomographic imaging - action&C0040395
 urea amidohydrolase activity&C1149785
 zoledronic acid (medication)&C0257685
+Noninvasive ductal carcinoma&C0861353
 acute lymphocytic leukaemia&C0023449
 leukemia, acute lymphocytic&C0023449
 Leukaemia;acute lymphocytic&C0023449
@@ -1621,7 +1628,6 @@ Supportive Care, Palliative&C0030231
 Pertuzumab Plus Trastuzumab&C4527348
 Reactions, Polymerase Chain&C0032520
 the period after childbirth&C0086839
-Other infectious conditions&C0032965
 Pregnancy--Trimester, First&C0032979
 First Trimester Pregnancies&C0032979
 Pregnancy Trimesters, First&C0032979
@@ -1637,8 +1643,6 @@ Ring Finger Protein 31 Gene&C1423923
 RNIx radiation therapy care&C0150318
 Image-Guided Radiotherapies&C3179062
 Renal tubular disorder, NOS&C0151747
-Repeated Surgical Procedure&C0035110
-Surgical procedure repeated&C0035110
 Nucleus endymalis (Hassler)&C0228327
 Local Excision Mastectomies&C0024885
 Lymph Node Biopsy, Sentinel&C0796693
@@ -1852,6 +1856,7 @@ pembrolizumab (medication)&C3658706
 repotrectinib (medication)&C4524909
 selpercatinib (medication)&C5235396
 4-azanylbenzenesulfonamide&C0038702
+Ductal Carcinoma of breast&C1527349
 acute lymphatic leukaemia&C0023449
 Adrenal insufficiency NOS&C0001623
 Hypoadrenalism (disorder)&C0001623
@@ -1948,6 +1953,8 @@ Malignant tumour of ovary&C1140680
 Subcutaneous Mastectomies&C0024887
 Nipple sparing mastectomy&C0024887
 Nipple-sparing mastectomy&C0024887
+nipple sparing mastectomy&C0024887
+nipple-sparing mastectomy&C0024887
 Contraindication, Medical&C1301624
 Metastatic to (attribute)&C0036525
 Monoclonal immunoglobulin&C0003250
@@ -2356,6 +2363,8 @@ Talazoparib (substance)&C4042960
 termination - ActReason&C1692758
 Trastuzumab (substance)&C0728747
 Vinorelbine (substance)&C0078257
+Ductal Breast Carcinoma&C1527349
+Microinvasive Carcinoma&C2732473
 Prescription Adherence&C2364172
 Medication concordance&C2364172
 Adolescent (age group)&C0205653
@@ -3576,6 +3585,7 @@ radiation therapy&C0034619
 Fluorides, Sodium&C0037508
 SC - Subcutaneous&C0443315
 beta, Trastuzumab&C0728747
+Ductal Carcinoma&C1527349
 Adjuvant Therapy&C0677850
 adjuvant therapy&C0677850
 Adolescent Youth&C0205653
@@ -3726,8 +3736,6 @@ tumor recurrence&C0521158
 Recurrent tumour&C0521158
 breast reduction&C0191922
 disorder relapse&C0035020
-Closure - action&C0185003
-surgical closure&C0185003
 Revision Surgery&C0035110
 Cancer, Residual&C0242594
 residual disease&C0543478
@@ -3797,6 +3805,7 @@ Radiologist, NOS&C0260194
 radiotherapeutic&C0034619
 roentgenographic&C0034571
 Fluoride, Sodium&C0037508
+core need biopsy&C1318309
 ADO-TRASTUZUMAB&C3643461
 Adherence, Drug&C2364172
 Adrenal failure&C0001623
@@ -3984,7 +3993,8 @@ roentgenography&C0034571
 fluoride sodium&C0037508
 sodium fluoride&C0037508
 urease activity&C1149785
-zoledronic acid&C0257685nab-paclitaxel&C1527223
+zoledronic acid&C0257685
+nab-paclitaxel&C1527223
 Drug Adherence&C2364172
 Adjuvant Trial&C1510810
 Adjuvant Study&C1510810
@@ -4224,6 +4234,8 @@ ERBB Negative&C4725782
 HER2 Antibody&C4329777
 c-erbB-2 Gene&C0242957
 Ma-Huang, Cao&C0696758
+ER Positivity&C0279754
+ER Negativity&C0279756
 ESR1 Negative&C0279756
 ESRA Negative&C0279756
 ESR1 Positive&C0279754
@@ -4262,7 +4274,6 @@ breast masses&C0024103
 BREAST NODULE&C0024103
 menstruations&C0025344
 Metastatic to&C0036525
-Microinvasive&C0205622
 Cancer Center&C1513817
 nab-docetaxel&C2347327
 Necrosis, NOS&C0027540
@@ -4321,9 +4332,6 @@ spinal column&C0037949
 Wide excision&C5192703
 Deteriorating&C0332271
 tissue repair&C0043240
-wound healing&C0043240
-healed wounds&C0043240
-Wound Healing&C0043240
 Capecitabinum&C0671970
 Syklofosfamid&C0010583
 Cyclophospham&C0010583
@@ -4594,7 +4602,6 @@ morbidities&C0026538
 Neoadjuvant&C0600558
 secondaries&C0027627
 Theleplasty&C0191926
-Sample Name&C5551027
 Oocyte, NOS&C0029045
 Oral region&C0230028
 bone; Paget&C0029401
@@ -4610,8 +4617,6 @@ prone lying&C0033422
 Lying prone&C0033422
 Prophylaxis&C0199176
 DJ1 Protein&C4255233
-Puerto Rico&C0034044
-puerto rico&C0034044
 re-excision&C0184913
 Reflex test&C1550160
 reoperation&C0035110
@@ -4629,7 +4634,6 @@ Tumefaction&C0038999
 symptomatic&C0231220
 Symptomatic&C0231220
 Genes, TP53&C0079419
-Damage, NOS&C0010957
 topical use&C1522168
 TRUS Biopsy&C4684963
 vasectomies&C0042387
@@ -4684,7 +4688,6 @@ bms-247550&C0879430
 bms 247550&C0879430
 BRCA1 Gene&C0376571
 BRCA1 gene&C0376571
-Biosimilar&C4045974
 Osteopathy&C0005940
 Breast Fed&C0006147
 breastfeed&C0006147
@@ -4781,8 +4784,6 @@ dissection&C0012737
 Transition&C0599156
 Tumour bed&C3640144
 ultrasound&C0041618
-Spine, NOS&C0037949
-wound heal&C0043240
 Anatomical&C0220784
 cribriform&C1621425
 definition&C1550452
@@ -4818,9 +4819,7 @@ Alkalemia&C0221106
 formation&C0220781
 Anabolism&C0220781
 anabolism&C0220781
-synthesis&C0220781
 BMS247550&C0879430
-weighting&C0005910
 bone mass&C0005938
 bone bone&C0005931
 Breastfed&C0006147
@@ -4832,16 +4831,13 @@ Cell Type&C0007634
 Cessation&C1880019
 ct thorax&C0202823
 thorax ct&C0202823
-make love&C0009253
+DIEP flap&C5686775
 deformity&C0000768
 Cytotoxic&C0677881
 Cytotoxic&C0304497
 her 2 neu&C0242957
 Radiation&C0034519
 Endocrine&C0014136
-Aesthesia&C0036658
-sensation&C0036658
-aesthetic&C0014901
 F11R gene&C1422839
 F11R Gene&C1422839
 fertility&C0015895
@@ -4851,20 +4847,15 @@ mastopexy&C0191918
 free flap&C0441031
 Free flap&C0441031
 flap free&C0441031
-Expressed&C0017262
-selection&C0036576
 Grade III&C0450094
 fat graft&C0844767
 gray (gy)&C0556636
 Human FSH&C0016774
-Allergies&C0020517
-Placement&C0021107
 Insertion&C0021107
 Implanted&C0021102
 Sterility&C0021359
 infertile&C0021359
 injection&C0021485
-injection&C1533685
 Midaxilla&C0441926
 Lipectomy&C0023765
 lipectomy&C0023765
@@ -4896,15 +4887,12 @@ perfusion&C0031001
 Phyllodes&C2998956
 PET Scans&C0032743
 Puerperal&C0086839
-Projected&C0016538
-Signature&C1514562
 Bone Scan&C0203668
 scan bone&C0203668
 Relapsing&C0035020
 MGC125855&C1420247
 MGC125854&C1420247
 chia seed&C4085254
-screening&C0199230
 Skin flap&C4544564
 Gene, p53&C0079419
 TP53 Gene&C0079419
@@ -4947,7 +4935,6 @@ Alk Phos&C0002059
 anorexia&C0003123
 Anorexia&C0003123
 axillary&C0004454
-baseline&C0168634
 biopsies&C0005558
 FLJ10830&C1539110
 Cachexia&C0006625
@@ -4979,7 +4966,6 @@ ii level&C0441926
 level ii&C0441926
 Level II&C0441926
 localize&C0392752
-Low Risk&C3538919
 M0 stage&C0445034
 MRI scan&C0024485
 MALE SEX&C0086582
@@ -4998,21 +4984,13 @@ Necrosis&C0027540
 necrosis&C0027540
 neoplasm&C0027651
 Birthing&C0011209
-delivery&C0011209
-Surgical&C0543467
 OFDS III&C0406726
 PLB-1001&C4331801
 Pancreas&C0030274
 pancreas&C0030274
 pregnant&C0549206
 Pectoral&C1521735
-position&C0733755
-Ruled in&C1446409
-positive&C1446409
-Positive&C1446409
-forecast&C0016538
 off feet&C0033422
-presence&C0392148
 Quadrant&C1631280
 FLJ10111&C1423923
 FLJ23501&C1423923
@@ -5020,18 +4998,12 @@ MGC12301&C1420247
 SLN gene&C1420247
 scalping&C0036270
 stage iv&C0441772
-staining&C0487602
 subgroup&C1079230
-incision&C0184898
-Swelling&C0038999
-swelling&C0038999
 p53 gene&C0079419
-backbone&C0037949
 Visceral&C0442045
 visceral&C0442045
 CTT scan&C0040405
 anatomic&C0220784
-Targeted&C0599894
 Cyclical&C1511572
 leukemia&C0023418
 olaparib&C2316164
@@ -5042,10 +5014,7 @@ actinio&C0001246
 adenoid&C0001428
 AlkPhos&C0002059
 anaemia&C0002871
-armpits&C0004454
 PPP1R53&C0376571
-tissues&C0040300
-Nursing&C0006147
 HsT2298&C1539110
 Wasting&C0006625
 Dyspnea&C0013404
@@ -5069,8 +5038,6 @@ Nipples&C0028109
 nuclear&C0521447
 Oocytes&C0029045
 ovocyte&C0029045
-Surgery&C0543467
-{Organ}&C0178784
 Ovarian&C0205065
 ovarian&C0205065
 PLB1001&C4331801
@@ -5079,26 +5046,16 @@ PREVENT&C0309872
 Phase 3&C0439561
 phase 3&C0439561
 3 phase&C0439561
-Photons&C0086805
-Feature&C1514562
-relapse&C0035020
-Relapse&C0035020
 TUBULAR&C0151747
-Closure&C0185003
 SH seed&C4085254
 sarcoma&C1261473
 Sarcoma&C1261473
 stage i&C0441766
 stage 1&C0441766
 stage 4&C0441772
-swelled&C0038999
-swollen&C0038999
 Taxanes&C0796419
 Topical&C1522168
-Does WB&C0085086
-healing&C0043240
 CT scan&C0040405
-Process&C1184743
 Mitoxan&C0010583
 mg/sq.m&C1319266
 amenia&C0002453
@@ -5109,7 +5066,6 @@ Axilla&C0004454
 biopsy&C0005558
 Biopsy&C0005558
 ptosis&C0005745
-weight&C0005910
 CAGE-1&C1175872
 Coitus&C0009253
 coitus&C0009253
@@ -5117,53 +5073,40 @@ cystic&C0205207
 Cystic&C0205207
 female&C0086287
 NBIA2A&C0270724
+PET/CT&C4527276
+PET CT&C4527276
 inflam&C0333348
 lancet&C0777169
 Lancet&C0777169
 Lesion&C0221198
 lesion&C0221198
-Degree&C0441889
-levels&C0441889
 cancer&C0006826
-Border&C0205284
 Margin&C0205284
-a mass&C0577559
 medial&C0205098
 Medial&C0205098
-period&C0025344
 menses&C0025344
 Tumour&C0027651
 nipple&C0028109
 Sample&C5551027
 oocyte&C0029045
 oregon&C0029195
-INSERT&C0813036
-Ovaro-&C0205065
 ADPRT1&C1538577
 DFS 70&C1615518
 gravid&C0549206
 Pelvis&C0030797
 pelvis&C0030797
 pelvic&C0030797
-photon&C0086805
-ruling&C1446409
-Probes&C0182400
-Region&C1514562
-Domain&C1514562
 SOCS-2&C0540340
 seroma&C0262627
 Seroma&C0262627
--otomy&C0184898
 taxane&C0796419
-damage&C0010957
-worsen&C0332271
-Repair&C0043240
 PEG-LD&C1522690
 Cyclic&C1511572
 dFdCyd&C0045093
-mating&C1260875
 AHPrBP&C0043603
 taxane&C0215136
+sex: M&C0086582
+Sex: F&C0086287
 BRCA1&C0376571
 RNF53&C0376571
 BRCC1&C0376571
@@ -5176,12 +5119,10 @@ chemo&C0392920
 X-Ray&C0043299
 ERBB2&C0242957
 HER-2&C0242957
-sense&C0036658
 CD321&C1422839
 JAM-1&C1422839
 JAM-A&C1422839
 PAM-1&C1422839
-Focus&C0205234
 Focal&C0205234
 focal&C0205234
 Frail&C0871754
@@ -5198,9 +5139,6 @@ DIAR2&C0341306
 MVID1&C0341306
 NSABP&C1513905
 tumor&C0027651
-Mouth&C0230028
-Organ&C0178784
-organ&C0178784
 PARP1&C1538577
 ARTD1&C1538577
 ADPRT&C1538577
@@ -5209,23 +5147,17 @@ OTF-7&C1310510
 Oct-7&C1310510
 PSIP1&C1615518
 PSIP2&C1615518
-Pivot&C1709557
-ruled&C1446409
-probe&C0182400
-prone&C0033422
 Motif&C1514562
 RAB1A&C1419187
 RNF31&C1423923
+sex:M&C0086582
+Sex:F&C0086287
 ZIBRA&C1423923
 CIS-2&C0540340
 SSI-2&C0540340
-scalp&C0036270
-Stain&C0487602
 Otomy&C0184898
 bulge&C0038999
 TRP53&C0079419
-Spine&C0037949
-worse&C0332271
 T-DM1&C2935436
 CBDCA&C0079083
 erbb2&C0069515
@@ -5258,17 +5190,12 @@ PLAN&C0270724
 Shot&C0021485
 IUCD&C0021900
 lung&C0024109
-Lung&C0024109
-male&C0086582
-mass&C0577559
 MVID&C0341306
 teat&C0028109
 PARS&C1538577
 PPOL&C1538577
 PARP&C1538577
 PAIP&C1615518
-PAGE&C0013862
-rule&C1446409
 PTSD&C0038436
 YPT1&C1419187
 RAB1&C1419187
@@ -5278,7 +5205,6 @@ IMRT&C1512814
 Ring&C1882954
 chia&C4085254
 serm&C0732611
-Skin&C0444099
 SDOH&C3658315
 SABR&C3896609
 SBRT&C3896609
@@ -5290,6 +5216,7 @@ WBRT&C1520143
 heal&C0043240
 ATTM&C0103097
 Stem&C1184743
+DCIS&C0007124
 CAPE&C0671970
 dtap&C3526553
 Tdap&C3526553
@@ -5321,14 +5248,11 @@ ER-&C0279756
 ER+&C0279754
 JAM&C1422839
 FSH&C0016424
-AGE&C0162574
 GYN&C0205480
 HR+&C3640067
 FSH&C0016774
 IUD&C0021900
 MRI&C0024485
-MAN&C0086582
-Mam&C0024671
 MAb&C0003250
 NAG&C1431698
 NCP&C1513887
@@ -5362,27 +5286,19 @@ apd&C0043603
 pr-&C0279766
 TAM&C0039286
 Ac&C0001246
-as&C0003507
-AT&C0004135
-ER&C0014239
 Gy&C0556636
 LD&C0011911
 LE&C0023595
 M0&C0445034
-MG&C0024671
 M1&C0441971
 MT&C0036525
 SM&C5551027
 Os&C0230028
-OR&C0029195
 PT&C0032743
 PR&C0034044
 pr&C0034833
-Re&C0228327
-SS&C0085077
 Td&C3526553
 fg&C0439214
 JM&C0022419
 NG&C0017887
 Pt&C0032207
-G&C0227091
