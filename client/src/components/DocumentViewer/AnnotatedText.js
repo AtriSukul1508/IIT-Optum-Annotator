@@ -174,7 +174,7 @@ const AnnotatedText = ({
         );
       }
 
-      const highlightText = text.substring(highlight.start, highlight.end + 1);
+      const highlightText = text.substring(highlight.start, highlight.end);
       const isSelected = selectedAnnotation && selectedAnnotation.id === highlight.id;
       
       if (highlight.isAutoDetected) {
@@ -214,7 +214,7 @@ const AnnotatedText = ({
         );
       }
 
-      lastIndex = highlight.end + 1;
+      lastIndex = highlight.end;
     });
 
     // Add remaining text
@@ -234,7 +234,7 @@ const AnnotatedText = ({
   const renderTextWithWordHover = (textSegment, startOffset) => {
     const words = textSegment.split(/(\s+)/);
     let currentIndex = startOffset;
-
+    
     return words.map((word, index) => {
       const wordStart = currentIndex;
       const wordEnd = currentIndex + word.length;
@@ -319,3 +319,4 @@ const AnnotatedText = ({
 };
 
 export default AnnotatedText;
+
