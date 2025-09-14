@@ -756,7 +756,7 @@ select:focus-visible {
   font-weight: 500;
 }
 
-.concept-loader {
+.annotate-button,.cdb-upload-button{
   background-color: rgb(230, 126, 34);
   border-radius: 5px;
   color: white;
@@ -764,9 +764,15 @@ select:focus-visible {
   border-radius: 4px;
   font-size: 12px;
   font-weight: 500;
-
+}
+.cdb-upload-button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #4a90e2;
 
 }
+
 
 
 @keyframes spin {
@@ -997,7 +1003,7 @@ input[style*="background: #f8f9fa"] {
   transition: opacity 0.3s ease, transform 0.3s ease;
 }
 
-.concept-loader button,.concept-loader button span{
+.concept-loader,.concept-loader span{
   display: flex;
   align-items: center;
   justify-content: center;

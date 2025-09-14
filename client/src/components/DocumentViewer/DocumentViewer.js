@@ -8,7 +8,7 @@ import ErrorMessage from '../Utils/ErrorMessage';
 import { conceptMatcher, loadBreastCancerConceptsFromFile } from '../../services/conceptMatching';
 import './DocumentViewer.css';
 import AutoFixHighIcon from '@mui/icons-material/AutoFixHigh';
-
+import UploadFileIcon from '@mui/icons-material/UploadFile';
 
 
 const DocumentViewer = () => {
@@ -88,7 +88,25 @@ const DocumentViewer = () => {
       setLoadingConcepts(false);
     }
   };
+// Handle file upload for custom CDB file
+const handleFileUpload = async (event) => {
+  const file = event.target.files?.[0];
+  if (!file) return;
 
+  setLoadingConcepts(true);
+  try {
+    await processConceptFile(file);
+  } catch (error) {
+    alert(`Error uploading concept file: ${error.message}`);
+    console.error('File upload error:', error);
+  } finally {
+    setLoadingConcepts(false);
+    // Reset the file input
+    if (fileInputRef.current) {
+      fileInputRef.current.value = '';
+    }
+  }
+};
 
   // Helper function to process the concept file (from fetch or upload)
   const processConceptFile = async (file) => {
@@ -206,33 +224,52 @@ const DocumentViewer = () => {
         </div>
         
         <div className="concept-controls-body">
-          {!conceptsLoaded ? (
-            <div className="concept-loader">
-                <button 
-                    onClick={handleAutoAnnotate} 
-                    disabled={loadingConcepts}
-                >
-                    {loadingConcepts? 'Annotating...': <span><AutoFixHighIcon/> Auto-annotate</span>}
-                </button>
+        {!conceptsLoaded ? (
+          <div className="concept-loader">
+            <button 
+              onClick={handleAutoAnnotate} 
+              disabled={loadingConcepts}
+              className='annotate-button'
+            >
+              {loadingConcepts? 'Annotating...': <span><AutoFixHighIcon/> Auto-annotate</span>}
+            </button>
 
-            </div>
-          ) : (
-            <div className="concept-controls-actions">
-              <button
-                onClick={toggleAutoHighlights}
-                className={`btn-edit ${showAutoHighlights ? 'active' : ''}`}
-              >
-                {showAutoHighlights ? 'Hide Auto-Highlights' : 'Show Auto-Highlights'}
-              </button>
-              <button
-                onClick={clearConcepts}
-                className="btn-danger"
-              >
-                Clear Annotations
-              </button>
-            </div>
-          )}
-        </div>
+            <button
+              onClick={() => fileInputRef.current?.click()}
+              disabled={loadingConcepts}
+              style={{ marginLeft: '10px' }}
+              className='cdb-upload-button'
+            >
+              <UploadFileIcon/>
+              Upload CDB File
+            </button>
+
+            <input
+              ref={fileInputRef}
+              type="file"
+              accept=".txt"
+              onChange={handleFileUpload}
+              style={{ display: 'none' }}
+              disabled={loadingConcepts}
+            />
+          </div>
+        ) : (
+          <div className="concept-controls-actions">
+            <button
+              onClick={toggleAutoHighlights}
+              className={`btn-edit ${showAutoHighlights ? 'active' : ''}`}
+            >
+              {showAutoHighlights ? 'Hide Auto-Highlights' : 'Show Auto-Highlights'}
+            </button>
+            <button
+              onClick={clearConcepts}
+              className="btn-danger"
+            >
+              Clear Annotations
+            </button>
+          </div>
+        )}
+      </div>
       </div>
 
       <div className="document-viewer-content">
