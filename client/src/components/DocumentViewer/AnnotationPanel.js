@@ -85,7 +85,7 @@ const AnnotationPanel = ({
         cui: selectedAutoMatch.cui,
         value: selectedAutoMatch.value,
         start: selectedAutoMatch.start,
-        end: selectedAutoMatch.end + 1, // Adjust for annotation format
+        end: selectedAutoMatch.end, // Adjust for annotation format
         validated: false,
         correct: true,
         deleted: false,
@@ -165,6 +165,9 @@ const AnnotationPanel = ({
     setAddMode(true);
     setEditMode(false);
     resetNewAnnotationData();
+    // Clear selections
+    onAnnotationSelect(null);
+    updateSelectedTextData(null);
   };
 
   const handleAddSave = async () => {
@@ -197,9 +200,23 @@ const AnnotationPanel = ({
     setLoading(true);
     try {
       const response = await addAnnotation(documentId, newAnnotationData);
-      onAnnotationAdd(response.data);
+      
+      // Handle the new response structure
+      const addedAnnotation = response.data.annotation || response.data;
+      
+      // Update the annotations list
+      onAnnotationAdd(addedAnnotation);
+      
+      // Clear the add mode and reset form
       setAddMode(false);
       resetNewAnnotationData();
+      updateSelectedTextData(null);
+      
+      // Auto-select the newly added annotation to show its details
+      setTimeout(() => {
+        onAnnotationSelect(addedAnnotation);
+      }, 100);
+      
     } catch (error) {
       console.error('Error adding annotation:', error);
       alert('Failed to add annotation: ' + (error.response?.data?.error || error.message));
@@ -276,7 +293,19 @@ const AnnotationPanel = ({
     setEditData({});
   };
 
-  const currentData = editMode ? editData : addMode ? newAnnotationData : selectedAnnotation;
+  // Safe access to current data with fallbacks
+  const getCurrentData = () => {
+    if (editMode && editData) {
+      return editData;
+    } else if (addMode) {
+      return newAnnotationData;
+    } else if (selectedAnnotation) {
+      return selectedAnnotation;
+    }
+    return {};
+  };
+
+  const currentData = getCurrentData();
 
   return (
     <div className="annotation-panel">
@@ -293,39 +322,45 @@ const AnnotationPanel = ({
       <div className="annotation-panel-body">
         {!addMode && !selectedAnnotation && 
         <div className="annotations-list">
-          {annotations.map((annotation) => (
-            <div
-              key={annotation.id}
-              className={`annotation-item ${
-                selectedAnnotation && selectedAnnotation.id === annotation.id ? 'selected' : ''
-              }`}
-              onClick={() => !addMode && onAnnotationSelect(annotation)}
-            >
-              <div className="annotation-header">
-                <div className="annotation-value">{annotation.value}</div>
-                <button
-                  className="inline-delete-btn"
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    handleDelete(annotation.id);
-                  }}
-                  title="Delete annotation"
-                  disabled={loading}
-                >
-                  <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                    <polyline points="3,6 5,6 21,6"/>
-                    <path d="M19,6V20a2,2,0,0,1-2,2H7a2,2,0,0,1-2-2V6M8,6V4a2,2,0,0,1,2-2h4a2,2,0,0,1,2,2V6"/>
-                  </svg>
-                </button>
+          {annotations.map((annotation) => {
+            // Safe access to meta_anns with fallback
+            const metaAnns = annotation.meta_anns || [];
+            const statusValue = metaAnns.length > 0 ? metaAnns[0].value : 'Other';
+            
+            return (
+              <div
+                key={annotation.id}
+                className={`annotation-item ${
+                  selectedAnnotation && selectedAnnotation.id === annotation.id ? 'selected' : ''
+                }`}
+                onClick={() => !addMode && onAnnotationSelect(annotation)}
+              >
+                <div className="annotation-header">
+                  <div className="annotation-value">{annotation.value}</div>
+                  <button
+                    className="inline-delete-btn"
+                    onClick={(e) => {
+                      e.stopPropagation();
+                      handleDelete(annotation.id);
+                    }}
+                    title="Delete annotation"
+                    disabled={loading}
+                  >
+                    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
+                      <polyline points="3,6 5,6 21,6"/>
+                      <path d="M19,6V20a2,2,0,0,1-2,2H7a2,2,0,0,1-2-2V6M8,6V4a2,2,0,0,1,2-2h4a2,2,0,0,1,2,2V6"/>
+                    </svg>
+                  </button>
+                </div>
+                <div className="annotation-meta">
+                  <span className="annotation-cui">{annotation.cui}</span>
+                  <span className={`annotation-status status-${statusValue.toLowerCase()}`}>
+                    {statusValue}
+                  </span>
+                </div>
               </div>
-              <div className="annotation-meta">
-                <span className="annotation-cui">{annotation.cui}</span>
-                <span className={`annotation-status status-${annotation.meta_anns[0]?.value.toLowerCase() || 'other'}`}>
-                  {annotation.meta_anns[0]?.value || 'Other'}
-                </span>
-              </div>
-            </div>
-          ))}
+            );
+          })}
         </div>}
 
         {/* Add New Form */}
@@ -596,7 +631,7 @@ const AnnotationPanel = ({
               <div className="form-group">
                 <label>Status</label>
                 <select
-                  value={currentData.meta_anns?.[0]?.value || 'Other'}
+                  value={(currentData.meta_anns && currentData.meta_anns[0]) ? currentData.meta_anns[0].value : 'Other'}
                   onChange={(e) => handleMetaAnnChange('value', e.target.value)}
                   disabled={loading}
                 >
@@ -771,7 +806,7 @@ const AnnotationPanel = ({
                 <label>Status</label>
                 {editMode ? (
                   <select
-                    value={currentData.meta_anns?.[0]?.value || 'Other'}
+                    value={(currentData.meta_anns && currentData.meta_anns[0]) ? currentData.meta_anns[0].value : 'Other'}
                     onChange={(e) => handleMetaAnnChange('value', e.target.value)}
                     disabled={loading}
                   >
@@ -779,8 +814,8 @@ const AnnotationPanel = ({
                     <option value="Other">Other</option>
                   </select>
                 ) : (
-                  <span className={`status-badge status-${selectedAnnotation.meta_anns?.[0]?.value.toLowerCase() || 'other'}`}>
-                    {selectedAnnotation.meta_anns?.[0]?.value || 'Other'}
+                  <span className={`status-badge status-${((selectedAnnotation.meta_anns && selectedAnnotation.meta_anns[0]) ? selectedAnnotation.meta_anns[0].value : 'Other').toLowerCase()}`}>
+                    {(selectedAnnotation.meta_anns && selectedAnnotation.meta_anns[0]) ? selectedAnnotation.meta_anns[0].value : 'Other'}
                   </span>
                 )}
               </div>
