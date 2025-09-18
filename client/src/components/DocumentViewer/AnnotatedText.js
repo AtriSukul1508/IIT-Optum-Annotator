@@ -199,11 +199,15 @@ const AnnotatedText = ({
           </span>
         );
       } else {
-        // Manual annotation
+        // Manual annotation - Add safe null checks
+        const metaAnns = highlight.meta_anns || [];
+        const firstMetaAnn = metaAnns.length > 0 ? metaAnns[0] : null;
+        const metaAnnValue = firstMetaAnn ? firstMetaAnn.value : 'Other';
+                  
         result.push(
           <span
             key={`annotation-${highlight.id}`}
-            className={`highlighted-text ${isSelected ? 'selected' : ''} status-${highlight.meta_anns[0]?.value.toLowerCase() || 'other'}`}
+            className={`highlighted-text ${isSelected ? 'selected' : ''} status-${metaAnnValue.toLowerCase()}`}
             onClick={() => onAnnotationSelect(highlight)}
             // onMouseEnter={(e) => handleAnnotationMouseEnter(highlight, e)}
             // onMouseLeave={handleAnnotationMouseLeave}
@@ -319,4 +323,3 @@ const AnnotatedText = ({
 };
 
 export default AnnotatedText;
-
