@@ -59,7 +59,7 @@ const AnnotatedText = ({
         beforeRange.selectNodeContents(container);
         beforeRange.setEnd(range.startContainer, range.startOffset);
         const startOffset = beforeRange.toString().length;
-        const endOffset = startOffset + range.toString().length;
+        const endOffset = startOffset + range.toString().length-1;
         
         // Get the position of the selection for the floating button
         const rect = range.getBoundingClientRect();
@@ -323,3 +323,4 @@ const AnnotatedText = ({
 };
 
 export default AnnotatedText;
+
