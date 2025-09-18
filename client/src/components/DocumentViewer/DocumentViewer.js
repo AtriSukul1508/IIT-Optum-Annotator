@@ -6,6 +6,7 @@ import AnnotationPanel from './AnnotationPanel';
 import LoadingSpinner from '../Utils/LoadingSpinner';
 import ErrorMessage from '../Utils/ErrorMessage';
 import { conceptMatcher, loadBreastCancerConceptsFromFile } from '../../services/conceptMatching';
+import { globalConceptManager } from '../../services/globalConceptManager';
 import './DocumentViewer.css';
 import AutoFixHighIcon from '@mui/icons-material/AutoFixHigh';
 import UploadFileIcon from '@mui/icons-material/UploadFile';
@@ -20,27 +21,33 @@ const DocumentViewer = () => {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
 
-  // New state for auto-highlighting
+  // Auto-highlighting state - now managed globally
   const [autoMatches, setAutoMatches] = useState([]);
   const [showAutoHighlights, setShowAutoHighlights] = useState(false);
-  const [conceptsLoaded, setConceptsLoaded] = useState(false);
+  const [globalConceptState, setGlobalConceptState] = useState(globalConceptManager.getState());
   const [loadingConcepts, setLoadingConcepts] = useState(false);
   const [selectedAutoMatch, setSelectedAutoMatch] = useState(null);
-  const [loadedFileName, setLoadedFileName] = useState('');
 
   // Ref for the hidden file input
   const fileInputRef = useRef(null);
 
   useEffect(() => {
     fetchDocument();
+    
+    // Initialize global concept manager
+    globalConceptManager.initializeFromExisting();
+    
+    // Subscribe to global concept changes
+    const unsubscribe = globalConceptManager.subscribe(setGlobalConceptState);
+    return unsubscribe;
   }, [id]);
 
-  // Update auto-matches when document or concepts change
+  // Update auto-matches when document or global concepts change
   useEffect(() => {
-    if (document && conceptsLoaded) {
+    if (document && globalConceptState.conceptsLoaded) {
       updateAutoMatches();
     }
-  }, [document, conceptsLoaded]);
+  }, [document, globalConceptState.conceptsLoaded]);
 
   const fetchDocument = async () => {
     try {
@@ -57,7 +64,7 @@ const DocumentViewer = () => {
   };
 
   const updateAutoMatches = () => {
-    if (!document || !conceptsLoaded) return;
+    if (!document || !globalConceptState.conceptsLoaded) return;
     try {
       const matches = conceptMatcher.findMatches(document.text, document.annotations);
       setAutoMatches(matches);
@@ -67,80 +74,71 @@ const DocumentViewer = () => {
     }
   };
 
-  // NEW: Handle auto-annotation by fetching cdb.txt from the public folder
+  // Handle auto-annotation using default public file
   const handleAutoAnnotate = async () => {
     setLoadingConcepts(true);
     try {
-      // Fetches the file from the public directory of your React app
       const response = await fetch('/cdb.txt');
       if (!response.ok) {
-        throw new Error(`Could not fetch cdb.txt. Please ensure it's in the /public folder. Status: ${response.status}`);
+        throw new Error(`Could not fetch cdb.txt. Status: ${response.status}`);
       }
       const text = await response.text();
       const file = new File([text], "cdb.txt", { type: "text/plain" });
 
-      // Reuse the existing file processing logic
-      await processConceptFile(file);
-
+      const result = await globalConceptManager.loadConcepts(file);
+      if (result.success) {
+        setShowAutoHighlights(true);
+      } else {
+        alert(`Failed to load concepts: ${result.error}`);
+      }
     } catch (error) {
-      alert(`Error loading concepts automatically: ${error.message}`);
+      alert(`Error loading concepts: ${error.message}`);
     } finally {
       setLoadingConcepts(false);
     }
   };
-// Handle file upload for custom CDB file
-const handleFileUpload = async (event) => {
-  const file = event.target.files?.[0];
-  if (!file) return;
 
-  setLoadingConcepts(true);
-  try {
-    await processConceptFile(file);
-  } catch (error) {
-    alert(`Error uploading concept file: ${error.message}`);
-    console.error('File upload error:', error);
-  } finally {
-    setLoadingConcepts(false);
-    // Reset the file input
-    if (fileInputRef.current) {
-      fileInputRef.current.value = '';
-    }
-  }
-};
+  // Handle file upload for custom CDB file
+  const handleFileUpload = async (event) => {
+    const file = event.target.files?.[0];
+    if (!file) return;
 
-  // Helper function to process the concept file (from fetch or upload)
-  const processConceptFile = async (file) => {
-    const result = await loadBreastCancerConceptsFromFile(file);
-    if (result.success) {
-      setConceptsLoaded(true);
-      setLoadedFileName(result.fileName);
-      // alert(result.message);
-      // Auto-enable highlighting after loading
-      setShowAutoHighlights(true);
-    } else {
-      alert(`Failed to load concepts: ${result.error}`);
+    setLoadingConcepts(true);
+    try {
+      const result = await globalConceptManager.loadConcepts(file);
+      if (result.success) {
+        setShowAutoHighlights(true);
+      } else {
+        alert(`Failed to load concepts: ${result.error}`);
+      }
+    } catch (error) {
+      alert(`Error uploading concept file: ${error.message}`);
+    } finally {
+      setLoadingConcepts(false);
+      if (fileInputRef.current) {
+        fileInputRef.current.value = '';
+      }
     }
   };
 
   // Toggle auto-highlighting
   const toggleAutoHighlights = () => {
-    if (!conceptsLoaded) {
+    if (!globalConceptState.conceptsLoaded) {
       alert('Please load breast cancer concepts first');
       return;
     }
     setShowAutoHighlights(!showAutoHighlights);
   };
 
-  // Clear concepts and reset
+  // Clear concepts globally
   const clearConcepts = () => {
-    setConceptsLoaded(false);
+    globalConceptManager.clearConcepts();
     setAutoMatches([]);
     setShowAutoHighlights(false);
-    setLoadedFileName('');
-    conceptMatcher.concepts.clear();
-    conceptMatcher.isLoaded = false;
+    setSelectedAutoMatch(null);
   };
 
+  // Handler functions with improved state management
   const handleAnnotationSelect = (annotation) => {
     setSelectedAnnotation(annotation);
     setSelectedTextData(null);
@@ -161,23 +159,56 @@ const handleFileUpload = async (event) => {
 
   const handleAnnotationUpdate = (updatedAnnotation) => {
     if (!document) return;
+    
+    // Ensure the updated annotation has proper structure
+    const properAnnotation = {
+      ...updatedAnnotation,
+      meta_anns: updatedAnnotation.meta_anns || [{
+        name: 'Status',
+        value: 'Other',
+        acc: 1,
+        validated: false
+      }]
+    };
+    
     const updatedAnnotations = document.annotations.map(ann =>
-      ann.id === updatedAnnotation.id ? updatedAnnotation : ann
+      ann.id === properAnnotation.id ? properAnnotation : ann
     );
+    
     setDocument({ ...document, annotations: updatedAnnotations });
-    if (selectedAnnotation && selectedAnnotation.id === updatedAnnotation.id) {
-      setSelectedAnnotation(updatedAnnotation);
+    
+    if (selectedAnnotation && selectedAnnotation.id === properAnnotation.id) {
+      setSelectedAnnotation(properAnnotation);
     }
     updateAutoMatches();
   };
 
   const handleAnnotationAdd = (newAnnotation) => {
     if (!document) return;
-    const updatedAnnotations = [...document.annotations, newAnnotation];
+    
+    // Ensure the new annotation has proper structure
+    const properAnnotation = {
+      ...newAnnotation,
+      meta_anns: newAnnotation.meta_anns || [{
+        name: 'Status',
+        value: 'Other',
+        acc: 1,
+        validated: false
+      }]
+    };
+    
+    const updatedAnnotations = [...document.annotations, properAnnotation];
     setDocument({ ...document, annotations: updatedAnnotations });
-    setSelectedAnnotation(newAnnotation);
+    
+    // Clear the text selection and auto-match selection
     setSelectedTextData(null);
     setSelectedAutoMatch(null);
+    
+    // Auto-select the new annotation to show its details
+    setTimeout(() => {
+      setSelectedAnnotation(properAnnotation);
+    }, 100);
+    
     updateAutoMatches();
   };
 
@@ -214,62 +245,58 @@ const handleFileUpload = async (event) => {
       <div className="concept-controls">
         <div className="concept-controls-header">
           <h3>Breast Cancer Concept Highlighting</h3>
-          {/* <div className="concept-status">
-            {conceptsLoaded && (
-              <span className="status-loaded">
-                {conceptMatcher.getStats().totalConcepts} concepts loaded from {loadedFileName}
-              </span>
-            )}
-          </div> */}
         </div>
         
         <div className="concept-controls-body">
-        {!conceptsLoaded ? (
-          <div className="concept-loader">
-            <button 
-              onClick={handleAutoAnnotate} 
-              disabled={loadingConcepts}
-              className='annotate-button'
-            >
-              {loadingConcepts? 'Annotating...': <span><AutoFixHighIcon/> Auto-annotate</span>}
-            </button>
+          {!globalConceptState.conceptsLoaded ? (
+            <div className="concept-loader">
+              <button 
+                onClick={handleAutoAnnotate} 
+                disabled={loadingConcepts}
+                className='annotate-button'
+              >
+                {loadingConcepts ? 'Annotating...' : <span><AutoFixHighIcon/> Auto-annotate</span>}
+              </button>
 
-            <button
-              onClick={() => fileInputRef.current?.click()}
-              disabled={loadingConcepts}
-              style={{ marginLeft: '10px' }}
-              className='cdb-upload-button'
-            >
-              <UploadFileIcon/>
-              Upload CDB File
-            </button>
+              <button
+                onClick={() => fileInputRef.current?.click()}
+                disabled={loadingConcepts}
+                style={{ marginLeft: '10px' }}
+                className='cdb-upload-button'
+              >
+                <UploadFileIcon/>
+                Upload a CSV File
+              </button>
 
-            <input
-              ref={fileInputRef}
-              type="file"
-              accept=".txt"
-              onChange={handleFileUpload}
-              style={{ display: 'none' }}
-              disabled={loadingConcepts}
-            />
-          </div>
-        ) : (
-          <div className="concept-controls-actions">
-            <button
-              onClick={toggleAutoHighlights}
-              className={`btn-edit ${showAutoHighlights ? 'active' : ''}`}
-            >
-              {showAutoHighlights ? 'Hide Auto-Highlights' : 'Show Auto-Highlights'}
-            </button>
-            <button
-              onClick={clearConcepts}
-              className="btn-danger"
-            >
-              Clear Annotations
-            </button>
-          </div>
-        )}
-      </div>
+              <input
+                ref={fileInputRef}
+                type="file"
+                accept=".txt"
+                onChange={handleFileUpload}
+                style={{ display: 'none' }}
+                disabled={loadingConcepts}
+              />
+            </div>
+          ) : (
+            <div className="concept-controls-actions">
+              <span className="concepts-loaded-info">
+                Concepts loaded from {globalConceptState.loadedFileName} ({globalConceptState.totalConcepts} concepts)
+              </span>
+              <button
+                onClick={toggleAutoHighlights}
+                className={`btn-edit ${showAutoHighlights ? 'active' : ''}`}
+              >
+                {showAutoHighlights ? 'Hide Auto-Highlights' : 'Show Auto-Highlights'}
+              </button>
+              <button
+                onClick={clearConcepts}
+                className="btn-danger"
+              >
+                Clear Concepts
+              </button>
+            </div>
+          )}
+        </div>
       </div>
 
       <div className="document-viewer-content">
@@ -320,4 +347,3 @@ const handleFileUpload = async (event) => {
 };
 
 export default DocumentViewer;
-
